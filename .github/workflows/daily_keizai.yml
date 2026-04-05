@@ -1,0 +1,49 @@
+name: Daily Economic Report Pipeline
+
+on:
+  schedule:
+    # 毎日 日本時間 08:30 (UTC 23:30) に実行
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+    # 手動実行の有効化
+    inputs:
+      limit:
+        description: 'Number of reports to process'
+        required: true
+        default: '6'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Browsers
+        run: |
+          # Install chromium and its OS dependencies (fonts, libraries)
+          npx playwright install --with-deps chromium
+
+      - name: Run Pipeline
+        run: |
+          # Use local time date string for the directory
+          export PYTHONPATH=$PYTHONPATH:.
+          python3 unified_pipeline.py ${{ github.event.inputs.limit || 6 }}
+
+      - name: Upload NotebookLM Sources
+        uses: actions/upload-artifact@v4
+        with:
+          name: notebooklm-sources-${{ github.run_id }}
+          path: keizai-web/public/reports/*/notebooklm_links.txt
+          retention-days: 7

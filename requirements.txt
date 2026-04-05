@@ -1,0 +1,6 @@
+playwright==1.49.1
+playwright-stealth==1.0.6
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+requests==2.32.3
+pymupdf4llm==0.0.17
