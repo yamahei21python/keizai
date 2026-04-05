@@ -32,8 +32,8 @@ jobs:
 
       - name: Install Playwright Browsers
         run: |
-          # Install chromium and its OS dependencies (fonts, libraries)
-          npx playwright install --with-deps chromium
+          # Use the python playwright command to ensure alignment with the runtime environment
+          python -m playwright install --with-deps chromium
 
       - name: Run Pipeline
         run: |
