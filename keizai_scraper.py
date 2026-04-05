@@ -41,12 +41,21 @@ class KeizaiScraper:
     def get_ranking_reports(self, url: str) -> List[Dict[str, str]]:
         """Equivalent to fetch_ranking.scpt"""
         page = self._setup_page()
-        print(f"[*] Navigating to ranking page: {url}")
         # Increase timeout and wait Strategy for CI environments
-        page.goto(url, wait_until="networkidle", timeout=60000)
+        print(f"[*] Navigating to ranking page: {url}")
+        try:
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            print(f"[DEBUG] Page Title: {page.title()}")
+            
+            # Wait for report items to be visible with longer timeout
+            page.wait_for_selector('a[href*="jump.php"]', timeout=60000)
+        except Exception as e:
+            print(f"[DEBUG] ERROR during ranking fetch: {str(e)}")
+            print(f"[DEBUG] Final URL: {page.url}")
+            print(f"[DEBUG] Page Content (Partial): {page.content()[:1000]}")
+            page.screenshot(path="ranking_error.png")
+            raise
         
-        # Wait for report items to be visible with longer timeout
-        page.wait_for_selector('a[href*="jump.php"]', timeout=60000)
         time.sleep(2)
         content = page.content()
         soup = BeautifulSoup(content, 'html.parser')

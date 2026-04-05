@@ -47,3 +47,12 @@ jobs:
           name: notebooklm-sources-${{ github.run_id }}
           path: keizai-web/public/reports/*/notebooklm_links.txt
           retention-days: 7
+
+      - name: Debug Output on Failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-results-${{ github.run_id }}
+          path: |
+            *.png
+            keizai-web/public/reports/
