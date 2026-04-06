@@ -93,15 +93,16 @@ def main():
 
     # --- Phase 2: Sequential Generation & Download ---
     print("\n=== Phase 2: Generating & Downloading finished reports ===")
-    for nb in notebook_queue:
-        print(f"\n>>> Processing: {nb['name']}...")
+    for i, nb in enumerate(notebook_queue, 1):
+        print(f"\n>>> Processing: {nb['name']} ({i}/{len(notebook_queue)})...")
         run_notebooklm(["use", nb['id']])
         
         # 1. Generate (Wait)
         print(f"[*] Starting briefing-doc generation (waiting)...")
         gen_res = run_notebooklm(["generate", "report", "--format", "briefing-doc", "--wait"])
         if gen_res.returncode != 0:
-            print(f"[!] Generation failed for {nb['name']}. Error: {gen_res.stderr}")
+            error_msg = gen_res.stderr if gen_res.stderr else gen_res.stdout
+            print(f"[!] Generation failed for {nb['name']}. Error: {error_msg}")
             continue
 
         # 2. Download
@@ -114,7 +115,13 @@ def main():
             print(f"[*] Cleaning up: Deleting notebook {nb['id']}...")
             run_notebooklm(["delete", "--notebook", nb['id'], "--yes"])
         else:
-            print(f"[!] Download failed for {nb['name']}. Error: {dl_res.stderr}")
+            error_msg = dl_res.stderr if dl_res.stderr else dl_res.stdout
+            print(f"[!] Download failed for {nb['name']}. Error: {error_msg}")
+        
+        # Rate limiting: Wait between reports to avoid API rate limits
+        if i < len(notebook_queue):
+            print(f"[*] Waiting 10 seconds before next report (rate limiting)...")
+            time.sleep(10)
 
     print("\n=== All Tasks Completed ===")
 
