@@ -36,9 +36,11 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Restore NotebookLM Session
+        env:
+          STORAGE_STATE: ${{ secrets.NOTEBOOKLM_STORAGE_STATE }}
         run: |
           mkdir -p ~/.notebooklm
-          echo "${{ secrets.NOTEBOOKLM_STORAGE_STATE }}" > ~/.notebooklm/storage_state.json
+          printf "%s" "$STORAGE_STATE" > ~/.notebooklm/storage_state.json
           # Ensure the file is not empty to avoid errors
           if [ ! -s ~/.notebooklm/storage_state.json ]; then
             echo "[!] Warning: NOTEBOOKLM_STORAGE_STATE secret is empty or missing! Local testing will work, but CI might need it."
