@@ -136,6 +136,14 @@ class KeizaiScraper:
         try:
             response = req.get("https://api.scraperapi.com/", params=params, timeout=120)
             response.raise_for_status()
+            # Retry if response is truncated (ScraperAPI sometimes returns partial on first attempt)
+            for retry in range(3):
+                if len(response.text) > 200:
+                    break
+                print(f"[DEBUG] Response too short ({len(response.text)} chars), retrying ({retry+1}/3)...")
+                time.sleep(3)
+                response = req.get("https://api.scraperapi.com/", params=params, timeout=120)
+                response.raise_for_status()
             content = response.text
             print(f"[DEBUG] Content length: {len(content)} chars")
         except Exception as e:
