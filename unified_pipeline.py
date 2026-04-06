@@ -1,5 +1,6 @@
 # unified_pipeline.py (Master Intelligence Driver)
 import os
+import sys
 import time
 import subprocess
 import re
@@ -16,7 +17,19 @@ def run_command(cmd, cwd=None):
     """Run a shell command and ensure it succeeds"""
     print(f"\n[*] Running: {' '.join(cmd)}")
     # Use ENV to ensure pathing or use full path if needed
-    result = subprocess.run(cmd, cwd=cwd)
+    # Ensure PATH includes common locations for uv
+    env = os.environ.copy()
+    # Add common uv installation paths to PATH
+    uv_paths = [
+        os.path.expanduser("~/.local/bin"),
+        os.path.expanduser("~/.cargo/bin"),
+        "/usr/local/bin",
+    ]
+    for path in uv_paths:
+        if path not in env.get('PATH', ''):
+            env['PATH'] = f"{path}:{env.get('PATH', '')}"
+    
+    result = subprocess.run(cmd, cwd=cwd, env=env)
     if result.returncode != 0:
         print(f"[!] Warning: Command failed: {' '.join(cmd)}")
     return result.returncode == 0
@@ -24,11 +37,32 @@ def run_command(cmd, cwd=None):
 def main(limit: int = 10):
     print("=== AI Economic Report Master Pipeline (v7.1) ===")
     
-    # 0. Initialize NotebookLM Language (Ensure Japanese)
+    # 0. Find uv executable (needed for NotebookLM operations)
+    import shutil
+    # Find uv in common locations
+    UV_PATH = shutil.which("uv")
+    if UV_PATH is None:
+        # Try common installation paths
+        common_paths = [
+            os.path.expanduser("~/.local/bin/uv"),
+            os.path.expanduser("~/.cargo/bin/uv"),
+            "/usr/local/bin/uv",
+        ]
+        for path in common_paths:
+            if os.path.exists(path):
+                UV_PATH = path
+                break
+    
+    if UV_PATH is None:
+        print("[!] ERROR: 'uv' command not found. Please install uv or ensure it's in PATH.")
+        print("    Installation: https://docs.astral.sh/uv/getting-started/installation/")
+        sys.exit(1)
+    
+    print(f"[*] Using uv from: {UV_PATH}")
+    
+    # 1. Initialize NotebookLM Language (Ensure Japanese)
     # Using 'uv run' to ensure the virtual environment in the lab is used
     print("[*] Setting NotebookLM global language to 'ja' (Japanese)...")
-    import shutil
-    UV_PATH = shutil.which("uv") or "uv"
     run_command([UV_PATH, "run", "python", "-m", "notebooklm", "language", "set", "ja"], cwd="notebooklm-podcast-lab")
 
     # Generate Date and Paths
@@ -89,9 +123,6 @@ def main(limit: int = 10):
     if results:
         # Phase 2: NotebookLM Summarization (Native Briefing Doc)
         print("\n[*] Phase 2: Starting NotebookLM Summarization (Automation)...")
-        # UV_PATH assumed to be in $PATH or standard location
-        import shutil
-        UV_PATH = shutil.which("uv") or "uv"
         run_command([UV_PATH, "run", "python", "generate_individual_notebooks.py"], cwd="notebooklm-podcast-lab")
 
         # Phase 3: Update Web Index (Syncing metadata and file paths)

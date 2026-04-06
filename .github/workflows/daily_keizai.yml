@@ -51,11 +51,22 @@ jobs:
             echo "[!] Warning: NOTEBOOKLM_STORAGE_STATE secret is empty or missing! Local testing will work, but CI might need it."
           fi
 
+      - name: Verify uv installation
+        run: |
+          echo "Checking uv installation..."
+          which uv || echo "uv not found in PATH"
+          uv --version || echo "uv command failed"
+          echo "Current PATH: $PATH"
+
       - name: Run Master Intelligence Pipeline
         env:
           SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: |
           export PYTHONPATH=$PYTHONPATH:.
+          # Ensure uv is in PATH for subprocess calls
+          export PATH="$HOME/.local/bin:$PATH"
+          echo "PATH before running: $PATH"
+          which uv
           # Running the consolidated master driver
           python3 unified_pipeline.py ${{ github.event.inputs.limit || 10 }}
 
