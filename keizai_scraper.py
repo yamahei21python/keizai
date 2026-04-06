@@ -49,7 +49,7 @@ class KeizaiScraper:
         if self.scraperapi_key:
             print(f"[*] ScraperAPI key detected. Using proxy for WAF bypass.")
             context_kwargs["proxy"] = {
-                "server": "http://proxy.scraperapi.com:8001",
+                "server": "http://proxy.scraperapi.com:8080",
                 "username": "scraperapi",
                 "password": self.scraperapi_key
             }
