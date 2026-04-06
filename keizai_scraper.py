@@ -114,33 +114,52 @@ class KeizaiScraper:
             pass
 
     def get_ranking_reports(self, url: str) -> List[Dict[str, str]]:
-        """Equivalent to fetch_ranking.scpt"""
-        page = self._setup_page()
-        # Increase timeout and wait Strategy for CI environments
+        """Fetch ranking via ScraperAPI endpoint (render=true) or Playwright fallback."""
         print(f"[*] Navigating to ranking page: {url}")
-        try:
-            import random
-            time.sleep(random.uniform(1.0, 3.0)) # Random delay before navigation
-            page.goto(url, wait_until="networkidle", timeout=60000)
-            
-            # Simulate interaction
-            self._human_interaction(page)
-            
-            print(f"[DEBUG] Page Title: {page.title()}")
-            
-            # Wait for report items to be visible with longer timeout
-            page.wait_for_selector('a[href*="jump.php"]', timeout=60000)
-        except Exception as e:
-            print(f"[DEBUG] ERROR during ranking fetch: {str(e)}")
-            print(f"[DEBUG] Final URL: {page.url}")
-            print(f"[DEBUG] Page Content (Partial): {page.content()[:1000]}")
-            page.screenshot(path="ranking_error.png")
-            raise
-        
-        time.sleep(2)
-        content = page.content()
+
+        if self.scraperapi_key:
+            # Use ScraperAPI API endpoint - their browser renders JS and bypasses WAF
+            import requests as req
+            api_url = "https://api.scraperapi.com/"
+            params = {
+                "api_key": self.scraperapi_key,
+                "url": url,
+                "render": "true",
+                "country_code": "jp",
+            }
+            print("[*] Using ScraperAPI API endpoint (render=true)...")
+            try:
+                response = req.get(api_url, params=params, timeout=120)
+                response.raise_for_status()
+                content = response.text
+                print(f"[DEBUG] ScraperAPI response length: {len(content)} chars")
+            except Exception as e:
+                print(f"[DEBUG] ScraperAPI API error: {e}")
+                raise
+        else:
+            # Fallback: Playwright (for local use)
+            page = self._setup_page()
+            try:
+                import random
+                time.sleep(random.uniform(1.0, 3.0))
+                page.goto(url, wait_until="networkidle", timeout=60000)
+                self._human_interaction(page)
+                print(f"[DEBUG] Page Title: {page.title()}")
+                page.wait_for_selector('a[href*="jump.php"]', timeout=60000)
+                time.sleep(2)
+                content = page.content()
+            except Exception as e:
+                print(f"[DEBUG] ERROR during ranking fetch: {str(e)}")
+                print(f"[DEBUG] Final URL: {page.url}")
+                print(f"[DEBUG] Page Content (Partial): {page.content()[:500]}")
+                page.screenshot(path="ranking_error.png")
+                raise
+            finally:
+                page.close()
+
         soup = BeautifulSoup(content, 'html.parser')
         jump_links = soup.select('a[href*="jump.php"]')
+        print(f"[DEBUG] Found {len(jump_links)} jump links")
         reports = []
         for link in jump_links:
             href = link.get('href')
@@ -155,8 +174,8 @@ class KeizaiScraper:
                 if not any(r['title'] == title for r in reports):
                     full_href = f"http://www3.keizaireport.com{href}" if href.startswith('/') else href
                     reports.append({"title": title, "jump_url": full_href})
-        page.close()
         return reports
+
 
     def resolve_jump_url(self, jump_url: str) -> Optional[str]:
         """Equivalent to resolve_jump.scpt but with Recursive Deep Discovery."""
