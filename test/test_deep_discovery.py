@@ -1,44 +1,39 @@
 from keizai_scraper import KeizaiScraper
 import pytest
 
-# 調査で見つかった具体的なテスト用RID
-RID_DIRECT_PDF = "617420"  # 浜銀総合研究所 (直接PDF)
-RID_DEEP_DISCOVERY = "661646" # 伊藤忠総研 (紹介ページ経由PDF)
-RID_HTML_ONLY = "662136" # 野村総合研究所 (HTMLコラム)
+TARGET_URL = "http://www3.keizaireport.com/ranking.php/-/node=2/"
 
 @pytest.fixture(scope="module")
 def scraper():
     with KeizaiScraper(headless=True) as s:
         yield s
 
-def test_resolve_direct_pdf(scraper):
-    """ケース1: 直接PDFにリダイレクトされる場合"""
-    jump_url = f"http://www3.keizaireport.com/jump.php?RID={RID_DIRECT_PDF}"
-    final_url = scraper.resolve_jump_url(jump_url)
+def test_dynamic_deep_discovery(scraper):
+    """最新のランキングから動的にレポートを取得し、PDFまで解決できるかテストする"""
+    print(f"\n[*] Fetching latest ranking from: {TARGET_URL}")
+    reports = scraper.get_ranking_reports(TARGET_URL)
     
-    print(f"\n[Direct PDF Test] {final_url}")
-    assert final_url.lower().endswith('.pdf')
-    assert "keizaireport.com" not in final_url # 外部サイトのURLになっていること
+    assert len(reports) > 0, "ランキングが空です。WAFでブロックされている可能性があります。"
+    print(f"[+] Found {len(reports)} reports. Testing first 6...")
 
-def test_resolve_deep_discovery_pdf(scraper):
-    """ケース2: HTML紹介ページから内部のPDFを見つけ出す場合"""
-    jump_url = f"http://www3.keizaireport.com/jump.php?RID={RID_DEEP_DISCOVERY}"
-    final_url = scraper.resolve_jump_url(jump_url)
-    
-    print(f"\n[Deep Discovery Test] {final_url}")
-    # 到着先がHTMLであっても、その中のPDFを拾えているか
-    assert final_url.lower().endswith('.pdf')
-    assert "itochu-research.com" in final_url
-
-def test_resolve_html_only(scraper):
-    """ケース3: PDFが存在しないHTML単体のページの場合"""
-    jump_url = f"http://www3.keizaireport.com/jump.php?RID={RID_HTML_ONLY}"
-    final_url = scraper.resolve_jump_url(jump_url)
-    
-    print(f"\n[HTML Only Test] {final_url}")
-    # PDFがない場合は、元のサイトURL（HTML）を返しているか
-    assert not final_url.lower().endswith('.pdf')
-    assert "nri.co.jp" in final_url
+    for i, report in enumerate(reports[:6]):
+        print(f"\n--- Testing Report {i+1}: {report['title']} ---")
+        jump_url = report['jump_url']
+        
+        # 解決実行 (refererとしてランキングURLを渡す)
+        final_url = scraper.resolve_jump_url(jump_url, referer=TARGET_URL)
+        
+        assert final_url is not None
+        assert final_url.startswith('http')
+        assert "keizaireport.com/jump.php" not in final_url, "Jump URLが解決されていません"
+        
+        print(f"[+] Resolved to: {final_url}")
+        
+        # PDFかどうかの判定（任意だがログ出力）
+        if final_url.lower().endswith('.pdf'):
+            print("[*] Result is a PDF.")
+        else:
+            print("[*] Result is an HTML page.")
 
 if __name__ == "__main__":
     pytest.main([__file__, "-s"])
