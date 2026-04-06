@@ -1,10 +1,6 @@
 {
   "dates": [
-    "20260406",
-    "20260405",
-    "20260404",
-    "20260403",
-    "20260402"
+    "20260406"
   ],
   "reports": [
     {
@@ -22,224 +18,44 @@
       "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
       "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
       "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
-      "summary_file": "keizai-web/public/reports/20260406/Rank2_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 1,
-      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
-      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
-      "source_file": "keizai-web/public/reports/20260405/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 2,
-      "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
-      "source_url": "https://www.ide.go.jp/Japanese/IDEsquare/Eyes/2026/ISQ202620_016.html",
-      "source_file": "keizai-web/public/reports/20260405/Rank2_世界を見る眼なぜ米国イスラエルはこのタイミングでイランを攻撃したのか米国世論の変化から読み解く.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank2_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 3,
-      "title": "日本経済:日本を縛る「縮小均衡ナラティブ」を打ち破れ～新社会人に贈るメッセージ～",
-      "source_url": "https://www.neri.or.jp/050/research/member/column/iida_kaoru/20260403/20260403125201.html",
-      "source_file": "keizai-web/public/reports/20260405/Rank3_日本経済日本を縛る縮小均衡ナラティブを打ち破れ新社会人に贈るメッセージ.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank3_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 4,
-      "title": "高債務下の財政政策と社会保障改革～財政の持続性向上に向けた課題と給付付き税額控除：みずほ経済インサイト 日本経済",
-      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0037/index.html",
-      "source_file": "keizai-web/public/reports/20260405/Rank4_高債務下の財政政策と社会保障改革財政の持続性向上に向けた課題と給付付き税額控除みずほ経済インサイト 日本経済.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank4_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 5,
-      "title": "生成AI時代の仕事を読む「時間差」の視点",
-      "source_url": "https://www.dir.co.jp/report/column/20260403_012404.html",
-      "source_file": "keizai-web/public/reports/20260405/Rank5_生成AI時代の仕事を読む時間差の視点.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank5_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260405",
-      "rank": 6,
-      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
-      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
-      "source_file": "keizai-web/public/reports/20260405/Rank6_ホルムズ海峡と港湾パイプラインの地政学地政学的チョークポイントを巡る攻防.md",
-      "summary_file": "keizai-web/public/reports/20260405/Rank6_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 1,
-      "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=662151&key=115555555573&dj=1",
-      "source_file": "keizai-web/public/reports/20260404/Rank1_世界を見る眼なぜ米国イスラエルはこのタイミングでイランを攻撃したのか米国世論の変化から読み解く.md",
-      "summary_file": "keizai-web/public/reports/20260404/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 2,
-      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
-      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
-      "source_file": "keizai-web/public/reports/20260404/Rank2_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
-      "summary_file": "keizai-web/public/reports/20260404/Rank2_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 3,
-      "title": "日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏",
-      "source_url": "https://www.dlri.co.jp/report/macro/592911.html",
-      "source_file": "keizai-web/public/reports/20260404/Rank3_日銀が利上げすれば投資家は驚いてしまう経済の舞台裏.md",
-      "summary_file": "keizai-web/public/reports/20260404/Rank3_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 4,
-      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
-      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
-      "source_file": "keizai-web/public/reports/20260404/Rank4_ホルムズ海峡と港湾パイプラインの地政学地政学的チョークポイントを巡る攻防.md",
-      "summary_file": "keizai-web/public/reports/20260404/Rank4_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 5,
-      "title": "高債務下の財政政策と社会保障改革～財政の持続性向上に向けた課題と給付付き税額控除：みずほ経済インサイト 日本経済",
-      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0037/index.html",
-      "source_file": "keizai-web/public/reports/20260404/Rank5_高債務下の財政政策と社会保障改革財政の持続性向上に向けた課題と給付付き税額控除みずほ経済インサイト 日本経済.md",
-      "summary_file": "keizai-web/public/reports/20260404/Rank5_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260404",
-      "rank": 6,
-      "title": "米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260403_2.html",
-      "source_file": "keizai-web/public/reports/20260404/Rank6_米国のプライベートクレジットファンドで個人投資家の解約請求が増加木内登英のGlobal Economy  Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
     {
-      "date": "20260403",
-      "rank": 1,
-      "title": "直近でみえてきた日本株の変化～トランプ演説も踏まえた今後の展望：市川レポート",
-      "source_url": "https://www.smd-am.co.jp/market/ichikawa/2026/04/irepo260402/",
-      "source_file": "keizai-web/public/reports/20260403/Rank1_直近でみえてきた日本株の変化トランプ演説も踏まえた今後の展望市川レポート.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260403",
-      "rank": 2,
-      "title": "トランプ大統領演説の影響～今後の攻撃規模とホルムズ海峡の行方が見えるまで不安定な市場は継続：Investment Navigator",
-      "source_url": "https://www.dlri.co.jp/report/macro/592887.html",
-      "source_file": "keizai-web/public/reports/20260403/Rank2_トランプ大統領演説の影響今後の攻撃規模とホルムズ海峡の行方が見えるまで不安定な市場は継続Investment Navigator.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank2_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260403",
+      "date": "20260406",
       "rank": 3,
-      "title": "向こう２～３週間イランを激しく攻撃する考えを示したトランプ大統領演説で、戦争の早期終結期待は再び後退：ホルムズ海峡再開のめどは立たず：木内登英のGlobal Economy ＆ Policy Insi...",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260402_2.html",
-      "source_file": "keizai-web/public/reports/20260403/Rank3_向こう２３週間イランを激しく攻撃する考えを示したトランプ大統領演説で戦争の早期終結期待は再び後退ホルムズ海峡再開のめどは立たず木内登英のGlobal Economy  Policy Insi.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank3_Summary_Briefing.md",
-      "status": "completed"
+      "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
+      "source_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Reuters%20Ipsos%20Iran%20Airstrike%20Topline%203.1.2026.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank3_世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く.md",
+      "summary_file": null,
+      "status": "processing"
     },
     {
-      "date": "20260403",
+      "date": "20260406",
       "rank": 4,
-      "title": "AIエージェントの、その先へ：シンクタンクの着眼点",
-      "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260402.html",
-      "source_file": "keizai-web/public/reports/20260403/Rank4_AIエージェントのその先へシンクタンクの着眼点.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank4_Summary_Briefing.md",
-      "status": "completed"
+      "title": "米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260403_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank4_米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
     },
     {
-      "date": "20260403",
+      "date": "20260406",
       "rank": 5,
-      "title": "イラン情勢は世界経済にとって何を意味するのか：マクロ経済",
-      "source_url": "https://www.alliancebernstein.co.jp/knowledge/35376.html",
-      "source_file": "keizai-web/public/reports/20260403/Rank5_イラン情勢は世界経済にとって何を意味するのかマクロ経済.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank5_Summary_Briefing.md",
-      "status": "completed"
+      "title": "世界のエネルギー危機への対応策～各国はどのような需要抑制策や家計支援策を行っているのか？：Global Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/592934.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank5_世界のエネルギー危機への対応策～各国はどのような需要抑制策や家計支援策を行っているのか？：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
     },
     {
-      "date": "20260403",
+      "date": "20260406",
       "rank": 6,
-      "title": "イラン戦争から約１か月～中間選挙での共和党敗北が現実味を帯びる：US Trends",
-      "source_url": "https://www.dlri.co.jp/report/macro/592893.html",
-      "source_file": "keizai-web/public/reports/20260403/Rank6_イラン戦争から約１か月中間選挙での共和党敗北が現実味を帯びるUS Trends.md",
-      "summary_file": "keizai-web/public/reports/20260403/Rank6_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 1,
-      "title": "富裕層の資産はどこから来るのか？～年齢を重ねるほど効いてくる資産運用：Economic Trends",
-      "source_url": "https://www.dlri.co.jp/report/macro/588192.html",
-      "source_file": "keizai-web/public/reports/20260402/Rank1_富裕層の資産はどこから来るのか年齢を重ねるほど効いてくる資産運用Economic Trends.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 2,
-      "title": "第196回「なぜ日本人の生産性はドイツ人の37%なのか（1）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
-      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/196.html",
-      "source_file": "keizai-web/public/reports/20260402/Rank2_第196回なぜ日本人の生産性はドイツ人の37なのか1失われた30年を生み出した大きな要因IoTAI等デジタル化の経済学.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank2_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 3,
-      "title": "中東の危機と世界の経済",
-      "source_url": "https://www.scgr.co.jp/report/column/2026040179819/",
-      "source_file": "keizai-web/public/reports/20260402/Rank3_中東の危機と世界の経済.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank3_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 4,
-      "title": "半導体関連産業における米中摩擦と中国の戦略的自律性の高まり～サプライチェーン構造分析からのアプローチ",
-      "source_url": "https://www.jspmi.or.jp/system/l_cont.php?ctid=120206&rid=1540",
-      "source_file": "keizai-web/public/reports/20260402/Rank4_半導体関連産業における米中摩擦と中国の戦略的自律性の高まりサプライチェーン構造分析からのアプローチ.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank4_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 5,
-      "title": "トランプ政権を読む『米国出張で感じた「隠れた物価高」』(2026年4月号)",
-      "source_url": "https://www.dlri.co.jp/report/dlri/588123.html",
-      "source_file": "keizai-web/public/reports/20260402/Rank5_トランプ政権を読む米国出張で感じた隠れた物価高2026年4月号.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank5_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260402",
-      "rank": 6,
-      "title": "資産運用業協会、資産運用会社、そして資産運用立国：My Opinion",
-      "source_url": "https://www.dlri.co.jp/report/ld/588203.html",
-      "source_file": "keizai-web/public/reports/20260402/Rank6_資産運用業協会資産運用会社そして資産運用立国My Opinion.md",
-      "summary_file": "keizai-web/public/reports/20260402/Rank6_Summary_Briefing.md",
-      "status": "completed"
+      "title": "日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/592911.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank6_日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
     }
   ]
 }
