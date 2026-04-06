@@ -1,9 +1,13 @@
 import time
 import re
+import os
 from typing import List, Dict, Optional
 from playwright.sync_api import sync_playwright, Page, BrowserContext
 from playwright_stealth import stealth_sync
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class KeizaiScraper:
     def __init__(self, headless: bool = True):
@@ -11,10 +15,10 @@ class KeizaiScraper:
         self.pw = None
         self.browser = None
         self.context = None
+        self.scraperapi_key = os.getenv("SCRAPERAPI_KEY")
 
     def __enter__(self):
         self.pw = sync_playwright().start()
-        # Use Chromium with additional flags for hardened stealth
         self.browser = self.pw.chromium.launch(
             headless=self.headless,
             args=[
@@ -23,8 +27,9 @@ class KeizaiScraper:
                 "--disable-dev-shm-usage"
             ]
         )
-        # Modern UA and consistent context attributes
-        self.context = self.browser.new_context(
+
+        # ScraperAPI proxy config (if key is set)
+        context_kwargs = dict(
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
             viewport={'width': 1280, 'height': 720},
             device_scale_factor=1,
@@ -40,6 +45,19 @@ class KeizaiScraper:
                 "Upgrade-Insecure-Requests": "1"
             }
         )
+
+        if self.scraperapi_key:
+            print(f"[*] ScraperAPI key detected. Using proxy for WAF bypass.")
+            context_kwargs["proxy"] = {
+                "server": "http://proxy.scraperapi.com:8001",
+                "username": "scraperapi",
+                "password": self.scraperapi_key
+            }
+            context_kwargs["ignore_https_errors"] = True
+        else:
+            print("[!] No SCRAPERAPI_KEY found. Running without proxy.")
+
+        self.context = self.browser.new_context(**context_kwargs)
         return self
 
     def __exit__(self, exc_type, exc_val, exc_tb):
