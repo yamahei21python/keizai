@@ -9,7 +9,7 @@ on:
       limit:
         description: 'Number of reports to process'
         required: true
-        default: '10'
+        default: '6'
 
 jobs:
   intelligence:
@@ -76,6 +76,7 @@ jobs:
           commit_message: "🤖 [Auto] Update Daily Economic Intelligence - ${{ github.run_id }}"
           file_pattern: "keizai-web/public/reports/ keizai-web/src/data/reports.json"
           branch: main
+          add_options: '--force'
 
       - name: Debug Output on Failure
         if: failure()
