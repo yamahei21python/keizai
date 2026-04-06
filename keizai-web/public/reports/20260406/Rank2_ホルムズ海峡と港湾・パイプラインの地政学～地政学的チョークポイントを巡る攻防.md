@@ -2,4 +2,4 @@
 
 Source: https://instituteofgeoeconomics.org/research/2026040366/
 
-Generated on 2026-04-06 11:38:44
+Generated on 2026-04-06 12:08:26

@@ -2,4 +2,4 @@
 
 Source: https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf
 
-Generated on 2026-04-06 11:37:37
+Generated on 2026-04-06 12:07:19
