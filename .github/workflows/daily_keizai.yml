@@ -23,7 +23,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cloudflare WARP
-        uses: fscarmen/warp-on-actions@v1.0
+        uses: fscarmen/warp-on-actions@v1.1
+        with:
+          mode: client
 
       - name: Verify IP
         run: curl -s https://ifconfig.me
