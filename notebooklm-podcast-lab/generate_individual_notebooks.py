@@ -108,8 +108,8 @@ def main():
         
         # 2. Poll for report completion and download
         print(f"[*] Polling for report completion...")
-        max_poll_attempts = 30  # 30 attempts = 5 minutes (10 seconds each)
-        poll_interval = 10  # seconds
+        max_poll_attempts = 30  # 30 attempts = 10 minutes (20 seconds each)
+        poll_interval = 20  # seconds
         
         for attempt in range(max_poll_attempts):
             print(f"    - Poll attempt {attempt + 1}/{max_poll_attempts}...")
