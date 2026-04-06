@@ -2,4 +2,4 @@
 
 Source: https://www.nri.com/jp/media/column/kiuchi/20260403_2.html
 
-Generated on 2026-04-06 12:08:43
+Generated on 2026-04-06 12:55:31
