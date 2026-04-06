@@ -139,25 +139,29 @@ class KeizaiScraper:
         
         current_external_url = None
         
-        # Retry loop for proxied phase resilience
-        for attempt in range(3):
-            print(f"    - Resolution Attempt [{attempt+1}/3]...")
+        # Retry loop for proxied phase resilience (5 attempts for high stability)
+        for attempt in range(5):
+            print(f"    - Resolution Attempt [{attempt+1}/5]...")
             context = self._new_proxied_context()
             page = context.new_page()
             stealth_sync(page)
             
             try:
-                # 1. Spoof Referer to bypass WAF direct-access checks
+                # 1. Spoof Referer
                 page.set_extra_http_headers({"Referer": referer})
                 
-                # 2. Directly navigate to the jump URL
-                print(f"      - Directly navigating to jump page with Referer spoofing...")
-                page.goto(jump_url, wait_until="domcontentloaded", timeout=90000)
+                # 2. Directly navigate
+                print(f"      - Directly navigating to jump page...")
+                response = page.goto(jump_url, wait_until="domcontentloaded", timeout=90000)
                 
-                # 3. Redirection / Link Extraction
+                # Immediate retry if page is blocked or empty
+                if not response or response.status >= 400:
+                    print(f"      [!] HTTP Error {response.status if response else 'No Response'}. Retrying...")
+                    continue
+
+                # 3. Redirection / Link Extraction monitoring (Extended to 60s total)
                 print(f"      - Redirection monitoring (Currently at {page.url})...")
-                for _ in range(12): 
-                    # If we already left the domain, we are done
+                for _ in range(20): 
                     if "keizaireport.com" not in page.url:
                         current_external_url = page.url
                         break
@@ -174,6 +178,12 @@ class KeizaiScraper:
                                 print(f"      - Found external URL ({next_link.inner_text().strip() or 'link'}): {href}")
                                 current_external_url = href
                                 break
+                        
+                        # Check for empty content (WAF block)
+                        content = page.content()
+                        if len(content) < 500 and "jump.php" in page.url:
+                            # Too small to be a real page
+                            pass # We wait a bit more, but if it stays small, it will retry after the loop
                     except Exception:
                         pass
                     time.sleep(3)
@@ -190,7 +200,7 @@ class KeizaiScraper:
                 context.close()
 
         if not current_external_url:
-            print(f"    [!] Failed to resolve jump URL after 3 proxied attempts.")
+            print(f"    [!] Failed to resolve jump URL after 5 proxied attempts.")
             return jump_url
 
         # 4. Long-term discovery using DIRECT context (0 credits)
