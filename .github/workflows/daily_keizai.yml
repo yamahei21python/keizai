@@ -45,11 +45,23 @@ jobs:
           # Use the python playwright command to ensure alignment with the runtime environment
           python -m playwright install --with-deps chromium
 
+      - name: Bot Check (Stealth Validation)
+        continue-on-error: true
+        run: |
+          export PYTHONPATH=$PYTHONPATH:.
+          python3 -c "
+          from keizai_scraper import KeizaiScraper
+          with KeizaiScraper(headless=True) as scraper:
+              page = scraper._setup_page()
+              page.goto('https://bot.sannysoft.com/', wait_until='networkidle')
+              page.screenshot(path='bot_check.png', full_page=True)
+          "
+
       - name: Run Pipeline
         run: |
           # Use local time date string for the directory
           export PYTHONPATH=$PYTHONPATH:.
-          python3 unified_pipeline.py ${{ github.event.inputs.limit || 6 }}
+          python3 unified_pipeline.py ${{ github.event.inputs.limit || 10 }}
 
       - name: Upload NotebookLM Sources
         uses: actions/upload-artifact@v4

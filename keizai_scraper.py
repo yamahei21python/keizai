@@ -14,15 +14,30 @@ class KeizaiScraper:
 
     def __enter__(self):
         self.pw = sync_playwright().start()
-        self.browser = self.pw.chromium.launch(headless=self.headless)
-        # Use hardened settings from NRI bypass success
+        # Use Chromium with additional flags for hardened stealth
+        self.browser = self.pw.chromium.launch(
+            headless=self.headless,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox",
+                "--disable-dev-shm-usage"
+            ]
+        )
+        # Modern UA and consistent context attributes
         self.context = self.browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={'width': 1280, 'height': 800},
-            device_scale_factor=2,
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            viewport={'width': 1280, 'height': 720},
+            device_scale_factor=1,
+            locale="ja-JP",
+            timezone_id="Asia/Tokyo",
+            permissions=["geolocation"],
+            color_scheme="dark",
             extra_http_headers={
                 "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-                "Referer": "http://www3.keizaireport.com/"
+                "sec-ch-ua": '"Chromium";v="131", "Not_A Brand";v="24", "Google Chrome";v="131"',
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": '"macOS"',
+                "Upgrade-Insecure-Requests": "1"
             }
         )
         return self
@@ -35,8 +50,50 @@ class KeizaiScraper:
 
     def _setup_page(self) -> Page:
         page = self.context.new_page()
+        # 1. Standard stealth package
         stealth_sync(page)
+        
+        # 2. Additional custom script overrides for headless detection
+        page.add_init_script("""
+            // Override navigator.webdriver
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            
+            // Override chrome.runtime
+            window.chrome = {
+              runtime: {},
+              app: {},
+              csi: () => {},
+              loadTimes: () => {}
+            };
+            
+            // Fix language and fonts
+            Object.defineProperty(navigator, 'languages', { get: () => ['ja-JP', 'ja', 'en-US', 'en'] });
+            
+            // Mask WebGL context
+            const getParameter = WebGLRenderingContext.prototype.getParameter;
+            WebGLRenderingContext.prototype.getParameter = function(parameter) {
+              if (parameter === 37445) return 'Intel Inc.';
+              if (parameter === 37446) return 'Intel(R) Iris(TM) Plus Graphics 640';
+              return getParameter.apply(this, arguments);
+            };
+        """)
         return page
+
+    def _human_interaction(self, page: Page):
+        """Simulate subtle mouse movement and scroll to look more human."""
+        import random
+        try:
+            viewport = page.viewport_size
+            if viewport:
+                # Move mouse to a random point
+                x = random.randint(0, viewport['width'])
+                y = random.randint(0, viewport['height'])
+                page.mouse.move(x, y)
+                # Subtle scroll
+                page.mouse.wheel(0, random.randint(50, 200))
+                time.sleep(random.uniform(0.5, 1.5))
+        except Exception:
+            pass
 
     def get_ranking_reports(self, url: str) -> List[Dict[str, str]]:
         """Equivalent to fetch_ranking.scpt"""
@@ -44,7 +101,13 @@ class KeizaiScraper:
         # Increase timeout and wait Strategy for CI environments
         print(f"[*] Navigating to ranking page: {url}")
         try:
+            import random
+            time.sleep(random.uniform(1.0, 3.0)) # Random delay before navigation
             page.goto(url, wait_until="networkidle", timeout=60000)
+            
+            # Simulate interaction
+            self._human_interaction(page)
+            
             print(f"[DEBUG] Page Title: {page.title()}")
             
             # Wait for report items to be visible with longer timeout
