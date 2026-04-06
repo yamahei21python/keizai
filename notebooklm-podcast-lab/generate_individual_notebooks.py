@@ -8,7 +8,8 @@ import re
 # Configurations
 DATE_STR = time.strftime("%Y%m%d")
 REPORTS_DIR = os.path.join("../keizai-web/public/reports", DATE_STR)
-UV_PATH = "/Users/kohei/.local/bin/uv"
+import shutil
+UV_PATH = shutil.which("uv") or "uv"
 
 def run_notebooklm(args):
     """Run notebooklm command using uv run"""

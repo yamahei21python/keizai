@@ -4,3 +4,4 @@ beautifulsoup4==4.12.3
 python-dotenv==1.0.1
 requests==2.32.3
 pymupdf4llm==0.0.17
+notebooklm-cli[browser]>=0.3.5

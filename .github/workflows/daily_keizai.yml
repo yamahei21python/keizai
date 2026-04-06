@@ -1,22 +1,21 @@
-name: Daily Economic Report Pipeline
+name: Daily Economic Intelligence Master Pipeline
 
 on:
-  push:
-    branches: [main]
   schedule:
     # 毎日 日本時間 08:30 (UTC 23:30) に実行
     - cron: '30 23 * * *'
   workflow_dispatch:
-    # 手動実行の有効化
     inputs:
       limit:
         description: 'Number of reports to process'
         required: true
-        default: '6'
+        default: '10'
 
 jobs:
-  scrape:
+  intelligence:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow pushing updates to the repo
 
     steps:
       - name: Checkout repository
@@ -25,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -34,23 +33,31 @@ jobs:
 
       - name: Install Playwright Browsers
         run: |
-          # Use the python playwright command to ensure alignment with the runtime environment
           python -m playwright install --with-deps chromium
 
-      - name: Run Pipeline
+      - name: Restore NotebookLM Session
+        run: |
+          mkdir -p ~/.notebooklm
+          echo "${{ secrets.NOTEBOOKLM_STORAGE_STATE }}" > ~/.notebooklm/storage_state.json
+          # Ensure the file is not empty to avoid errors
+          if [ ! -s ~/.notebooklm/storage_state.json ]; then
+            echo "[!] Warning: NOTEBOOKLM_STORAGE_STATE secret is empty or missing! Local testing will work, but CI might need it."
+          fi
+
+      - name: Run Master Intelligence Pipeline
         env:
           SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
-          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
         run: |
           export PYTHONPATH=$PYTHONPATH:.
+          # Running the consolidated master driver
           python3 unified_pipeline.py ${{ github.event.inputs.limit || 10 }}
 
-      - name: Upload NotebookLM Sources
-        uses: actions/upload-artifact@v4
+      - name: Commit and Push Updates
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: notebooklm-sources-${{ github.run_id }}
-          path: keizai-web/public/reports/*/notebooklm_links.txt
-          retention-days: 7
+          commit_message: "🤖 [Auto] Update Daily Economic Intelligence - ${{ github.run_id }}"
+          file_pattern: "keizai-web/public/reports/ keizai-web/src/data/reports.json"
+          branch: main
 
       - name: Debug Output on Failure
         if: failure()

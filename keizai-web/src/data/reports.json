@@ -1,11 +1,30 @@
 {
   "dates": [
+    "20260406",
     "20260405",
     "20260404",
     "20260403",
     "20260402"
   ],
   "reports": [
+    {
+      "date": "20260406",
+      "rank": 1,
+      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
+      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
+      "status": "completed"
+    },
+    {
+      "date": "20260406",
+      "rank": 2,
+      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
+      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank2_Summary_Briefing.md",
+      "status": "completed"
+    },
     {
       "date": "20260405",
       "rank": 1,
