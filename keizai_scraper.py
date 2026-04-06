@@ -19,7 +19,8 @@ class KeizaiScraper:
 
     def __enter__(self):
         self.pw = sync_playwright().start()
-        self.browser = self.pw.chromium.launch(
+
+        launch_kwargs = dict(
             headless=self.headless,
             args=[
                 "--disable-blink-features=AutomationControlled",
@@ -28,8 +29,19 @@ class KeizaiScraper:
             ]
         )
 
-        # ScraperAPI proxy config (if key is set)
-        context_kwargs = dict(
+        if self.scraperapi_key:
+            print("[*] ScraperAPI key detected. Using proxy for WAF bypass.")
+            launch_kwargs["proxy"] = {
+                "server": "http://proxy-server.scraperapi.com:8001",
+                "username": "scraperapi",
+                "password": self.scraperapi_key
+            }
+        else:
+            print("[!] No SCRAPERAPI_KEY found. Running without proxy.")
+
+        self.browser = self.pw.chromium.launch(**launch_kwargs)
+
+        self.context = self.browser.new_context(
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
             viewport={'width': 1280, 'height': 720},
             device_scale_factor=1,
@@ -37,6 +49,7 @@ class KeizaiScraper:
             timezone_id="Asia/Tokyo",
             permissions=["geolocation"],
             color_scheme="dark",
+            ignore_https_errors=True,
             extra_http_headers={
                 "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
                 "sec-ch-ua": '"Chromium";v="131", "Not_A Brand";v="24", "Google Chrome";v="131"',
@@ -45,19 +58,6 @@ class KeizaiScraper:
                 "Upgrade-Insecure-Requests": "1"
             }
         )
-
-        if self.scraperapi_key:
-            print(f"[*] ScraperAPI key detected. Using proxy for WAF bypass.")
-            context_kwargs["proxy"] = {
-                "server": "http://proxy.scraperapi.com:8080",
-                "username": "scraperapi",
-                "password": self.scraperapi_key
-            }
-            context_kwargs["ignore_https_errors"] = True
-        else:
-            print("[!] No SCRAPERAPI_KEY found. Running without proxy.")
-
-        self.context = self.browser.new_context(**context_kwargs)
         return self
 
     def __exit__(self, exc_type, exc_val, exc_tb):
