@@ -1,7 +1,10 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import heroImg from './assets/hero_bg.png';
 
-const Landing = ({ onEnter }) => {
+const Landing = () => {
+  const navigate = useNavigate();
+
   return (
     <div className="landing-wrapper">
       {/* Hero Section */}
@@ -20,7 +23,7 @@ const Landing = ({ onEnter }) => {
             戦略的な意思決定のための、即応可能な洞察を提供します。
           </p>
           <div className="hero-actions animate-slide-up">
-            <button className="primary-btn" onClick={onEnter}>
+            <button className="primary-btn" onClick={() => navigate('/')}>
               最新レポートを見る →
             </button>
             <button className="secondary-btn" onClick={() => window.scrollTo({ top: window.innerHeight, behavior: 'smooth' })}>

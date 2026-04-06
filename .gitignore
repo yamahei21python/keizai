@@ -10,3 +10,4 @@ keizai-web/public/reports/
 tmp/
 test/cache/
 .DS_Store
+.vercel

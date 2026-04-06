@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
+import { Routes, Route, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import reportsData from './data/reports.json';
 import Landing from './Landing';
 
 const App = () => {
-  const [view, setView] = useState('landing');
   const [selectedDate, setSelectedDate] = useState(reportsData.dates[0]);
   const [selectedReport, setSelectedReport] = useState(null);
   const [markdownContent, setMarkdownContent] = useState('');
@@ -14,7 +14,6 @@ const App = () => {
 
   useEffect(() => {
     if (selectedReport) {
-      // Fetch the summary markdown
       const path = selectedReport.summary_file ? 
         `/reports/${selectedDate}/Rank${selectedReport.rank}_Summary_Briefing.md` : 
         `/reports/${selectedDate}/${selectedReport.source_file.split('/').pop()}`;
@@ -26,14 +25,10 @@ const App = () => {
     }
   }, [selectedReport, selectedDate]);
 
-  if (view === 'landing') {
-    return <Landing onEnter={() => setView('dashboard')} />;
-  }
-
-  return (
+  const Dashboard = () => (
     <div className="dashboard-container">
       {/* Sidebar: Archive Stack */}
-      <aside className="archive-sidebar">
+      <aside className="archive-sidebar" style={{ position: 'sticky', top: 0, height: '100vh', padding: '2rem', borderRight: '1px solid var(--glass-border)', background: 'var(--bg-surface)' }}>
         <div className="subtitle">アーカイブ</div>
         <h2 style={{ marginBottom: '1.5rem', fontFamily: 'var(--font-serif)', color: 'var(--accent-gold)' }}>タイムライン</h2>
         {reportsData.dates.map(date => (
@@ -57,7 +52,7 @@ const App = () => {
       </aside>
 
       {/* Main Content: Report Grid */}
-      <main className="main-content">
+      <main className="main-content" style={{ flex: 1, padding: '4rem' }}>
         <header>
           <div className="subtitle">経済インテリジェンス</div>
           <h1>{selectedDate.substring(0,4)}.{selectedDate.substring(4,6)}.{selectedDate.substring(6,8)} レポート</h1>
@@ -154,6 +149,13 @@ const App = () => {
         </div>
       )}
     </div>
+  );
+
+  return (
+    <Routes>
+      <Route path="/" element={<Dashboard />} />
+      <Route path="/lp" element={<Landing />} />
+    </Routes>
   );
 };
 
