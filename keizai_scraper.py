@@ -114,40 +114,38 @@ class KeizaiScraper:
             pass
 
     def get_ranking_reports(self, url: str) -> List[Dict[str, str]]:
-        """Fetch ranking using the proxied Playwright browser."""
-        print(f"[*] Navigating to ranking page: {url}")
+        """Fetch ranking via ScraperAPI API mode (render=false, 1 credit).
 
-        page = self._setup_page()
+        The target site detects headless browsers and returns an empty body.
+        Raw HTTP requests via ScraperAPI's residential proxy return the full HTML.
+        """
+        import requests as req
+
+        print(f"[*] Fetching ranking page via ScraperAPI (no JS rendering): {url}")
+
+        if not self.scraperapi_key:
+            raise ValueError("SCRAPERAPI_KEY is missing! Set it in .env or GitHub Secrets.")
+
+        params = {
+            "api_key": self.scraperapi_key,
+            "url": url,
+            "country_code": "jp",
+            # "premium": "true",  # Uncomment for premium IPs if still blocked (10 credits)
+        }
+
         try:
-            # ScraperAPI proxy is set in __enter__, so goto() automatically
-            # routes through ScraperAPI's clean IPs to bypass WAF.
-            page.goto(url, wait_until="networkidle", timeout=60000)
-            self._human_interaction(page)
-
-            print(f"[DEBUG] Page Title: {page.title()}")
-
-            # Check for CAPTCHA challenge pages
-            title = page.title()
-            if "Cloudflare" in title or "Just a moment" in title:
-                print("[!] Warning: CAPTCHA detected, waiting...")
-                page.wait_for_timeout(5000)
-
-            page.wait_for_selector('a[href*="jump.php"]', timeout=60000)
-            time.sleep(2)
-            content = page.content()
-
+            response = req.get("https://api.scraperapi.com/", params=params, timeout=120)
+            response.raise_for_status()
+            content = response.text
+            print(f"[DEBUG] Content length: {len(content)} chars")
         except Exception as e:
-            print(f"[DEBUG] ERROR during ranking fetch: {str(e)}")
-            print(f"[DEBUG] Final URL: {page.url}")
-            print(f"[DEBUG] Page Content (Partial): {page.content()[:500]}")
-            page.screenshot(path="ranking_error.png")
+            print(f"[DEBUG] ScraperAPI request error: {e}")
             raise
-        finally:
-            page.close()
 
         soup = BeautifulSoup(content, 'html.parser')
         jump_links = soup.select('a[href*="jump.php"]')
         print(f"[DEBUG] Found {len(jump_links)} jump links")
+
         reports = []
         for link in jump_links:
             href = link.get('href')
