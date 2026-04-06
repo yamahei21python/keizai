@@ -5,4 +5,4 @@ python-dotenv==1.0.1
 requests==2.32.3
 pymupdf4llm==0.0.17
 notebooklm-py[browser]>=0.3.4
-setuptools
+setuptools==81.0.0
