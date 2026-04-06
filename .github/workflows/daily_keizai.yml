@@ -20,6 +20,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Cloudflare WARP
+        uses: fscarmen/warp-on-actions@v1.0
+        with:
+          stack: ipv4
+
+      - name: Verify IP
+        run: curl -s https://ifconfig.me
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
