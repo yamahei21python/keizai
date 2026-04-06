@@ -84,8 +84,9 @@ def main(limit: int = 10):
         report_list = []
         for r in all_reports:
             title = r['title']
-            if "外務省" in title or "mofa" in r['jump_url'].lower():
-                continue
+            # Removed filter for Ministry of Foreign Affairs reports
+            # if "外務省" in title or "mofa" in r['jump_url'].lower():
+            #     continue
             report_list.append(r)
             if len(report_list) >= limit:
                 break
