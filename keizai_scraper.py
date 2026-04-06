@@ -162,116 +162,142 @@ class KeizaiScraper:
                     reports.append({"title": title, "jump_url": full_href})
         return reports
 
-
     def resolve_jump_url(self, jump_url: str) -> Optional[str]:
-        """Equivalent to resolve_jump.scpt but with Recursive Deep Discovery."""
-        page = self._setup_page()
-        print(f"[*] Resolving jump URL: {jump_url}")
-        
-        final_url = jump_url
-        try:
-            # 1. Access initial jump URL
-            page.goto(jump_url, wait_until="load", timeout=30000)
-            
-            for attempt in range(5):
-                time.sleep(3) 
-                current_url = page.url
-                print(f"    - Current Location [{attempt+1}]: {current_url}")
+        """Resolve jump.php redirect chain via requests + ScraperAPI (no browser needed)."""
+        import requests as req
+        from urllib.parse import urljoin
 
-                if current_url.lower().endswith('.pdf'):
-                    final_url = current_url
-                    break
-                if "keizaireport.com" not in current_url:
-                    final_url = current_url
-                    break
-                
-                # INTERMEDIARY: report.php
-                if "/report.php/" in current_url:
-                    print("    - Intermediary summary page detected. Clicking title link...")
+        print(f"[*] Resolving jump URL: {jump_url}")
+        current_url = jump_url
+
+        session = req.Session()
+        session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+        })
+
+        for attempt in range(8):
+            print(f"    - Current Location [{attempt+1}]: {current_url}")
+
+            # Escaped keizaireport.com URLs - follow via ScraperAPI
+            if "keizaireport.com" in current_url:
+                if self.scraperapi_key:
+                    params = {"api_key": self.scraperapi_key, "url": current_url, "country_code": "jp"}
                     try:
-                        with page.context.expect_page(timeout=10000) as popup_info:
-                            title_link = page.query_selector('h1 a')
-                            if title_link:
-                                title_link.click()
-                                page = popup_info.value
-                                page.wait_for_load_state("load")
-                            else: break
+                        resp = session.get("https://api.scraperapi.com/", params=params, timeout=60, allow_redirects=True)
                     except Exception as e:
-                        if "Download is starting" in str(e):
-                            print(f"    [+] Success: PDF Download started from popup.")
-                            # Capture from error string
-                            url_match = re.search(r'at "(.+)"', str(e))
-                            if url_match: final_url = url_match.group(1)
-                            break
+                        print(f"    [!] Error: {e}")
                         break
+                else:
+                    try:
+                        resp = session.get(current_url, timeout=30, allow_redirects=True)
+                    except Exception as e:
+                        print(f"    [!] Error: {e}")
+                        break
+
+                # Small responses mean truncated/empty - retry up to 3 times
+                for retry in range(3):
+                    if len(resp.text) > 200:
+                        break
+                    print(f"    - Response too short ({len(resp.text)} chars), retrying ({retry+1}/3)...")
+                    time.sleep(2)
+                    try:
+                        if self.scraperapi_key:
+                            resp = session.get("https://api.scraperapi.com/", params=params, timeout=60, allow_redirects=True)
+                        else:
+                            resp = session.get(current_url, timeout=30, allow_redirects=True)
+                    except Exception:
+                        break
+
+                # If HTTP redirect landed outside keizaireport.com, we're done
+                if "keizaireport.com" not in resp.url:
+                    current_url = resp.url
+                    print(f"    - HTTP redirect resolved to: {current_url}")
+                    break
+
+                # Check for meta-refresh redirect in response HTML
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                refresh_tag = soup.find('meta', attrs={'http-equiv': re.compile('refresh', re.I)})
+                if refresh_tag:
+                    content_val = refresh_tag.get('content', '')
+                    match = re.search(r'URL=(.+)', content_val, re.IGNORECASE)
+                    if match:
+                        target = match.group(1).strip().strip('"\'')
+                        if not target.startswith('http'):
+                            target = urljoin(current_url, target)
+                        print(f"    - Following meta-refresh to: {target}")
+                        current_url = target
+                        continue
+
+                # Check for JavaScript window.location.href (even if commented out)
+                js_match = re.search(
+                    r'window\.location\.href\s*=\s*["\']([^"\'\']+)["\']',
+                    resp.text
+                )
+                if js_match:
+                    target = js_match.group(1).strip()
+                    print(f"    - Extracted JS redirect target: {target}")
+                    current_url = target
                     continue
 
-                # REDIRECTOR: jump.php / jump001.php
-                if "jump" in current_url:
-                    content = page.content()
-                    soup = BeautifulSoup(content, 'html.parser')
-                    refresh_tag = soup.find('meta', attrs={'http-equiv': 'Refresh'})
-                    if refresh_tag:
-                        match = re.search(r'URL=(.+)', refresh_tag.get('content', ''), re.IGNORECASE)
-                        if match:
-                            target = match.group(1)
-                            if not target.startswith('http'):
-                                from urllib.parse import urljoin
-                                target = urljoin(page.url, target)
-                            print(f"    - Following meta-refresh to: {target}")
-                            final_url = target # Pre-set
-                            try:
-                                page.goto(target, wait_until="load")
-                            except Exception as e:
-                                if "Download is starting" in str(e):
-                                    final_url = target
-                                    break
-                                raise e
-                            continue
-                    
-                    a_tag = soup.select_one('a[href^="http"]')
-                    if a_tag:
-                        target = a_tag.get('href')
-                        print(f"    - Following redirect link to: {target}")
-                        final_url = target # Pre-set
-                        try:
-                            page.goto(target, wait_until="load")
-                        except Exception as e:
-                            if "Download is starting" in str(e):
-                                final_url = target
-                                break
-                            raise e
-                        continue
-            
-            # Only update final_url from page.url if we haven't already captured a better target
-            if "keizaireport.com" in final_url:
-                final_url = page.url
+                # Check for <a href> redirect link on jump pages
+                a_tag = soup.select_one('a[href^="http"]')
+                if a_tag:
+                    target = a_tag.get('href')
+                    print(f"    - Following anchor redirect to: {target}")
+                    current_url = target
+                    continue
 
-        except Exception as e:
-            if "Download is starting" in str(e):
-                print(f"    [+] Success: Direct PDF download detected.")
-                url_match = re.search(r'at "(.+)"', str(e))
-                if url_match: final_url = url_match.group(1)
+                # report.php intermediary: find title link
+                if "/report.php/" in resp.url:
+                    title_link = soup.select_one('h1 a[href]')
+                    if title_link:
+                        target = title_link.get('href')
+                        if not target.startswith('http'):
+                            target = urljoin(resp.url, target)
+                        print(f"    - Following report.php title link to: {target}")
+                        current_url = target
+                        continue
+
+                # No redirect found - stuck
+                print(f"    [!] No redirect found in page. Content length: {len(resp.text)}")
+                break
+
             else:
-                print(f"    [!] Error resolving jump: {e}")
-                final_url = page.url
-        
-        try:
-            final_url = final_url or page.url
-            if "keizaireport.com" in final_url or not final_url.lower().endswith('.pdf'):
-                if "keizaireport.com" not in final_url and not final_url.lower().endswith('.pdf'):
-                    print("    - Landed on external HTML page. Searching for direct PDF link...")
-                    pdf_link = self._find_pdf_link(page)
-                    if pdf_link:
-                        print(f"    [+] Deep Discovery found PDF: {pdf_link}")
-                        final_url = pdf_link
-            
-            print(f"[+] Final Discovery: {final_url}")
-            return final_url
-        except Exception:
-            return final_url
-        finally:
-            page.close()
+                # Already outside keizaireport.com - final destination reached
+                break
+
+        # If final URL is still a PDF, return as-is
+        if current_url.lower().endswith('.pdf'):
+            print(f"[+] Final Discovery (PDF): {current_url}")
+            return current_url
+
+        # If landed on external page, try to find a PDF link
+        if "keizaireport.com" not in current_url and current_url != jump_url:
+            try:
+                if self.scraperapi_key:
+                    params = {"api_key": self.scraperapi_key, "url": current_url, "country_code": "jp"}
+                    resp = session.get("https://api.scraperapi.com/", params=params, timeout=60)
+                else:
+                    resp = session.get(current_url, timeout=30)
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                for a in soup.find_all('a', href=True):
+                    href = a['href']
+                    if not href.startswith('http'):
+                        href = urljoin(current_url, href)
+                    if href.lower().endswith('.pdf'):
+                        keywords = ["PDF", "全文", "ダウンロード", "Download", "レポート"]
+                        if any(k.upper() in a.get_text().upper() for k in keywords):
+                            print(f"    [+] Deep Discovery found PDF: {href}")
+                            current_url = href
+                            break
+            except Exception as e:
+                print(f"    [!] Deep discovery error: {e}")
+
+        print(f"[+] Final Discovery: {current_url}")
+        return current_url
+
+
 
     def _find_pdf_link(self, page: Page) -> Optional[str]:
         """Search for the best PDF link on the current landing page."""
