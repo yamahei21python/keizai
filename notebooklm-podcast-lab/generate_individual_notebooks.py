@@ -97,31 +97,46 @@ def main():
         print(f"\n>>> Processing: {nb['name']} ({i}/{len(notebook_queue)})...")
         run_notebooklm(["use", nb['id']])
         
-        # 1. Generate (Wait)
-        print(f"[*] Starting briefing-doc generation (waiting)...")
-        gen_res = run_notebooklm(["generate", "report", "--format", "briefing-doc", "--wait"])
+        # 1. Generate with retry and polling
+        print(f"[*] Starting briefing-doc generation...")
+        gen_res = run_notebooklm(["generate", "report", "--format", "briefing-doc", "--retry", "5"])
+        
         if gen_res.returncode != 0:
             error_msg = gen_res.stderr if gen_res.stderr else gen_res.stdout
             print(f"[!] Generation failed for {nb['name']}. Error: {error_msg}")
             continue
-
-        # 2. Download
-        print(f"[*] Harvesting report...")
-        dl_res = run_notebooklm(["download", "report", nb['output']])
         
-        if dl_res.returncode == 0:
-            print(f"[🎉 SUCCESS] Report saved: {nb['output']}")
-            # Cleanup: Delete the notebook after successful download to keep workspace clean
-            print(f"[*] Cleaning up: Deleting notebook {nb['id']}...")
-            run_notebooklm(["delete", "--notebook", nb['id'], "--yes"])
-        else:
-            error_msg = dl_res.stderr if dl_res.stderr else dl_res.stdout
-            print(f"[!] Download failed for {nb['name']}. Error: {error_msg}")
+        # 2. Poll for report completion and download
+        print(f"[*] Polling for report completion...")
+        max_poll_attempts = 30  # 30 attempts = 5 minutes (10 seconds each)
+        poll_interval = 10  # seconds
+        
+        for attempt in range(max_poll_attempts):
+            print(f"    - Poll attempt {attempt + 1}/{max_poll_attempts}...")
+            dl_res = run_notebooklm(["download", "report", nb['output']])
+            
+            if dl_res.returncode == 0:
+                print(f"[🎉 SUCCESS] Report saved: {nb['output']}")
+                # Cleanup: Delete the notebook after successful download to keep workspace clean
+                print(f"[*] Cleaning up: Deleting notebook {nb['id']}...")
+                run_notebooklm(["delete", "--notebook", nb['id'], "--yes"])
+                break
+            else:
+                error_msg = dl_res.stderr if dl_res.stderr else dl_res.stdout
+                if "No completed report artifacts found" in error_msg:
+                    if attempt < max_poll_attempts - 1:
+                        print(f"    - Report not ready yet, waiting {poll_interval} seconds...")
+                        time.sleep(poll_interval)
+                    else:
+                        print(f"[!] Download failed for {nb['name']}. Report did not complete after {max_poll_attempts * poll_interval} seconds.")
+                else:
+                    print(f"[!] Download failed for {nb['name']}. Error: {error_msg}")
+                    break
         
         # Rate limiting: Wait between reports to avoid API rate limits
         if i < len(notebook_queue):
-            print(f"[*] Waiting 10 seconds before next report (rate limiting)...")
-            time.sleep(10)
+            print(f"[*] Waiting 15 seconds before next report (rate limiting)...")
+            time.sleep(15)
 
     print("\n=== All Tasks Completed ===")
 
