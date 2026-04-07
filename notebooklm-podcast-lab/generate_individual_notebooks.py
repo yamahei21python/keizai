@@ -8,6 +8,17 @@ import re
 # Configurations
 DATE_STR = time.strftime("%Y%m%d")
 REPORTS_DIR = os.path.join("../keizai-web/public/reports", DATE_STR)
+# Use date-based directory to avoid conflicts with existing reports
+import shutil
+UV_PATH = shutil.which("uv") or "uv"
+
+def ensure_clean_directory(directory):
+    """Remove existing directory and create fresh one"""
+    if os.path.exists(directory):
+        print(f"[*] Removing existing directory: {directory}")
+        shutil.rmtree(directory)
+    os.makedirs(directory, exist_ok=True)
+        print(f"[+] Created fresh directory: {directory}")
 import shutil
 UV_PATH = shutil.which("uv") or "uv"
 
