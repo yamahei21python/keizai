@@ -14,6 +14,24 @@
     },
     {
       "date": "20260406",
+      "rank": 1,
+      "title": "AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～",
+      "source_url": "https://www8.cao.go.jp/cstp/ai/ai-semi_wg/2kai/siryo1.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank1_AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
+      "status": "completed"
+    },
+    {
+      "date": "20260406",
+      "rank": 2,
+      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
       "rank": 2,
       "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
       "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
@@ -32,6 +50,24 @@
     },
     {
       "date": "20260406",
+      "rank": 3,
+      "title": "NISA普及における地域間較差の要因分析と政策的示唆",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000059905.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank3_NISA普及における地域間較差の要因分析と政策的示唆.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 4,
+      "title": "トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり",
+      "source_url": "http://www.world-economic-review.jp/impact/article4295.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank4_トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
       "rank": 4,
       "title": "米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight",
       "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260403_2.html",
@@ -45,6 +81,24 @@
       "title": "世界のエネルギー危機への対応策～各国はどのような需要抑制策や家計支援策を行っているのか？：Global Trends",
       "source_url": "https://www.dlri.co.jp/files/macro/592934.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank5_世界のエネルギー危機への対応策～各国はどのような需要抑制策や家計支援策を行っているのか？：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 5,
+      "title": "極まる建設業の人手不足から何を読むべきか：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260406.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank5_極まる建設業の人手不足から何を読むべきか：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 6,
+      "title": "日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/chitekishisan_202602/files/000059701.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank6_日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション.md",
       "summary_file": null,
       "status": "processing"
     },
