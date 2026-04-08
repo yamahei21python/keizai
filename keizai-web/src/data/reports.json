@@ -1,9 +1,64 @@
 {
   "dates": [
+    "20260408",
     "20260407",
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260408",
+      "rank": 1,
+      "title": "ナフサ不足の影響と「備蓄資源」としての資源循環",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260407_kuwana.pdf",
+      "source_file": "keizai-web/public/reports/20260408/Rank1_ナフサ不足の影響と「備蓄資源」としての資源循環.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260408",
+      "rank": 2,
+      "title": "イラン戦争はどのように終わるのか～戦略・作戦・終結設計からの考察",
+      "source_url": "https://www.itochu-research.com/ja/column/2026/3196/",
+      "source_file": "keizai-web/public/reports/20260408/Rank2_イラン戦争はどのように終わるのか～戦略・作戦・終結設計からの考察.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260408",
+      "rank": 3,
+      "title": "ホルムズ海峡混乱から再考するエネルギー政策（１） 原油調達の中東依存：シンクタンクの着眼点",
+      "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260407.html",
+      "source_file": "keizai-web/public/reports/20260408/Rank3_ホルムズ海峡混乱から再考するエネルギー政策（１） 原油調達の中東依存：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260408",
+      "rank": 4,
+      "title": "ホルムズ海峡を開放する方法：宮家邦彦のWorld Watch",
+      "source_url": "https://cigs.canon/article/20260407_9805.html",
+      "source_file": "keizai-web/public/reports/20260408/Rank4_ホルムズ海峡を開放する方法：宮家邦彦のWorld Watch.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260408",
+      "rank": 5,
+      "title": "2025年末の家計金融資産は2,351兆円～うち、株式・投信は21.6%、外貨建て資産は5.5%：資産形成白書2026 アップデート・レポート",
+      "source_url": "https://www.daiwa-am.co.jp/hukyu-center/pdf/report/report_20260406.pdf",
+      "source_file": "keizai-web/public/reports/20260408/Rank5_2025年末の家計金融資産は2,351兆円～うち、株式・投信は21.6%、外貨建て資産は5.5%：資産形成白書2026 アップデート・レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260408",
+      "rank": 6,
+      "title": "みずほ経済ウィークリー 2026年4月7日号～底堅い主要統計の裏で広がる原油高の余波",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0038/index.html",
+      "source_file": "keizai-web/public/reports/20260408/Rank6_みずほ経済ウィークリー 2026年4月7日号～底堅い主要統計の裏で広がる原油高の余波.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260407",
       "rank": 1,
