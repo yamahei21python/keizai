@@ -1,10 +1,65 @@
 {
   "dates": [
+    "20260409",
     "20260408",
     "20260407",
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260409",
+      "rank": 1,
+      "title": "図説 日本の証券市場 2026年版",
+      "source_url": "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank1_図説 日本の証券市場 2026年版.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 2,
+      "title": "イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/593037.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank2_イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 3,
+      "title": "日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/geopolitical-risk-column/vol37.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank3_日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 4,
+      "title": "米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260408_2.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank4_米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 5,
+      "title": "米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/ma/flash260408.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank5_米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 6,
+      "title": "米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/593061.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260408",
       "rank": 1,
