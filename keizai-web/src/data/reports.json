@@ -9,6 +9,15 @@
     {
       "date": "20260409",
       "rank": 1,
+      "title": "地経学時代における「経済インテリジェンス」とは：シンクタンクの着眼点",
+      "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260409.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank1_地経学時代における「経済インテリジェンス」とは：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 1,
       "title": "図説 日本の証券市場 2026年版",
       "source_url": "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
       "source_file": "keizai-web/public/reports/20260409/Rank1_図説 日本の証券市場 2026年版.md",
@@ -26,10 +35,37 @@
     },
     {
       "date": "20260409",
+      "rank": 2,
+      "title": "アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=663046&key=115555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260409/Rank2_アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 3,
+      "title": "供給途絶リスクに直面する日本経済",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=662982&key=115555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260409/Rank3_供給途絶リスクに直面する日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
       "rank": 3,
       "title": "日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く",
       "source_url": "https://www.pwc.com/jp/ja/knowledge/column/geopolitical-risk-column/vol37.html",
       "source_file": "keizai-web/public/reports/20260409/Rank3_日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 4,
+      "title": "老後のための資産形成～公私年金・退職金の統合勘定の設計と管理",
+      "source_url": "https://www.jsri.or.jp/publish/research/pdf/134/134_01.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank4_老後のための資産形成～公私年金・退職金の統合勘定の設計と管理.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -48,6 +84,24 @@
       "title": "米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ",
       "source_url": "https://www.mizuhobank.co.jp/forex/pdf/ma/flash260408.pdf",
       "source_file": "keizai-web/public/reports/20260409/Rank5_米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 5,
+      "title": "中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験",
+      "source_url": "https://career-research.mynavi.jp/reserch/20260409_109177/",
+      "source_file": "keizai-web/public/reports/20260409/Rank5_中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 6,
+      "title": "AIは生産性をどの程度高めるか：エコノミスト360°視点",
+      "source_url": "https://www.rieti.go.jp/jp/papers/contribution/morikawa/34.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_AIは生産性をどの程度高めるか：エコノミスト360°視点.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -171,15 +225,6 @@
     {
       "date": "20260406",
       "rank": 1,
-      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
-      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
-      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260406",
-      "rank": 1,
       "title": "AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～",
       "source_url": "https://www8.cao.go.jp/cstp/ai/ai-semi_wg/2kai/siryo1.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank1_AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～.md",
@@ -188,12 +233,12 @@
     },
     {
       "date": "20260406",
-      "rank": 2,
-      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
-      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
-      "summary_file": null,
-      "status": "processing"
+      "rank": 1,
+      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
+      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
+      "status": "completed"
     },
     {
       "date": "20260406",
@@ -206,10 +251,10 @@
     },
     {
       "date": "20260406",
-      "rank": 3,
-      "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
-      "source_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Reuters%20Ipsos%20Iran%20Airstrike%20Topline%203.1.2026.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank3_世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く.md",
+      "rank": 2,
+      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -219,6 +264,15 @@
       "title": "NISA普及における地域間較差の要因分析と政策的示唆",
       "source_url": "https://www.nri.com/jp/knowledge/report/files/000059905.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank3_NISA普及における地域間較差の要因分析と政策的示唆.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 3,
+      "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
+      "source_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Reuters%20Ipsos%20Iran%20Airstrike%20Topline%203.1.2026.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank3_世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く.md",
       "summary_file": null,
       "status": "processing"
     },
