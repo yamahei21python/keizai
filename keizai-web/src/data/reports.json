@@ -1,11 +1,66 @@
 {
   "dates": [
+    "20260410",
     "20260409",
     "20260408",
     "20260407",
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260410",
+      "rank": 1,
+      "title": "中東の混乱が突き付ける日本の教訓とは：Economist Column No.2026-005",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260410/Rank1_中東の混乱が突き付ける日本の教訓とは：Economist Column No.2026-005.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260410",
+      "rank": 2,
+      "title": "国民党主席・鄭麗文訪中の背景と中国の台湾戦略",
+      "source_url": "https://www.scgr.co.jp/report/column/2026041080030/",
+      "source_file": "keizai-web/public/reports/20260410/Rank2_国民党主席・鄭麗文訪中の背景と中国の台湾戦略.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260410",
+      "rank": 3,
+      "title": "消費税減税と給付付き税額控除の効果と課題～物価高で伸び悩む消費が持ち直す起爆剤となるか？～",
+      "source_url": "https://www.murc.jp/wp-content/uploads/2026/04/report_260410_01.pdf",
+      "source_file": "keizai-web/public/reports/20260410/Rank3_消費税減税と給付付き税額控除の効果と課題～物価高で伸び悩む消費が持ち直す起爆剤となるか？～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260410",
+      "rank": 4,
+      "title": "Innovation Nippon「生成AIと日本2026」調査報告書",
+      "source_url": "https://www.glocom.ac.jp/wp-content/uploads/2026/04/InnovationNippon2026_report_full.pdf",
+      "source_file": "keizai-web/public/reports/20260410/Rank4_Innovation Nippon「生成AIと日本2026」調査報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260410",
+      "rank": 5,
+      "title": "中露ドローン 生産ネットワークの分析：NIDS RESEARCH ＆ ANALYSIS 8号",
+      "source_url": "https://www.nids.mod.go.jp/publication/research_analysis/pdf/ra8.pdf",
+      "source_file": "keizai-web/public/reports/20260410/Rank5_中露ドローン 生産ネットワークの分析：NIDS RESEARCH ＆ ANALYSIS 8号.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260410",
+      "rank": 6,
+      "title": "FX Weekly 4月10日号～来週の為替相場見通し ドル円：停戦合意はドル安そして円安",
+      "source_url": "https://market-research.bk.mufg.jp/distribution/54506_ext_01_0.pdf",
+      "source_file": "keizai-web/public/reports/20260410/Rank6_FX Weekly 4月10日号～来週の為替相場見通し ドル円：停戦合意はドル安そして円安.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260409",
       "rank": 1,
