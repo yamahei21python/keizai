@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260412",
     "20260410",
     "20260409",
     "20260408",
@@ -7,6 +8,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260412",
+      "rank": 1,
+      "title": "原油価格再上昇なら世界経済はどうなるか～「米・イ」交渉決裂による最悪シナリオへの警戒が必要～",
+      "source_url": "https://www.myri.co.jp/viewpdf.php?id=f5ad22fb9f5e74c5a09bbf87212e92f64fdb6edfae7d71b3e32ec12992caa619f6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496a91a7cab7d1237fc2a11ed432d5f37524beb229c02ecfcaf41ef6a922f6ca5871dbe79de8c77e729bf510906dd4fb7f6064058f1094751a428e7008b3207aaba6750711245aa3841a27a84fb46f56a6c13b669c7df8776cf51fa7a82af3a5dfcb6a714b3701fbba47649706d1612ffdc8611d98169a59187a987e03a4ed8a5e23d7ac84&tmp=1775811120",
+      "source_file": "keizai-web/public/reports/20260412/Rank1_原油価格再上昇なら世界経済はどうなるか～「米・イ」交渉決裂による最悪シナリオへの警戒が必要～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260412",
+      "rank": 2,
+      "title": "Innovation Nippon「生成AIと日本2026」調査報告書",
+      "source_url": "https://www.glocom.ac.jp/wp-content/uploads/2026/04/InnovationNippon2026_report_full.pdf",
+      "source_file": "keizai-web/public/reports/20260412/Rank2_Innovation Nippon「生成AIと日本2026」調査報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260412",
+      "rank": 3,
+      "title": "原油市場展望 2026年4月号～トピック：すぐには「掘りまくれ」ない米国",
+      "source_url": "https://www.jri.co.jp/MediaLibrary/file/report/oil/pdf/16612.pdf",
+      "source_file": "keizai-web/public/reports/20260412/Rank3_原油市場展望 2026年4月号～トピック：すぐには「掘りまくれ」ない米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260412",
+      "rank": 4,
+      "title": "SDV時代における「人材」",
+      "source_url": "http://jspmi.sakura.ne.jp/material/file/eri/pdf/25-3_SDV.pdf",
+      "source_file": "keizai-web/public/reports/20260412/Rank4_SDV時代における「人材」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260412",
+      "rank": 5,
+      "title": "生成AIと日本 2026【概要版】",
+      "source_url": "https://www.glocom.ac.jp/wp-content/uploads/2026/04/InnovationNippon2026_report-digest.pdf",
+      "source_file": "keizai-web/public/reports/20260412/Rank5_生成AIと日本 2026【概要版】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260412",
+      "rank": 6,
+      "title": "日本はオーバーバンキングなのか：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/macro/593162.pdf",
+      "source_file": "keizai-web/public/reports/20260412/Rank6_日本はオーバーバンキングなのか：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260410",
       "rank": 1,
