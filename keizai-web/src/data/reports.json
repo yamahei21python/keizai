@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260414",
     "20260412",
     "20260410",
     "20260409",
@@ -8,6 +9,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260414",
+      "rank": 1,
+      "title": "デジタルスキル標準 ver.2.0",
+      "source_url": "https://www.meti.go.jp/shingikai/mono_info_service/society_digital/pdf/007_s01_00.pdf",
+      "source_file": "keizai-web/public/reports/20260414/Rank1_デジタルスキル標準 ver.2.0.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260414",
+      "rank": 2,
+      "title": "今こそ知りたい、日本の「石油備蓄」のしくみとは？",
+      "source_url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/government_stockpiled_oil.html",
+      "source_file": "keizai-web/public/reports/20260414/Rank2_今こそ知りたい、日本の「石油備蓄」のしくみとは？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260414",
+      "rank": 3,
+      "title": "ドローン製造戦争：ウクライナ戦争におけるもう一つの戦場",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=663546&key=315555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260414/Rank3_ドローン製造戦争：ウクライナ戦争におけるもう一つの戦場.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260414",
+      "rank": 4,
+      "title": "「ウソ」と「はったり」TACOじいさん",
+      "source_url": "http://www.world-economic-review.jp/impact/article4307.html",
+      "source_file": "keizai-web/public/reports/20260414/Rank4_「ウソ」と「はったり」TACOじいさん.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260414",
+      "rank": 5,
+      "title": "世界で進む「貯蓄から投資へ」～背景にある３つの共通因子と主要各国の動向：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/593202.pdf",
+      "source_file": "keizai-web/public/reports/20260414/Rank5_世界で進む「貯蓄から投資へ」～背景にある３つの共通因子と主要各国の動向：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260414",
+      "rank": 6,
+      "title": "機械受注から見た防衛力強化：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85208_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260414/Rank6_機械受注から見た防衛力強化：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260412",
       "rank": 1,
