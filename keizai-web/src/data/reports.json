@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260507",
     "20260414",
     "20260412",
     "20260410",
@@ -9,6 +10,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260507",
+      "rank": 1,
+      "title": "人手不足の実状と高圧経済政策について（前編）～人手不足から人材不足へ...",
+      "source_url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_51.pdf",
+      "source_file": "keizai-web/public/reports/20260507/Rank1_人手不足の実状と高圧経済政策について（前編）～人手不足から人材不足へ....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260507",
+      "rank": 2,
+      "title": "「笑い」で読み解くワシントン政治：溜池通信Vol.836",
+      "source_url": "http://tameike.net/pdfs8/tame836.PDF",
+      "source_file": "keizai-web/public/reports/20260507/Rank2_「笑い」で読み解くワシントン政治：溜池通信Vol.836.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260507",
+      "rank": 3,
+      "title": "人手不足の実状と高圧経済政策について（後編）～日本経済の課題...",
+      "source_url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_54.pdf",
+      "source_file": "keizai-web/public/reports/20260507/Rank3_人手不足の実状と高圧経済政策について（後編）～日本経済の課題....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260507",
+      "rank": 4,
+      "title": "ラーメン業界の構造変化と今後の展望～Ｍ＆Ａが活発化する背景：NOMURAフード＆アグリビジネス・レビュー Vol.48",
+      "source_url": "https://www.nomuraholdings.com/jp/sustainability/sustainable/services/fabc/report/report20260430_3/main/0/link/20260430_3.pdf",
+      "source_file": "keizai-web/public/reports/20260507/Rank4_ラーメン業界の構造変化と今後の展望～Ｍ＆Ａが活発化する背景：NOMURAフード＆アグリビジネス・レビュー Vol.48.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260507",
+      "rank": 5,
+      "title": "金利正常化における預金の金利感応度の変化～金融機関内外の資金シフトと滞留構造：基礎研レポート",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85471_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260507/Rank5_金利正常化における預金の金利感応度の変化～金融機関内外の資金シフトと滞留構造：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260507",
+      "rank": 6,
+      "title": "「洋菓子店」の倒産動向（2025年度）～原材料高で「利益出ず」 洋菓子店の倒産急増、 前年度の1.3倍",
+      "source_url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/cf528f2f98e242d1b987a6222b0711f3/20260502_%E3%80%8C%E6%B4%8B%E8%8F%93%E5%AD%90%E5%BA%97%E3%80%8D%E3%81%AE%E5%80%92%E7%94%A3%E5%8B%95%E5%90%91.pdf",
+      "source_file": "keizai-web/public/reports/20260507/Rank6_「洋菓子店」の倒産動向（2025年度）～原材料高で「利益出ず」 洋菓子店の倒産急増、 前年度の1.3倍.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260414",
       "rank": 1,
