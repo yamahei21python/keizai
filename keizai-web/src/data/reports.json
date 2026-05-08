@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260508",
     "20260507",
     "20260414",
     "20260412",
@@ -10,6 +11,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260508",
+      "rank": 1,
+      "title": "若者は何にお金を使っているのか：Topics Plus",
+      "source_url": "https://www.sompo-ri.co.jp/topics_plus/20260507-23350/",
+      "source_file": "keizai-web/public/reports/20260508/Rank1_若者は何にお金を使っているのか：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260508",
+      "rank": 2,
+      "title": "新NISA時代の5つの投資家タイプ：リテールビジネス",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202605/files/itf_202605_06.pdf",
+      "source_file": "keizai-web/public/reports/20260508/Rank2_新NISA時代の5つの投資家タイプ：リテールビジネス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260508",
+      "rank": 3,
+      "title": "インド産業アウトルック2026～「グローバル・ハブとしてのインド」の兆し：NRI JOURNAL",
+      "source_url": "https://www.nri.com/jp/media/journal/20260507.html",
+      "source_file": "keizai-web/public/reports/20260508/Rank3_インド産業アウトルック2026～「グローバル・ハブとしてのインド」の兆し：NRI JOURNAL.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260508",
+      "rank": 4,
+      "title": "米国経済：個人消費は雇用停滞で増勢鈍化、株価調整による下方リスク：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/em20260507_2026-039_USA_Consumption.pdf",
+      "source_file": "keizai-web/public/reports/20260508/Rank4_米国経済：個人消費は雇用停滞で増勢鈍化、株価調整による下方リスク：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260508",
+      "rank": 5,
+      "title": "日本の設備投資の現状と課題",
+      "source_url": "https://www.camri.or.jp/files/libs/2361/202605070957419473.pdf",
+      "source_file": "keizai-web/public/reports/20260508/Rank5_日本の設備投資の現状と課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260508",
+      "rank": 6,
+      "title": "第1次オイルショックと令和のオイルショックの比較：供給不足の潜在的リスクはより深刻に：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260507_2.html",
+      "source_file": "keizai-web/public/reports/20260508/Rank6_第1次オイルショックと令和のオイルショックの比較：供給不足の潜在的リスクはより深刻に：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260507",
       "rank": 1,
