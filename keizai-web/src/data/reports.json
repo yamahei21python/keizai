@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260509",
     "20260508",
     "20260507",
     "20260414",
@@ -11,6 +12,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260509",
+      "rank": 1,
+      "title": "AIデータセンター需要の伸びは続くのか？～6万円を超える株価上昇の背景：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/598573.pdf",
+      "source_file": "keizai-web/public/reports/20260509/Rank1_AIデータセンター需要の伸びは続くのか？～6万円を超える株価上昇の背景：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260509",
+      "rank": 2,
+      "title": "評価も給与も十分なはずなのに、従業員が不満を抱くメカニズム：相対的剝奪感",
+      "source_url": "https://career-research.mynavi.jp/column/20260508_109838/",
+      "source_file": "keizai-web/public/reports/20260509/Rank2_評価も給与も十分なはずなのに、従業員が不満を抱くメカニズム：相対的剝奪感.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260509",
+      "rank": 3,
+      "title": "米国経済：個人消費は雇用停滞で増勢鈍化、株価調整による下方リスク：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/em20260507_2026-039_USA_Consumption.pdf",
+      "source_file": "keizai-web/public/reports/20260509/Rank3_米国経済：個人消費は雇用停滞で増勢鈍化、株価調整による下方リスク：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260509",
+      "rank": 4,
+      "title": "欧州の競争力強化の動き（EU、ドイツ、フランス、イタリア、英国）：地域・分析レポート",
+      "source_url": "https://www.jetro.go.jp/biz/areareports/special/2025/1102/79b73577c4764e4e.html",
+      "source_file": "keizai-web/public/reports/20260509/Rank4_欧州の競争力強化の動き（EU、ドイツ、フランス、イタリア、英国）：地域・分析レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260509",
+      "rank": 5,
+      "title": "徐々に現れる日本の中東危機影響～需要抑制や海外経済を通じた影響波及にも注意：みずほ経済インサイト 日本経済",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0044/index.html",
+      "source_file": "keizai-web/public/reports/20260509/Rank5_徐々に現れる日本の中東危機影響～需要抑制や海外経済を通じた影響波及にも注意：みずほ経済インサイト 日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260509",
+      "rank": 6,
+      "title": "日経平均株価６万円について 半導体で説明可能：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/598587.pdf",
+      "source_file": "keizai-web/public/reports/20260509/Rank6_日経平均株価６万円について 半導体で説明可能：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260508",
       "rank": 1,
