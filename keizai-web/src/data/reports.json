@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260511",
     "20260510",
     "20260509",
     "20260508",
@@ -13,6 +14,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260511",
+      "rank": 1,
+      "title": "徐々に現れる日本の中東危機影響～需要抑制や海外経済を通じた影響波及にも注意：みずほ経済インサイト 日本経済",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0044/index.html",
+      "source_file": "keizai-web/public/reports/20260511/Rank1_徐々に現れる日本の中東危機影響～需要抑制や海外経済を通じた影響波及にも注意：みずほ経済インサイト 日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260511",
+      "rank": 2,
+      "title": "AIデータセンター需要の伸びは続くのか？～6万円を超える株価上昇の背景：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/598573.pdf",
+      "source_file": "keizai-web/public/reports/20260511/Rank2_AIデータセンター需要の伸びは続くのか？～6万円を超える株価上昇の背景：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260511",
+      "rank": 3,
+      "title": "評価も給与も十分なはずなのに、従業員が不満を抱くメカニズム：相対的剥奪感",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=666813&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260511/Rank3_評価も給与も十分なはずなのに、従業員が不満を抱くメカニズム：相対的剥奪感.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260511",
+      "rank": 4,
+      "title": "中東紛争直後の金融政策～歴史は韻を踏むのか～",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/05/ebed3aeaf33b1585c566b73ab0823215.pdf",
+      "source_file": "keizai-web/public/reports/20260511/Rank4_中東紛争直後の金融政策～歴史は韻を踏むのか～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260511",
+      "rank": 5,
+      "title": "金融システムに対するAIの脅威～「今そこにある危機」としてのインフラ停止リスク：Reserch Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/598581.pdf",
+      "source_file": "keizai-web/public/reports/20260511/Rank5_金融システムに対するAIの脅威～「今そこにある危機」としてのインフラ停止リスク：Reserch Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260511",
+      "rank": 6,
+      "title": "AIは仕事を変革するが、労働市場の動向を決めるカギは人口動態：仕事と働き方の未来",
+      "source_url": "https://jp.weforum.org/stories/2026/05/how-ai-demographics-change-work-labour-ja/",
+      "source_file": "keizai-web/public/reports/20260511/Rank6_AIは仕事を変革するが、労働市場の動向を決めるカギは人口動態：仕事と働き方の未来.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260510",
       "rank": 1,
