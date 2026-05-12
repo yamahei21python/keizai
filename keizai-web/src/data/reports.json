@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260512",
     "20260511",
     "20260510",
     "20260509",
@@ -14,6 +15,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260512",
+      "rank": 1,
+      "title": "ベッセント米財務長官は日本で何を語るか：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260511_3.html",
+      "source_file": "keizai-web/public/reports/20260512/Rank1_ベッセント米財務長官は日本で何を語るか：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260512",
+      "rank": 2,
+      "title": "ウォーシュ新体制と「ドル離れ」加速の関係：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260511.pdf",
+      "source_file": "keizai-web/public/reports/20260512/Rank2_ウォーシュ新体制と「ドル離れ」加速の関係：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260512",
+      "rank": 3,
+      "title": "変化する旅行の同行者：Topics Plus",
+      "source_url": "https://www.sompo-ri.co.jp/topics_plus/20260511-23366/",
+      "source_file": "keizai-web/public/reports/20260512/Rank3_変化する旅行の同行者：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260512",
+      "rank": 4,
+      "title": "税制之理：金融所得の名寄せと反映が始まる",
+      "source_url": "https://www.japantax.jp/iken/file/20260511_2.pdf",
+      "source_file": "keizai-web/public/reports/20260512/Rank4_税制之理：金融所得の名寄せと反映が始まる.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260512",
+      "rank": 5,
+      "title": "原油高で再燃するインフレリスク～100ドルの原油価格が続けば4％インフレの懸念：みずほ経済インサイト 日本経済",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0045/index.html",
+      "source_file": "keizai-web/public/reports/20260512/Rank5_原油高で再燃するインフレリスク～100ドルの原油価格が続けば4％インフレの懸念：みずほ経済インサイト 日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260512",
+      "rank": 6,
+      "title": "「ちょっとの不便」の価値",
+      "source_url": "https://www.yafo.or.jp/2026/05/10/24119/",
+      "source_file": "keizai-web/public/reports/20260512/Rank6_「ちょっとの不便」の価値.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260511",
       "rank": 1,
