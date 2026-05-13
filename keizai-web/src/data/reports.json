@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260513",
     "20260512",
     "20260511",
     "20260510",
@@ -15,6 +16,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260513",
+      "rank": 1,
+      "title": "中東情勢がサプライチェーンに及ぼす影響 概観",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260512_kuwana.pdf",
+      "source_file": "keizai-web/public/reports/20260513/Rank1_中東情勢がサプライチェーンに及ぼす影響 概観.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260513",
+      "rank": 2,
+      "title": "資産形成白書 2026【全体版】",
+      "source_url": "https://www.daiwa-am.co.jp/hukyu-center/pdf/report/report_20260512.pdf",
+      "source_file": "keizai-web/public/reports/20260513/Rank2_資産形成白書 2026【全体版】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260513",
+      "rank": 3,
+      "title": "みずほ経済ウィークリー 2026年5月12日号～米国経済の死角。歪んだ回復とAI投資のアジア依存",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0047/index.html",
+      "source_file": "keizai-web/public/reports/20260513/Rank3_みずほ経済ウィークリー 2026年5月12日号～米国経済の死角。歪んだ回復とAI投資のアジア依存.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260513",
+      "rank": 4,
+      "title": "不動産データブック2026 ～不動産を科学する～",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=667269&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260513/Rank4_不動産データブック2026 ～不動産を科学する～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260513",
+      "rank": 5,
+      "title": "円安下でも伸び悩む日本の財輸出～今後の財輸出再拡大には何が必要か：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0048/index.html",
+      "source_file": "keizai-web/public/reports/20260513/Rank5_円安下でも伸び悩む日本の財輸出～今後の財輸出再拡大には何が必要か：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260513",
+      "rank": 6,
+      "title": "AI時代、給与だけで暮らすリスク～会社員に必要な「人的資本」と「金融資本」の二刀流：Reserch Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/606962.pdf",
+      "source_file": "keizai-web/public/reports/20260513/Rank6_AI時代、給与だけで暮らすリスク～会社員に必要な「人的資本」と「金融資本」の二刀流：Reserch Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260512",
       "rank": 1,
