@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260514",
     "20260513",
     "20260512",
     "20260511",
@@ -16,6 +17,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260514",
+      "rank": 1,
+      "title": "沈黙する上司～健全な関係を築く対話デザイン～",
+      "source_url": "https://career-research.mynavi.jp/column/20260513_110437/",
+      "source_file": "keizai-web/public/reports/20260514/Rank1_沈黙する上司～健全な関係を築く対話デザイン～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260514",
+      "rank": 2,
+      "title": "中国EV産業の課題と今後の方向性：Economist Column No.2026-022",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260514/Rank2_中国EV産業の課題と今後の方向性：Economist Column No.2026-022.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260514",
+      "rank": 3,
+      "title": "日本にとっての海上交通の重要性～ホルムズ海峡危機と将来の台湾有事における物資供給を考える：海の論考 OPRI Perspectives",
+      "source_url": "https://www.spf.org/opri/publication/perspectives/prsp_037_2026_kobayashi.html",
+      "source_file": "keizai-web/public/reports/20260514/Rank3_日本にとっての海上交通の重要性～ホルムズ海峡危機と将来の台湾有事における物資供給を考える：海の論考 OPRI Perspectives.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260514",
+      "rank": 4,
+      "title": "米国プライベート・クレジット・ファンド市場の混乱と論点整理：プライベート・クレジット市場の動揺",
+      "source_url": "https://www.nicmr.com/ja/report/capitalmarket/report_vol29-4/main/011/teaserItems1/015/link/2026spr03.pdf",
+      "source_file": "keizai-web/public/reports/20260514/Rank4_米国プライベート・クレジット・ファンド市場の混乱と論点整理：プライベート・クレジット市場の動揺.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260514",
+      "rank": 5,
+      "title": "研究叢書「人口と社会 データで読み解く世界と日本」",
+      "source_url": "https://ipss.repo.nii.ac.jp/record/2000706/files/%E4%BA%BA%E5%8F%A3%E3%81%A8%E7%A4%BE%E4%BC%9A%20%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%A8%E6%97%A5%E6%9C%AC.pdf",
+      "source_file": "keizai-web/public/reports/20260514/Rank5_研究叢書「人口と社会 データで読み解く世界と日本」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260514",
+      "rank": 6,
+      "title": "今後の電力需給を見据えた原子力発電の見通し・将来像について",
+      "source_url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/046_02_00.pdf",
+      "source_file": "keizai-web/public/reports/20260514/Rank6_今後の電力需給を見据えた原子力発電の見通し・将来像について.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260513",
       "rank": 1,
