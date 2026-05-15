@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260515",
     "20260514",
     "20260513",
     "20260512",
@@ -17,6 +18,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260515",
+      "rank": 1,
+      "title": "本格化する「金利のある世界」と日本経済～家計の資産選択シフトを踏まえた先行きシミュレーション：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0049/index.html",
+      "source_file": "keizai-web/public/reports/20260515/Rank1_本格化する「金利のある世界」と日本経済～家計の資産選択シフトを踏まえた先行きシミュレーション：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260515",
+      "rank": 2,
+      "title": "それでもリスクは2022年の再来 世界同時引き締めも：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/607050.pdf",
+      "source_file": "keizai-web/public/reports/20260515/Rank2_それでもリスクは2022年の再来 世界同時引き締めも：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260515",
+      "rank": 3,
+      "title": "原油・ナフサの代替ルートでの調達を進めても、供給不足と価格高騰のリスクは高まっていく（1～3月期GDP統計の見通し）：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260514.html",
+      "source_file": "keizai-web/public/reports/20260515/Rank3_原油・ナフサの代替ルートでの調達を進めても、供給不足と価格高騰のリスクは高まっていく（1～3月期GDP統計の見通し）：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260515",
+      "rank": 4,
+      "title": "原油高で先行きの日本経済はどうなるか～過去の原油高局面の振り返りと示唆：リサーチ・フォーカス No.2026-011",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260515/Rank4_原油高で先行きの日本経済はどうなるか～過去の原油高局面の振り返りと示唆：リサーチ・フォーカス No.2026-011.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260515",
+      "rank": 5,
+      "title": "熊を撃って人を怖れるようにすることが唯一の共存の道だ",
+      "source_url": "https://cigs.canon/article/20260514_9874.html",
+      "source_file": "keizai-web/public/reports/20260515/Rank5_熊を撃って人を怖れるようにすることが唯一の共存の道だ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260515",
+      "rank": 6,
+      "title": "テレワークは日本に定着したのか～Covid-19後の日本のテレワーク動向と仕事へのインパクト：未来創発センター 研究レポート Vol.24",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000060834.pdf",
+      "source_file": "keizai-web/public/reports/20260515/Rank6_テレワークは日本に定着したのか～Covid-19後の日本のテレワーク動向と仕事へのインパクト：未来創発センター 研究レポート Vol.24.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260514",
       "rank": 1,
