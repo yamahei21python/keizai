@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260517",
     "20260516",
     "20260515",
     "20260514",
@@ -19,6 +20,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260517",
+      "rank": 1,
+      "title": "イラン戦争における米国版「失敗の本質」：溜池通信Vol.837",
+      "source_url": "http://tameike.net/pdfs8/tame837.PDF",
+      "source_file": "keizai-web/public/reports/20260517/Rank1_イラン戦争における米国版「失敗の本質」：溜池通信Vol.837.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260517",
+      "rank": 2,
+      "title": "長期国債利回りの急上昇にどう対応するか：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=667802&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260517/Rank2_長期国債利回りの急上昇にどう対応するか：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260517",
+      "rank": 3,
+      "title": "本格化する「金利のある世界」と日本経済～家計の資産選択シフトを踏まえた先行きシミュレーション：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0049/index.html",
+      "source_file": "keizai-web/public/reports/20260517/Rank3_本格化する「金利のある世界」と日本経済～家計の資産選択シフトを踏まえた先行きシミュレーション：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260517",
+      "rank": 4,
+      "title": "中国：トランプ大統領訪中を終えて～膠着する両国の関係性は当面継続か：通貨ニュース",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/news/ccy260515_cny.pdf",
+      "source_file": "keizai-web/public/reports/20260517/Rank4_中国：トランプ大統領訪中を終えて～膠着する両国の関係性は当面継続か：通貨ニュース.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260517",
+      "rank": 5,
+      "title": "新入社員の価値観～1997年度と比べてどう変わった？～",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=667832&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260517/Rank5_新入社員の価値観～1997年度と比べてどう変わった？～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260517",
+      "rank": 6,
+      "title": "最近気になる放送用語：「生きざま」という言い方は、だめですか？",
+      "source_url": "https://www.nhk.or.jp/bunken-articles/terms/675633.html",
+      "source_file": "keizai-web/public/reports/20260517/Rank6_最近気になる放送用語：「生きざま」という言い方は、だめですか？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260516",
       "rank": 1,
