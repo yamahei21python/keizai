@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260518",
     "20260517",
     "20260516",
     "20260515",
@@ -20,6 +21,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260518",
+      "rank": 1,
+      "title": "イラン戦争における米国版「失敗の本質」：溜池通信Vol.837",
+      "source_url": "http://tameike.net/pdfs8/tame837.PDF",
+      "source_file": "keizai-web/public/reports/20260518/Rank1_イラン戦争における米国版「失敗の本質」：溜池通信Vol.837.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260518",
+      "rank": 2,
+      "title": "新入社員の価値観～1997年度と比べてどう変わった？～",
+      "source_url": "https://www.okb-kri.jp/wp-content/uploads/2026/05/%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BE%A1%E5%80%A4%E8%A6%B3%EF%BD%9E1997%E5%B9%B4%E5%BA%A6%E3%81%A8%E6%AF%94%E3%81%B9%E3%81%A6%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%EF%BC%9F%EF%BD%9E.pdf",
+      "source_file": "keizai-web/public/reports/20260518/Rank2_新入社員の価値観～1997年度と比べてどう変わった？～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260518",
+      "rank": 3,
+      "title": "トゥキディデスの罠とドンロー主義：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260515_2.html",
+      "source_file": "keizai-web/public/reports/20260518/Rank3_トゥキディデスの罠とドンロー主義：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260518",
+      "rank": 4,
+      "title": "我が国ものづくり産業の課題と対応の方向性に関する調査 令和7年度",
+      "source_url": "https://www.meti.go.jp/meti_lib/report/2025FY/report_202605151019_1.pdf",
+      "source_file": "keizai-web/public/reports/20260518/Rank4_我が国ものづくり産業の課題と対応の方向性に関する調査 令和7年度.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260518",
+      "rank": 5,
+      "title": "建築費高騰がもたらす都市再開発の変容 ～上がる建築費を前提に、デベロッパーは戦略転換を迫られる～",
+      "source_url": "https://www.myri.co.jp/viewpdf.php?id=a6af2bf0c20c7cc4f3c9bdd6272ec7f41cd2648af97677b0b07ec32e96c9a14cf6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496ac2f3c9bddc2622c7a74987618ffb2627b0e77b9428c5cba31aa0ae22f39b5871dbe79de8c77e729bf510906dd9fd7f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61dd362ddfe65a70108f6639010647dca1634fe7840ddea7c7f4b35cb357fc7e6109e&tmp=1778823133",
+      "source_file": "keizai-web/public/reports/20260518/Rank5_建築費高騰がもたらす都市再開発の変容 ～上がる建築費を前提に、デベロッパーは戦略転換を迫られる～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260518",
+      "rank": 6,
+      "title": "1分でわかるトレンド解説：【1分解説】ナフサ危機（ナフサショック）とは？",
+      "source_url": "https://www.dlri.co.jp/files/ld/607029.pdf",
+      "source_file": "keizai-web/public/reports/20260518/Rank6_1分でわかるトレンド解説：【1分解説】ナフサ危機（ナフサショック）とは？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260517",
       "rank": 1,
