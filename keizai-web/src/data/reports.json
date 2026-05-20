@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260520",
     "20260518",
     "20260517",
     "20260516",
@@ -21,6 +22,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260520",
+      "rank": 1,
+      "title": "世界的な金利上昇を受けて～No Free Lunch～：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260519.pdf",
+      "source_file": "keizai-web/public/reports/20260520/Rank1_世界的な金利上昇を受けて～No Free Lunch～：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260520",
+      "rank": 2,
+      "title": "最近の長期金利上昇と賃上げの関係 労働者の怒りに注意：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/607250.pdf",
+      "source_file": "keizai-web/public/reports/20260520/Rank2_最近の長期金利上昇と賃上げの関係 労働者の怒りに注意：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260520",
+      "rank": 3,
+      "title": "長期金利の上昇が日本株に与える影響について考える：市川レポート",
+      "source_url": "https://www.smd-am.co.jp/market/ichikawa/2026/05/irepo260519.pdf",
+      "source_file": "keizai-web/public/reports/20260520/Rank3_長期金利の上昇が日本株に与える影響について考える：市川レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260520",
+      "rank": 4,
+      "title": "日本経済展望2026年5月号～トピックス：乖離が広がる日経平均株価とTOPIX / 在米現地法人、トランプ関税下でも底堅い収益",
+      "source_url": "https://www.jri.co.jp/MediaLibrary/file/report/japan/pdf/16708.pdf",
+      "source_file": "keizai-web/public/reports/20260520/Rank4_日本経済展望2026年5月号～トピックス：乖離が広がる日経平均株価とTOPIX  在米現地法人、トランプ関税下でも底堅い収益.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260520",
+      "rank": 5,
+      "title": "グローバル経済と主要産業の動向 2026年4月～トピックス：人手不足感と乖離する失業率 / ドイツの公共投資、防衛とインフラで大きな差",
+      "source_url": "https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf?version=260519",
+      "source_file": "keizai-web/public/reports/20260520/Rank5_グローバル経済と主要産業の動向 2026年4月～トピックス：人手不足感と乖離する失業率  ドイツの公共投資、防衛とインフラで大きな差.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260520",
+      "rank": 6,
+      "title": "日本の外国人政策の現在地～企業はどのように対応すべきか：ビューポイント No.2026-005",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260520/Rank6_日本の外国人政策の現在地～企業はどのように対応すべきか：ビューポイント No.2026-005.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260518",
       "rank": 1,
