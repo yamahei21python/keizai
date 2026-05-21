@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260521",
     "20260520",
     "20260518",
     "20260517",
@@ -22,6 +23,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260521",
+      "rank": 1,
+      "title": "世界・日本経済の展望 2026年5月～中東からの供給制約に直面する世界、問われる経済の強靱性",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/ecooutlook/2026/i5inlu000003w6wz-att/nr20260520pec_all.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank1_世界・日本経済の展望 2026年5月～中東からの供給制約に直面する世界、問われる経済の強靱性.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260521",
+      "rank": 2,
+      "title": "ダークな性格特性と昇進・賃金～パワーハラスメント解明のための考察",
+      "source_url": "https://www.rieti.go.jp/jp/publications/dp/26j027.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank2_ダークな性格特性と昇進・賃金～パワーハラスメント解明のための考察.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260521",
+      "rank": 3,
+      "title": "ペロブスカイト太陽電池の需要創出に向けて",
+      "source_url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank3_ペロブスカイト太陽電池の需要創出に向けて.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260521",
+      "rank": 4,
+      "title": "生成AIの普及とデータセンターの地方分散",
+      "source_url": "https://www.ares.or.jp/journal/pdf/ARES99p21-37.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank4_生成AIの普及とデータセンターの地方分散.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260521",
+      "rank": 5,
+      "title": "基軸通貨ドルの地位は揺らぐのか：今月のトピックスNo.444",
+      "source_url": "https://www.dbj.jp/upload/investigate/docs/ab3351f5055b5ecc1ae6214f47263540.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank5_基軸通貨ドルの地位は揺らぐのか：今月のトピックスNo.444.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260521",
+      "rank": 6,
+      "title": "米国経済：インフレで消費足踏み、AI投資の牽引が顕著（改定見通し）：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/em20260520_2026-043_USA.pdf",
+      "source_file": "keizai-web/public/reports/20260521/Rank6_米国経済：インフレで消費足踏み、AI投資の牽引が顕著（改定見通し）：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260520",
       "rank": 1,
