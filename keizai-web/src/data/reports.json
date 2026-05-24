@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260524",
     "20260523",
     "20260521",
     "20260520",
@@ -24,6 +25,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260524",
+      "rank": 1,
+      "title": "電子部品に係る重要技術動向調査 令和5年度",
+      "source_url": "https://www.meti.go.jp/meti_lib/report/2023FY/000643.pdf",
+      "source_file": "keizai-web/public/reports/20260524/Rank1_電子部品に係る重要技術動向調査 令和5年度.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260524",
+      "rank": 2,
+      "title": "日経平均株価のルール改定案を公表～情報通信セクター新設と銘柄入れ替えルールの見直し：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85595_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260524/Rank2_日経平均株価のルール改定案を公表～情報通信セクター新設と銘柄入れ替えルールの見直し：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260524",
+      "rank": 3,
+      "title": "長期金利上昇を主導する要因の変化と先行きへの示唆～タームプレミアム主導の金利高が映す財政・金融政策への警戒：国際通貨研レポート",
+      "source_url": "https://www.iima.or.jp/docs/newsletter/2026/nl2026.31.pdf",
+      "source_file": "keizai-web/public/reports/20260524/Rank3_長期金利上昇を主導する要因の変化と先行きへの示唆～タームプレミアム主導の金利高が映す財政・金融政策への警戒：国際通貨研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260524",
+      "rank": 4,
+      "title": "図表でみる世界の物価～物価上昇率の推移・見通しと現在の物価水準：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85576_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260524/Rank4_図表でみる世界の物価～物価上昇率の推移・見通しと現在の物価水準：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260524",
+      "rank": 5,
+      "title": "原油市場展望 2026年5月号～トピック：UAEの離脱で低下するOPECプラスの影響力",
+      "source_url": "https://www.jri.co.jp/MediaLibrary/file/report/oil/pdf/16722.pdf",
+      "source_file": "keizai-web/public/reports/20260524/Rank5_原油市場展望 2026年5月号～トピック：UAEの離脱で低下するOPECプラスの影響力.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260524",
+      "rank": 6,
+      "title": "大都市周辺の人口移動に変化：リサーチ・フォーカス No.2026-012",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260524/Rank6_大都市周辺の人口移動に変化：リサーチ・フォーカス No.2026-012.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260523",
       "rank": 1,
