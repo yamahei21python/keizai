@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260525",
     "20260524",
     "20260523",
     "20260521",
@@ -25,6 +26,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260525",
+      "rank": 1,
+      "title": "大都市周辺の人口移動に変化：リサーチ・フォーカス No.2026-012",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260525/Rank1_大都市周辺の人口移動に変化：リサーチ・フォーカス No.2026-012.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260525",
+      "rank": 2,
+      "title": "長期金利上昇を主導する要因の変化と先行きへの示唆～タームプレミアム主導の金利高が映す財政・金融政策への警戒：国際通貨研レポート",
+      "source_url": "https://www.iima.or.jp/docs/newsletter/2026/nl2026.31.pdf",
+      "source_file": "keizai-web/public/reports/20260525/Rank2_長期金利上昇を主導する要因の変化と先行きへの示唆～タームプレミアム主導の金利高が映す財政・金融政策への警戒：国際通貨研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260525",
+      "rank": 3,
+      "title": "テック業界と在宅勤務～「在宅勤務のしやすさ」と「最適な働き方の在り方」は一致せず：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85538_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260525/Rank3_テック業界と在宅勤務～「在宅勤務のしやすさ」と「最適な働き方の在り方」は一致せず：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260525",
+      "rank": 4,
+      "title": "米国プライベート・クレジット・ファンドへの懸念は6月に再燃する可能性：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260522.html",
+      "source_file": "keizai-web/public/reports/20260525/Rank4_米国プライベート・クレジット・ファンドへの懸念は6月に再燃する可能性：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260525",
+      "rank": 5,
+      "title": "なぜ中国企業は中期経営計画を開示しないのか～制度・市場・経営環境から読み解く、中国企業の情報開示メカニズム：コンサルティングレポート",
+      "source_url": "https://www.dir.co.jp/report/consulting/business_plan/20260522_025762.pdf",
+      "source_file": "keizai-web/public/reports/20260525/Rank5_なぜ中国企業は中期経営計画を開示しないのか～制度・市場・経営環境から読み解く、中国企業の情報開示メカニズム：コンサルティングレポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260525",
+      "rank": 6,
+      "title": "データセンターが押し上げる米国の電力需要～需給のひっ迫や供給の不安定化が投資・生産活動の重石となる恐れ：リサーチ・アイ No.2026-016",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260525/Rank6_データセンターが押し上げる米国の電力需要～需給のひっ迫や供給の不安定化が投資・生産活動の重石となる恐れ：リサーチ・アイ No.2026-016.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260524",
       "rank": 1,
