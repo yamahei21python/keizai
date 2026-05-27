@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260527",
     "20260526",
     "20260525",
     "20260524",
@@ -27,6 +28,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260527",
+      "rank": 1,
+      "title": "長期金利の上昇が問う政策転換～「供給制約の時代」の財政・金融政策：Economist Column No.2026-027",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260527/Rank1_長期金利の上昇が問う政策転換～「供給制約の時代」の財政・金融政策：Economist Column No.2026-027.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260527",
+      "rank": 2,
+      "title": "「AI時代のロボット産業の発展可能性」 に関する 調査研究事業 中間報告書",
+      "source_url": "http://jspmi.sakura.ne.jp/material/file/eri/pdf/25-2_Robot_interimreport.pdf",
+      "source_file": "keizai-web/public/reports/20260527/Rank2_「AI時代のロボット産業の発展可能性」 に関する 調査研究事業 中間報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260527",
+      "rank": 3,
+      "title": "みずほ経済ウィークリー 2026年5月26日～時間差・業種差を伴って波及する中東ショック",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0052/index.html",
+      "source_file": "keizai-web/public/reports/20260527/Rank3_みずほ経済ウィークリー 2026年5月26日～時間差・業種差を伴って波及する中東ショック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260527",
+      "rank": 4,
+      "title": "老後の投資と支出の意思決定 (1) 老後2000万円問題とデキュミュレーション",
+      "source_url": "https://www.nomura-am.co.jp/amrc/pdf/reports/2605_2.pdf",
+      "source_file": "keizai-web/public/reports/20260527/Rank4_老後の投資と支出の意思決定 (1) 老後2000万円問題とデキュミュレーション.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260527",
+      "rank": 5,
+      "title": "米中首脳会談から読み解く国際情勢～米国の対中政策の転換",
+      "source_url": "https://faportal.deloitte.jp/pdf/rules.pdf",
+      "source_file": "keizai-web/public/reports/20260527/Rank5_米中首脳会談から読み解く国際情勢～米国の対中政策の転換.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260527",
+      "rank": 6,
+      "title": "変わる転職市場の年齢構造～「35歳限界説」は後退し、中高年・女性にも広がる転職機会：基礎研レポート",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85653_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260527/Rank6_変わる転職市場の年齢構造～「35歳限界説」は後退し、中高年・女性にも広がる転職機会：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260526",
       "rank": 1,
