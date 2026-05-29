@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260529",
     "20260528",
     "20260527",
     "20260526",
@@ -29,6 +30,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260529",
+      "rank": 1,
+      "title": "「円はトルコリラより弱い」の過ち～REERの正しい理解：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260528.pdf",
+      "source_file": "keizai-web/public/reports/20260529/Rank1_「円はトルコリラより弱い」の過ち～REERの正しい理解：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260529",
+      "rank": 2,
+      "title": "AI普及で中立金利はいずれ上がる～経済成長率、イノベーションを考える：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617482.pdf",
+      "source_file": "keizai-web/public/reports/20260529/Rank2_AI普及で中立金利はいずれ上がる～経済成長率、イノベーションを考える：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260529",
+      "rank": 3,
+      "title": "生成AIとロボットによる職業の代替可能性の推計 人手不足問題の解決に向けて（第12回）",
+      "source_url": "https://soken.xymax.co.jp/report/upload/2605-genAI_and_robo.pdf",
+      "source_file": "keizai-web/public/reports/20260529/Rank3_生成AIとロボットによる職業の代替可能性の推計 人手不足問題の解決に向けて（第12回）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260529",
+      "rank": 4,
+      "title": "K字型経済の難しさ 「利上げは家計に朗報か」：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/617451.pdf",
+      "source_file": "keizai-web/public/reports/20260529/Rank4_K字型経済の難しさ 「利上げは家計に朗報か」：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260529",
+      "rank": 5,
+      "title": "消費税減税に対する生活者意識（2026年5月緊急調査結果）：シンクタンクの着眼点",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=669680&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260529/Rank5_消費税減税に対する生活者意識（2026年5月緊急調査結果）：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260529",
+      "rank": 6,
+      "title": "中東情勢緊迫で広がる原料調達リスク ～調査データでみえる影響～",
+      "source_url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/fea83acd0b5644b38bef8b446580f083/col2026042801.pdf",
+      "source_file": "keizai-web/public/reports/20260529/Rank6_中東情勢緊迫で広がる原料調達リスク ～調査データでみえる影響～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260528",
       "rank": 1,
