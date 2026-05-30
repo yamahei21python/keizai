@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260530",
     "20260529",
     "20260528",
     "20260527",
@@ -30,6 +31,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260530",
+      "rank": 1,
+      "title": "投資が増えると預金は減るのか～投資への資金増減に対する預金変動の反応から見る個人預金分析：金融調査情報",
+      "source_url": "https://www.scbri.jp/reports/finance/20260529-post-670.html",
+      "source_file": "keizai-web/public/reports/20260530/Rank1_投資が増えると預金は減るのか～投資への資金増減に対する預金変動の反応から見る個人預金分析：金融調査情報.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260530",
+      "rank": 2,
+      "title": "ホルムズ海峡危機に見る日本経済の課題：溜池通信Vol.838",
+      "source_url": "http://tameike.net/pdfs8/tame838.PDF",
+      "source_file": "keizai-web/public/reports/20260530/Rank2_ホルムズ海峡危機に見る日本経済の課題：溜池通信Vol.838.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260530",
+      "rank": 3,
+      "title": "国際秩序研究会 第2回 「民主主義vs権威主義」と国際秩序",
+      "source_url": "https://kpmg.com/content/dam/kpmgsites/jp/pdf/2026/jp-international-research-02.pdf.coredownload.inline.pdf",
+      "source_file": "keizai-web/public/reports/20260530/Rank3_国際秩序研究会 第2回 「民主主義vs権威主義」と国際秩序.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260530",
+      "rank": 4,
+      "title": "イラン情勢悪化による貿易への影響分析～「原油・ナフサ」だけではない：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617512.pdf",
+      "source_file": "keizai-web/public/reports/20260530/Rank4_イラン情勢悪化による貿易への影響分析～「原油・ナフサ」だけではない：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260530",
+      "rank": 5,
+      "title": "不動産バブル崩壊でも沈まぬ中国経済、過小評価されている中国の底力～経済安保政策の強化は、日本企業の中国ビジネスに逆風",
+      "source_url": "https://cigs.canon/article/20260529_9895.html",
+      "source_file": "keizai-web/public/reports/20260530/Rank5_不動産バブル崩壊でも沈まぬ中国経済、過小評価されている中国の底力～経済安保政策の強化は、日本企業の中国ビジネスに逆風.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260530",
+      "rank": 6,
+      "title": "資産形成の「リスク・トライアングル」～三つのリスクと付き合う方法：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/617542.pdf",
+      "source_file": "keizai-web/public/reports/20260530/Rank6_資産形成の「リスク・トライアングル」～三つのリスクと付き合う方法：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260529",
       "rank": 1,
