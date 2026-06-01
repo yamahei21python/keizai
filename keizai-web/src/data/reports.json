@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260601",
     "20260530",
     "20260529",
     "20260528",
@@ -31,6 +32,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260601",
+      "rank": 1,
+      "title": "2026年版 ものづくり白書",
+      "source_url": "https://www.meti.go.jp/report/whitepaper/mono/2026/index.html",
+      "source_file": "keizai-web/public/reports/20260601/Rank1_2026年版 ものづくり白書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260601",
+      "rank": 2,
+      "title": "ホルムズ海峡危機に見る日本経済の課題：溜池通信Vol.838",
+      "source_url": "http://tameike.net/pdfs8/tame838.PDF",
+      "source_file": "keizai-web/public/reports/20260601/Rank2_ホルムズ海峡危機に見る日本経済の課題：溜池通信Vol.838.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260601",
+      "rank": 3,
+      "title": "イラン情勢悪化による貿易への影響分析～「原油・ナフサ」だけではない：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617512.pdf",
+      "source_file": "keizai-web/public/reports/20260601/Rank3_イラン情勢悪化による貿易への影響分析～「原油・ナフサ」だけではない：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260601",
+      "rank": 4,
+      "title": "トランプ大統領は都合の良いピエロなのか？",
+      "source_url": "https://www.dir.co.jp/report/column/20260529_012432.html",
+      "source_file": "keizai-web/public/reports/20260601/Rank4_トランプ大統領は都合の良いピエロなのか？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260601",
+      "rank": 5,
+      "title": "双日総研季報 第18号（2026年5月）：5年目に突入したロシア・ウクライナ戦争の行方 / EUのエネルギー政策と課題",
+      "source_url": "https://www.sojitz-soken.com/sojitz-soken.com/wp-content/uploads/2026/05/kihou_18.pdf",
+      "source_file": "keizai-web/public/reports/20260601/Rank5_双日総研季報 第18号（2026年5月）：5年目に突入したロシア・ウクライナ戦争の行方  EUのエネルギー政策と課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260601",
+      "rank": 6,
+      "title": "なぜ今、資産運用が必要なの？ 3.３つの寿命",
+      "source_url": "https://www.nomura-am.co.jp/amrc/pdf/opinion-survey/20260417_Investor-Insights_booklet.pdf",
+      "source_file": "keizai-web/public/reports/20260601/Rank6_なぜ今、資産運用が必要なの？ 3.３つの寿命.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260530",
       "rank": 1,
