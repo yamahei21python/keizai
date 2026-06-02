@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260602",
     "20260601",
     "20260530",
     "20260529",
@@ -32,6 +33,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260602",
+      "rank": 1,
+      "title": "ナフサ騒動の図式～「ナフサは足りている」の説明をもっと信じてもらう方法：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617556.pdf",
+      "source_file": "keizai-web/public/reports/20260602/Rank1_ナフサ騒動の図式～「ナフサは足りている」の説明をもっと信じてもらう方法：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260602",
+      "rank": 2,
+      "title": "中国の戦略新興産業の成功要因を探る～「新・三種の神器」を参照事例に～",
+      "source_url": "https://www.dir.co.jp/report/column/20260601_012431.html",
+      "source_file": "keizai-web/public/reports/20260602/Rank2_中国の戦略新興産業の成功要因を探る～「新・三種の神器」を参照事例に～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260602",
+      "rank": 3,
+      "title": "AIをマネジメントする新たなホワイトカラー職の開発と育成：企業のAI Transformation：人機一体の世界へ",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/chitekishisan_202604/files/000061489.pdf",
+      "source_file": "keizai-web/public/reports/20260602/Rank3_AIをマネジメントする新たなホワイトカラー職の開発と育成：企業のAI Transformation：人機一体の世界へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260602",
+      "rank": 4,
+      "title": "「過去最高の企業利益」と「過去最低の売上高原価率」：Topics Plus",
+      "source_url": "https://www.sompo-ri.co.jp/topics_plus/20260601-23608/",
+      "source_file": "keizai-web/public/reports/20260602/Rank4_「過去最高の企業利益」と「過去最低の売上高原価率」：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260602",
+      "rank": 5,
+      "title": "今、見直すべき省エネの価値",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/consulting/articles-2026-k0013/index.html",
+      "source_file": "keizai-web/public/reports/20260602/Rank5_今、見直すべき省エネの価値.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260602",
+      "rank": 6,
+      "title": "テレワーク関連ツール一覧Ver10",
+      "source_url": "https://www.mhlw.go.jp/content/000917293.pdf",
+      "source_file": "keizai-web/public/reports/20260602/Rank6_テレワーク関連ツール一覧Ver10.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260601",
       "rank": 1,
