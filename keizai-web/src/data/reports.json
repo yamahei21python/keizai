@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260603",
     "20260602",
     "20260601",
     "20260530",
@@ -33,6 +34,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260603",
+      "rank": 1,
+      "title": "循環経済の地政学～日本の勝ち筋と課題",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260602_katakawa.pdf",
+      "source_file": "keizai-web/public/reports/20260603/Rank1_循環経済の地政学～日本の勝ち筋と課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260603",
+      "rank": 2,
+      "title": "ナラティブとは何か～歴史の見方から考察するナラティブという言葉の捉え方：NIDSコメンタリー第437号",
+      "source_url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary437.pdf",
+      "source_file": "keizai-web/public/reports/20260603/Rank2_ナラティブとは何か～歴史の見方から考察するナラティブという言葉の捉え方：NIDSコメンタリー第437号.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260603",
+      "rank": 3,
+      "title": "高市政権の経済政策で、日本経済、日本人の生活は豊かになるのか？：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617615.pdf",
+      "source_file": "keizai-web/public/reports/20260603/Rank3_高市政権の経済政策で、日本経済、日本人の生活は豊かになるのか？：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260603",
+      "rank": 4,
+      "title": "確定した未来に備える学び直し",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=4u5mg1havz",
+      "source_file": "keizai-web/public/reports/20260603/Rank4_確定した未来に備える学び直し.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260603",
+      "rank": 5,
+      "title": "原油・ナフサの中東依存をどう低減させるか：齋藤潤の経済バーズアイ",
+      "source_url": "https://www.jcer.or.jp/j-column/column-saito/2026062.html",
+      "source_file": "keizai-web/public/reports/20260603/Rank5_原油・ナフサの中東依存をどう低減させるか：齋藤潤の経済バーズアイ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260603",
+      "rank": 6,
+      "title": "丸紅ワシントン報告：2026年米中間選挙 トランプ第2期政権の評価と、政権後半の主導権争い",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/MWR_2026_14_2026_MidtermsandRedistricting_20260601.pdf",
+      "source_file": "keizai-web/public/reports/20260603/Rank6_丸紅ワシントン報告：2026年米中間選挙 トランプ第2期政権の評価と、政権後半の主導権争い.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260602",
       "rank": 1,
