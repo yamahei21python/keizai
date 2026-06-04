@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260604",
     "20260603",
     "20260602",
     "20260601",
@@ -34,6 +35,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260604",
+      "rank": 1,
+      "title": "国際比較でみる日本企業の行動変化～収益性の改善をもたらした2000年以降のコスト構造：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260603_025795.pdf",
+      "source_file": "keizai-web/public/reports/20260604/Rank1_国際比較でみる日本企業の行動変化～収益性の改善をもたらした2000年以降のコスト構造：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260604",
+      "rank": 2,
+      "title": "蓄電池・電源産業戦略 2026年6月2日",
+      "source_url": "https://www.meti.go.jp/press/2026/06/20260602001/20260602001.html",
+      "source_file": "keizai-web/public/reports/20260604/Rank2_蓄電池・電源産業戦略 2026年6月2日.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260604",
+      "rank": 3,
+      "title": "ナフサの供給を最新のデータから読み解くと",
+      "source_url": "https://ieei.or.jp/2026/06/yamamotoblog_260603/",
+      "source_file": "keizai-web/public/reports/20260604/Rank3_ナフサの供給を最新のデータから読み解くと.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260604",
+      "rank": 4,
+      "title": "株式市場のバブル化を懸念する：ニッセイ年金ストラテジー",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85594_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260604/Rank4_株式市場のバブル化を懸念する：ニッセイ年金ストラテジー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260604",
+      "rank": 5,
+      "title": "年金65歳時代が到来したが...：ニッセイ年金ストラテジー",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85592_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260604/Rank5_年金65歳時代が到来したが...：ニッセイ年金ストラテジー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260604",
+      "rank": 6,
+      "title": "経済産業政策新機軸部会 第5次中間整理・参考資料集",
+      "source_url": "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/20260603_report.html",
+      "source_file": "keizai-web/public/reports/20260604/Rank6_経済産業政策新機軸部会 第5次中間整理・参考資料集.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260603",
       "rank": 1,
