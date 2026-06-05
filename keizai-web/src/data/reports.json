@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260605",
     "20260604",
     "20260603",
     "20260602",
@@ -35,6 +36,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260605",
+      "rank": 1,
+      "title": "円安・ドル高予想を修正する材料が見当たらない",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/06/d7dd485b7e2f8391645d81a663f96cb3.pdf",
+      "source_file": "keizai-web/public/reports/20260605/Rank1_円安・ドル高予想を修正する材料が見当たらない.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260605",
+      "rank": 2,
+      "title": "数字でみる自動車2026",
+      "source_url": "https://www.mlit.go.jp/jidosha/content/002004994.pdf",
+      "source_file": "keizai-web/public/reports/20260605/Rank2_数字でみる自動車2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260605",
+      "rank": 3,
+      "title": "予測市場とは何か？（1）～急拡大の背景：US Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617713.pdf",
+      "source_file": "keizai-web/public/reports/20260605/Rank3_予測市場とは何か？（1）～急拡大の背景：US Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260605",
+      "rank": 4,
+      "title": "日本で懸念される「中技術国の罠」～研究開発投資の金額・企業数は自動車関連などの中技術分野に集中：人と社会",
+      "source_url": "https://www.dir.co.jp/report/research/policy-analysis/human-society/20260604_025798.pdf",
+      "source_file": "keizai-web/public/reports/20260605/Rank4_日本で懸念される「中技術国の罠」～研究開発投資の金額・企業数は自動車関連などの中技術分野に集中：人と社会.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260605",
+      "rank": 5,
+      "title": "AI協働論（２） スキルが変わるとはどういうことか？：シンクタンクの着眼点",
+      "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260604.html",
+      "source_file": "keizai-web/public/reports/20260605/Rank5_AI協働論（２） スキルが変わるとはどういうことか？：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260605",
+      "rank": 6,
+      "title": "サービス赤字▲10兆円時代～長期予測改定：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260604.pdf",
+      "source_file": "keizai-web/public/reports/20260605/Rank6_サービス赤字▲10兆円時代～長期予測改定：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260604",
       "rank": 1,
