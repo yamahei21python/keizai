@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260606",
     "20260605",
     "20260604",
     "20260603",
@@ -36,6 +37,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260606",
+      "rank": 1,
+      "title": "対日輸出規制強化後の対中レアアース輸入～全体として変化はないものの、酸化イットリウムの輸入は激減：Global Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617774.pdf",
+      "source_file": "keizai-web/public/reports/20260606/Rank1_対日輸出規制強化後の対中レアアース輸入～全体として変化はないものの、酸化イットリウムの輸入は激減：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260606",
+      "rank": 2,
+      "title": "トランプ政権が代替関税の新たな案を提示：日本には12.5％の関税率が適用される可能性：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=670700&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260606/Rank2_トランプ政権が代替関税の新たな案を提示：日本には12.5％の関税率が適用される可能性：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260606",
+      "rank": 3,
+      "title": "なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617768.pdf",
+      "source_file": "keizai-web/public/reports/20260606/Rank3_なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260606",
+      "rank": 4,
+      "title": "実質賃金は改善続くも、秋以降に下振れリスク（26年4月毎月勤労統計）～実質賃金改善の持続性は今後の物価次第：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617777.pdf",
+      "source_file": "keizai-web/public/reports/20260606/Rank4_実質賃金は改善続くも、秋以降に下振れリスク（26年4月毎月勤労統計）～実質賃金改善の持続性は今後の物価次第：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260606",
+      "rank": 5,
+      "title": "米国：中間選挙アップデート（2026年6月）～上院は共和党、下院は民主党が優勢：US Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617805.pdf",
+      "source_file": "keizai-web/public/reports/20260606/Rank5_米国：中間選挙アップデート（2026年6月）～上院は共和党、下院は民主党が優勢：US Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260606",
+      "rank": 6,
+      "title": "第二次トランプ政権による「反武器化基金」創設の衝撃：「三期目」の示唆は本気か",
+      "source_url": "https://www.dir.co.jp/report/column/20260605_012433.html",
+      "source_file": "keizai-web/public/reports/20260606/Rank6_第二次トランプ政権による「反武器化基金」創設の衝撃：「三期目」の示唆は本気か.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260605",
       "rank": 1,
