@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260607",
     "20260606",
     "20260605",
     "20260604",
@@ -37,6 +38,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260607",
+      "rank": 1,
+      "title": "リボ払いを利用する高金融リテラシー若年層の実像：リテールビジネス",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202606/files/itf_202606_05.pdf",
+      "source_file": "keizai-web/public/reports/20260607/Rank1_リボ払いを利用する高金融リテラシー若年層の実像：リテールビジネス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260607",
+      "rank": 2,
+      "title": "グローバル市場見通し（2026年5月号）～マルチアセット・ビュー",
+      "source_url": "https://www.schroders.com/ja-jp/jp/intermediary/insights/ma202605/",
+      "source_file": "keizai-web/public/reports/20260607/Rank2_グローバル市場見通し（2026年5月号）～マルチアセット・ビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260607",
+      "rank": 3,
+      "title": "基礎研ＲＥＰＯＲＴ（冊子版）2026年6月号～テック業界と在宅勤務 / 機械受注から見た防衛力強化 / J-REIT市場の動向と収益見通し...",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85786_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260607/Rank3_基礎研ＲＥＰＯＲＴ（冊子版）2026年6月号～テック業界と在宅勤務  機械受注から見た防衛力強化  J-REIT市場の動向と収益見通し....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260607",
+      "rank": 4,
+      "title": "なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617768.pdf",
+      "source_file": "keizai-web/public/reports/20260607/Rank4_なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260607",
+      "rank": 5,
+      "title": "生成AIが迫るアジア新興国のデジタルサービス輸出の構造転換：IIMAコメンタリー",
+      "source_url": "https://www.iima.or.jp/docs/column/2026/ei2026.15.pdf",
+      "source_file": "keizai-web/public/reports/20260607/Rank5_生成AIが迫るアジア新興国のデジタルサービス輸出の構造転換：IIMAコメンタリー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260607",
+      "rank": 6,
+      "title": "消費減税から給付付き税額控除へのスイッチ問題～制度設計にある落とし穴：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617798.pdf",
+      "source_file": "keizai-web/public/reports/20260607/Rank6_消費減税から給付付き税額控除へのスイッチ問題～制度設計にある落とし穴：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260606",
       "rank": 1,
