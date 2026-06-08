@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260608",
     "20260607",
     "20260606",
     "20260605",
@@ -38,6 +39,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260608",
+      "rank": 1,
+      "title": "リボ払いを利用する高金融リテラシー若年層の実像：リテールビジネス",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202606/files/itf_202606_05.pdf",
+      "source_file": "keizai-web/public/reports/20260608/Rank1_リボ払いを利用する高金融リテラシー若年層の実像：リテールビジネス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260608",
+      "rank": 2,
+      "title": "なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/617768.pdf",
+      "source_file": "keizai-web/public/reports/20260608/Rank2_なぜAIが普及しても新卒採用は好調なのか？～日本と海外で異なる「若者雇用」の意味合い：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260608",
+      "rank": 3,
+      "title": "令和8年版 環境白書・循環型社会白書・生物多様性白書～循環経済（サーキュラーエコノミー）で日本列島を強く豊かに",
+      "source_url": "https://www.env.go.jp/policy/hakusyo/r08/pdf/full.pdf",
+      "source_file": "keizai-web/public/reports/20260608/Rank3_令和8年版 環境白書・循環型社会白書・生物多様性白書～循環経済（サーキュラーエコノミー）で日本列島を強く豊かに.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260608",
+      "rank": 4,
+      "title": "ファミリーガバナンス・ガイダンス",
+      "source_url": "https://www.meti.go.jp/press/2026/06/20260605001/20260605001.html",
+      "source_file": "keizai-web/public/reports/20260608/Rank4_ファミリーガバナンス・ガイダンス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260608",
+      "rank": 5,
+      "title": "数理の窓：1,300トンを動かす「遊び」の力",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202606/files/itf_202606_08.pdf",
+      "source_file": "keizai-web/public/reports/20260608/Rank5_数理の窓：1,300トンを動かす「遊び」の力.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260608",
+      "rank": 6,
+      "title": "国際的な原油価格指標の動向について：今週の指標 No.1415",
+      "source_url": "https://www5.cao.go.jp/keizai3/shihyo/2026/0605/1415.pdf",
+      "source_file": "keizai-web/public/reports/20260608/Rank6_国際的な原油価格指標の動向について：今週の指標 No.1415.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260607",
       "rank": 1,
