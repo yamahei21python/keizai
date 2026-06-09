@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260609",
     "20260608",
     "20260607",
     "20260606",
@@ -39,6 +40,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260609",
+      "rank": 1,
+      "title": "日本株の急落と3つの逆風：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260608_3.html",
+      "source_file": "keizai-web/public/reports/20260609/Rank1_日本株の急落と3つの逆風：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260609",
+      "rank": 2,
+      "title": "セイコー時間白書2026 ～時間は「タイパ＆メンパ」の二刀流時代へ",
+      "source_url": "https://www.seiko.co.jp/csr/stda/archive/2026/",
+      "source_file": "keizai-web/public/reports/20260609/Rank2_セイコー時間白書2026 ～時間は「タイパ＆メンパ」の二刀流時代へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260609",
+      "rank": 3,
+      "title": "NRIマネジメントレビュー 2026年6月号",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/region_202606/index.html",
+      "source_file": "keizai-web/public/reports/20260609/Rank3_NRIマネジメントレビュー 2026年6月号.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260609",
+      "rank": 4,
+      "title": "新たな円安リスクか～自動車産業の環境変化がもたらす構造円安リスク",
+      "source_url": "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260608.pdf",
+      "source_file": "keizai-web/public/reports/20260609/Rank4_新たな円安リスクか～自動車産業の環境変化がもたらす構造円安リスク.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260609",
+      "rank": 5,
+      "title": "ピーター・ティール率いる「パランティアAI」の正体",
+      "source_url": "http://www.world-economic-review.jp/impact/article4400.html",
+      "source_file": "keizai-web/public/reports/20260609/Rank5_ピーター・ティール率いる「パランティアAI」の正体.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260609",
+      "rank": 6,
+      "title": "日銀利上げ影響の試算アップデート～家計では年間＋1.0兆円、企業では同▲1.1兆円の影響：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0057/index.html",
+      "source_file": "keizai-web/public/reports/20260609/Rank6_日銀利上げ影響の試算アップデート～家計では年間＋1.0兆円、企業では同▲1.1兆円の影響：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260608",
       "rank": 1,
