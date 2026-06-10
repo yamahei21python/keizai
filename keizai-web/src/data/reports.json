@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260610",
     "20260609",
     "20260608",
     "20260607",
@@ -40,6 +41,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260610",
+      "rank": 1,
+      "title": "「ナフサ不足」下における日本のサプライチェーンの動向",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260609_kuwana.pdf",
+      "source_file": "keizai-web/public/reports/20260610/Rank1_「ナフサ不足」下における日本のサプライチェーンの動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260610",
+      "rank": 2,
+      "title": "行動経済学から考える資産形成～投資判断を左右する「心のクセ」：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/617910.pdf",
+      "source_file": "keizai-web/public/reports/20260610/Rank2_行動経済学から考える資産形成～投資判断を左右する「心のクセ」：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260610",
+      "rank": 3,
+      "title": "遮断される円売り圧力～「嵐の前の静けさ」：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260609.pdf",
+      "source_file": "keizai-web/public/reports/20260610/Rank3_遮断される円売り圧力～「嵐の前の静けさ」：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260610",
+      "rank": 4,
+      "title": "霞が関の新たな夜明けと財務省：大隅隆のThat’s it ♪（第7回）",
+      "source_url": "https://www.jcer.or.jp/j-column/2026069.html",
+      "source_file": "keizai-web/public/reports/20260610/Rank4_霞が関の新たな夜明けと財務省：大隅隆のThat’s it ♪（第7回）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260610",
+      "rank": 5,
+      "title": "時代を読む地図のつくり方",
+      "source_url": "https://www.japa.fellowlink.jp/_files/ugd/c7a1dd_bb265853384f47a0a9c0d6bbf253cfb7.pdf",
+      "source_file": "keizai-web/public/reports/20260610/Rank5_時代を読む地図のつくり方.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260610",
+      "rank": 6,
+      "title": "出社回帰の先にある、未来の働き方への提言",
+      "source_url": "https://japan-telework.or.jp/wordpress/wp-content/uploads/2026/04/Workstyle_Innovation_WP2026-1.pdf",
+      "source_file": "keizai-web/public/reports/20260610/Rank6_出社回帰の先にある、未来の働き方への提言.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260609",
       "rank": 1,
@@ -1897,18 +1952,18 @@
     {
       "date": "20260409",
       "rank": 2,
-      "title": "アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=663046&key=115555555573&dj=1",
-      "source_file": "keizai-web/public/reports/20260409/Rank2_アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点.md",
+      "title": "イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/593037.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank2_イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260409",
       "rank": 2,
-      "title": "イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends",
-      "source_url": "https://www.dlri.co.jp/files/macro/593037.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank2_イラン攻撃の2週間停止、日本経済のシナリオ～どうなる原油価格：Economic Trends.md",
+      "title": "アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=663046&key=115555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260409/Rank2_アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -1951,18 +2006,18 @@
     {
       "date": "20260409",
       "rank": 5,
-      "title": "中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験",
-      "source_url": "https://career-research.mynavi.jp/reserch/20260409_109177/",
-      "source_file": "keizai-web/public/reports/20260409/Rank5_中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験.md",
+      "title": "米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/ma/flash260408.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank5_米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260409",
       "rank": 5,
-      "title": "米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ",
-      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/ma/flash260408.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank5_米国・イランが2週間の停戦に合意：みずほマーケット・フラッシュ.md",
+      "title": "中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験",
+      "source_url": "https://career-research.mynavi.jp/reserch/20260409_109177/",
+      "source_file": "keizai-web/public/reports/20260409/Rank5_中途入社1年以内の社員に聞いた「ホワイトハラスメント」に関する調査～入社1年以内の中途社員の13.6％が「ホワイトハラスメント」を経験.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -2113,18 +2168,18 @@
     {
       "date": "20260406",
       "rank": 2,
-      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
-      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
+      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260406",
       "rank": 2,
-      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
-      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
-      "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
+      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -2185,18 +2240,18 @@
     {
       "date": "20260406",
       "rank": 6,
-      "title": "日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション",
-      "source_url": "https://www.nri.com/jp/knowledge/publication/chitekishisan_202602/files/000059701.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank6_日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション.md",
+      "title": "日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/592911.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank6_日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260406",
       "rank": 6,
-      "title": "日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏",
-      "source_url": "https://www.dlri.co.jp/files/macro/592911.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank6_日銀が利上げすれば投資家は驚いてしまう：経済の舞台裏.md",
+      "title": "日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/chitekishisan_202602/files/000059701.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank6_日・米・中・独4カ国調査に見るAI利用の受容性と日本におけるAI浸透の未来像：社会のAIトランスフォーメーション.md",
       "summary_file": null,
       "status": "processing"
     }
