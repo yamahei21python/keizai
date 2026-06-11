@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260611",
     "20260610",
     "20260609",
     "20260608",
@@ -41,6 +42,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260611",
+      "rank": 1,
+      "title": "論壇：「人生100年時代」の罠～高齢者が働く理由の虚実",
+      "source_url": "https://shokosoken.or.jp/shokokinyuu/2026/06/202606_5.pdf",
+      "source_file": "keizai-web/public/reports/20260611/Rank1_論壇：「人生100年時代」の罠～高齢者が働く理由の虚実.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260611",
+      "rank": 2,
+      "title": "中国：泥沼化する不動産不況、軍幹部粛清が追い打ち？",
+      "source_url": "https://www.dir.co.jp/report/column/20260610_012436.html",
+      "source_file": "keizai-web/public/reports/20260611/Rank2_中国：泥沼化する不動産不況、軍幹部粛清が追い打ち？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260611",
+      "rank": 3,
+      "title": "少子化の深層：エリートスポーツ化する育児～全米経済学会報告から",
+      "source_url": "https://sbiferi.co.jp/assets/pdf/report/rep20260610_1.pdf",
+      "source_file": "keizai-web/public/reports/20260611/Rank3_少子化の深層：エリートスポーツ化する育児～全米経済学会報告から.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260611",
+      "rank": 4,
+      "title": "72％がAIによって仕事に求められるスキルが変わったと回答～BCG調査",
+      "source_url": "https://web-assets.bcg.com/96/83/0f2f0265450cb3564e498dbb4b6b/jpr-aiatwork2026.pdf",
+      "source_file": "keizai-web/public/reports/20260611/Rank4_72％がAIによって仕事に求められるスキルが変わったと回答～BCG調査.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260611",
+      "rank": 5,
+      "title": "利上げ報道でも円相場は動かず～円高に必要な措置とは：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260610.pdf",
+      "source_file": "keizai-web/public/reports/20260611/Rank5_利上げ報道でも円相場は動かず～円高に必要な措置とは：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260611",
+      "rank": 6,
+      "title": "米国AI企業の上場ラッシュは何を変えるのか～未上場AIブームが個人マネーに流れ込む日：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/617928.pdf",
+      "source_file": "keizai-web/public/reports/20260611/Rank6_米国AI企業の上場ラッシュは何を変えるのか～未上場AIブームが個人マネーに流れ込む日：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260610",
       "rank": 1,
