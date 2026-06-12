@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260612",
     "20260611",
     "20260610",
     "20260609",
@@ -42,6 +43,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260612",
+      "rank": 1,
+      "title": "日本成長戦略本部 提言～「５つの基本原則」の下、官民の力を結集し「新たな成長」を切り拓く～",
+      "source_url": "https://storage.jimin.jp/pdf/news/policy/213459_1.pdf",
+      "source_file": "keizai-web/public/reports/20260612/Rank1_日本成長戦略本部 提言～「５つの基本原則」の下、官民の力を結集し「新たな成長」を切り拓く～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260612",
+      "rank": 2,
+      "title": "AIエージェントの基本構造と論点整理：ビジネス活用の現状と従来AIとの違い、リスクの本質",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/awareness-cyber-security/ai-agent-cyber-security/ai-agent-cyber-security01.html",
+      "source_file": "keizai-web/public/reports/20260612/Rank2_AIエージェントの基本構造と論点整理：ビジネス活用の現状と従来AIとの違い、リスクの本質.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260612",
+      "rank": 3,
+      "title": "中国経済と日本企業 2026年白書",
+      "source_url": "https://www.cjcci.org/cj_pdf/2026bs/All_CN.pdf",
+      "source_file": "keizai-web/public/reports/20260612/Rank3_中国経済と日本企業 2026年白書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260612",
+      "rank": 4,
+      "title": "日本銀行・植田総裁の入院と金融政策決定会合：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260611.html",
+      "source_file": "keizai-web/public/reports/20260612/Rank4_日本銀行・植田総裁の入院と金融政策決定会合：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260612",
+      "rank": 5,
+      "title": "地方銀行における業績改善の広がりと今後の課題～利上げペースの加速で再び格差が広がる可能性も：リサーチ・アイ No.2026-021",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260612/Rank5_地方銀行における業績改善の広がりと今後の課題～利上げペースの加速で再び格差が広がる可能性も：リサーチ・アイ No.2026-021.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260612",
+      "rank": 6,
+      "title": "2040年のインバウンドを考える～「一過性のブーム」から「持続可能な基幹産業」へ：Mizuho Industry Focus Vol.254",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/mif_254.pdf",
+      "source_file": "keizai-web/public/reports/20260612/Rank6_2040年のインバウンドを考える～「一過性のブーム」から「持続可能な基幹産業」へ：Mizuho Industry Focus Vol.254.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260611",
       "rank": 1,
