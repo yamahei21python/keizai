@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260613",
     "20260612",
     "20260611",
     "20260610",
@@ -43,6 +44,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260613",
+      "rank": 1,
+      "title": "米国の原油輸出ポテンシャル～米国はどこまで原油を輸出できるのか",
+      "source_url": "https://journal.jogmec.go.jp/content/300801554.pdf",
+      "source_file": "keizai-web/public/reports/20260613/Rank1_米国の原油輸出ポテンシャル～米国はどこまで原油を輸出できるのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260613",
+      "rank": 2,
+      "title": "トランプ、ブッシュ、クリントンの物語：溜池通信Vol.839",
+      "source_url": "http://tameike.net/pdfs8/tame839.PDF",
+      "source_file": "keizai-web/public/reports/20260613/Rank2_トランプ、ブッシュ、クリントンの物語：溜池通信Vol.839.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260613",
+      "rank": 3,
+      "title": "骨太方針2026に向けた予習～Ｑ＆Ａ形式で経済財政政策関連のポイントを整理：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/622946.pdf",
+      "source_file": "keizai-web/public/reports/20260613/Rank3_骨太方針2026に向けた予習～Ｑ＆Ａ形式で経済財政政策関連のポイントを整理：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260613",
+      "rank": 4,
+      "title": "米国経済：AIディスインフレ論に逆行するインフレ圧力：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/em20260612_2025-053_USA_AI%20inflation.pdf",
+      "source_file": "keizai-web/public/reports/20260613/Rank4_米国経済：AIディスインフレ論に逆行するインフレ圧力：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260613",
+      "rank": 5,
+      "title": "知っておきたい経済用語：ナフサってなに？",
+      "source_url": "https://journal.meti.go.jp/keizaiword/46232/",
+      "source_file": "keizai-web/public/reports/20260613/Rank5_知っておきたい経済用語：ナフサってなに？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260613",
+      "rank": 6,
+      "title": "2025—日本が抱えているエネルギー問題（前編）",
+      "source_url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/energyissue2025_1.html",
+      "source_file": "keizai-web/public/reports/20260613/Rank6_2025—日本が抱えているエネルギー問題（前編）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260612",
       "rank": 1,
