@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260614",
     "20260613",
     "20260612",
     "20260611",
@@ -44,6 +45,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260614",
+      "rank": 1,
+      "title": "世界経済見通し 2026年6月～中東紛争により世界経済成長率がコロナ危機以来の最低水準に【概要:日本語、全文:英語】",
+      "source_url": "https://thedocs.worldbank.org/en/doc/2b672b3b0415d6b66c45b66579db4ef5-0050012026/related/GEP-Jun-2026-Regional-Highlights-EAP-JP.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank1_世界経済見通し 2026年6月～中東紛争により世界経済成長率がコロナ危機以来の最低水準に【概要日本語、全文英語】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260614",
+      "rank": 2,
+      "title": "令和8年版 高齢社会白書～特集：国際比較調査に見る日本の高齢者の生活と意識の特徴",
+      "source_url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/zenbun/pdf/mokuji.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank2_令和8年版 高齢社会白書～特集：国際比較調査に見る日本の高齢者の生活と意識の特徴.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260614",
+      "rank": 3,
+      "title": "フィジカルAIの社会実装に向けた論点の整理～安全・プライバシー・責任をどう確保するか：JIPDECレポート",
+      "source_url": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20251223.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank3_フィジカルAIの社会実装に向けた論点の整理～安全・プライバシー・責任をどう確保するか：JIPDECレポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260614",
+      "rank": 4,
+      "title": "日銀QTの現在地と国債買入れ減額停止の影響～貸出増加支援オペ残高減少で地域金融機関に目配り必要：金融・証券市場・資金調達",
+      "source_url": "https://www.dir.co.jp/report/research/capital-mkt/securities/20260611_025822.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank4_日銀QTの現在地と国債買入れ減額停止の影響～貸出増加支援オペ残高減少で地域金融機関に目配り必要：金融・証券市場・資金調達.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260614",
+      "rank": 5,
+      "title": "AI時代に迫るリーダー育成の危機、企業はいま何をすべきか",
+      "source_url": "https://reports.weforum.org/docs/WEF_Briefing_AI_and_Entry-Level_Jobs_January_2026.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank5_AI時代に迫るリーダー育成の危機、企業はいま何をすべきか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260614",
+      "rank": 6,
+      "title": "米国経済：AIディスインフレ論に逆行するインフレ圧力：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/em20260612_2025-053_USA_AI%20inflation.pdf",
+      "source_file": "keizai-web/public/reports/20260614/Rank6_米国経済：AIディスインフレ論に逆行するインフレ圧力：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260613",
       "rank": 1,
