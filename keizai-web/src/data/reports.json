@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260615",
     "20260614",
     "20260613",
     "20260612",
@@ -45,6 +46,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260615",
+      "rank": 1,
+      "title": "トランプ、ブッシュ、クリントンの物語：溜池通信Vol.839",
+      "source_url": "http://tameike.net/pdfs8/tame839.PDF",
+      "source_file": "keizai-web/public/reports/20260615/Rank1_トランプ、ブッシュ、クリントンの物語：溜池通信Vol.839.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260615",
+      "rank": 2,
+      "title": "AI時代の経済学：完全自動化社会という思考実験",
+      "source_url": "https://www.rieti.go.jp/jp/columns/a01_0810.html",
+      "source_file": "keizai-web/public/reports/20260615/Rank2_AI時代の経済学：完全自動化社会という思考実験.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260615",
+      "rank": 3,
+      "title": "令和8年版 高齢社会白書（概要版）",
+      "source_url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/gaiyou/pdf/mokuji.pdf",
+      "source_file": "keizai-web/public/reports/20260615/Rank3_令和8年版 高齢社会白書（概要版）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260615",
+      "rank": 4,
+      "title": "買われる日本、失われる技術：経済安全保障時代の企業防衛",
+      "source_url": "https://dcer.dentsusoken.com/reports/sk26001/",
+      "source_file": "keizai-web/public/reports/20260615/Rank4_買われる日本、失われる技術：経済安全保障時代の企業防衛.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260615",
+      "rank": 5,
+      "title": "令和8年版 高齢社会白書～特集：国際比較調査に見る日本の高齢者の生活と意識の特徴",
+      "source_url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/zenbun/pdf/mokuji.pdf",
+      "source_file": "keizai-web/public/reports/20260615/Rank5_令和8年版 高齢社会白書～特集：国際比較調査に見る日本の高齢者の生活と意識の特徴.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260615",
+      "rank": 6,
+      "title": "生成AIの将来技術動向 2026年～AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2026/assets/pdf/generative-ai-survey2026-consideration.pdf",
+      "source_file": "keizai-web/public/reports/20260615/Rank6_生成AIの将来技術動向 2026年～AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260614",
       "rank": 1,
