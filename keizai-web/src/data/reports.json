@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260616",
     "20260615",
     "20260614",
     "20260613",
@@ -46,6 +47,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260616",
+      "rank": 1,
+      "title": "ナフサ問題がもたらす日本経済の不安要素～物価上昇は避けられず、供給不足が生じればさらなる経済下押しも：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260615_025826.pdf",
+      "source_file": "keizai-web/public/reports/20260616/Rank1_ナフサ問題がもたらす日本経済の不安要素～物価上昇は避けられず、供給不足が生じればさらなる経済下押しも：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260616",
+      "rank": 2,
+      "title": "【先端技術リサーチ】現実世界を理解するAI ～AI開発を加速させる「世界モデル」の動向～",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260616/Rank2_【先端技術リサーチ】現実世界を理解するAI ～AI開発を加速させる「世界モデル」の動向～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260616",
+      "rank": 3,
+      "title": "ナフサの消費者価格への転嫁が始まる～6月に入って食料品価格の上昇鈍化が反転：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623026.pdf",
+      "source_file": "keizai-web/public/reports/20260616/Rank3_ナフサの消費者価格への転嫁が始まる～6月に入って食料品価格の上昇鈍化が反転：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260616",
+      "rank": 4,
+      "title": "AnthropicのMythos級AIモデルに対する米国政府の規制が意味するもの：Economist Column No.2026-029",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260616/Rank4_AnthropicのMythos級AIモデルに対する米国政府の規制が意味するもの：Economist Column No.2026-029.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260616",
+      "rank": 5,
+      "title": "【論考】財政ポピュリズム：政治は世論に迎合しているのか？",
+      "source_url": "https://www.tkfd.or.jp/research/detail.php?id=4983",
+      "source_file": "keizai-web/public/reports/20260616/Rank5_【論考】財政ポピュリズム：政治は世論に迎合しているのか？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260616",
+      "rank": 6,
+      "title": "仕事を辞めたい～本当の気持ち【職場の悩みに、哲学を 第3回】",
+      "source_url": "https://career-research.mynavi.jp/column/20260615_111639/",
+      "source_file": "keizai-web/public/reports/20260616/Rank6_仕事を辞めたい～本当の気持ち【職場の悩みに、哲学を 第3回】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260615",
       "rank": 1,
