@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260617",
     "20260616",
     "20260615",
     "20260614",
@@ -47,6 +48,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260617",
+      "rank": 1,
+      "title": "ワシントンで抱いた5つの違和感 ：宮家邦彦のWorld Watch",
+      "source_url": "https://cigs.canon/article/20260616_9946.html",
+      "source_file": "keizai-web/public/reports/20260617/Rank1_ワシントンで抱いた5つの違和感 ：宮家邦彦のWorld Watch.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260617",
+      "rank": 2,
+      "title": "中東情勢の改善がもたらす大幅な円安修正の可能性：Economic Monitor",
+      "source_url": "https://www.itochu-research.com/ja/uploads/ec20260616_2026-055_J_FX.pdf",
+      "source_file": "keizai-web/public/reports/20260617/Rank2_中東情勢の改善がもたらす大幅な円安修正の可能性：Economic Monitor.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260617",
+      "rank": 3,
+      "title": "中間管理職は何をAIに任せるとよいのか？デジタル化時代における「任せ方」の戦略",
+      "source_url": "https://saponet.mynavi.jp/column/detail/sg07_20260612172230.html",
+      "source_file": "keizai-web/public/reports/20260617/Rank3_中間管理職は何をAIに任せるとよいのか？デジタル化時代における「任せ方」の戦略.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260617",
+      "rank": 4,
+      "title": "米国とイランが戦闘終結に向け覚書に署名：原油価格は下落しても物価上昇はこれから本格化：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://te.eg/wps/portal/te/Personal/",
+      "source_file": "keizai-web/public/reports/20260617/Rank4_米国とイランが戦闘終結に向け覚書に署名：原油価格は下落しても物価上昇はこれから本格化：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260617",
+      "rank": 5,
+      "title": "AI相場の死角は「アクセス停止」か～Fable／Mythosが映すモデル供給リスク：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623054.pdf",
+      "source_file": "keizai-web/public/reports/20260617/Rank5_AI相場の死角は「アクセス停止」か～Fable／Mythosが映すモデル供給リスク：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260617",
+      "rank": 6,
+      "title": "ホルムズ海峡混乱から再考するエネルギー政策（３）減った石油、でも消えていない石油：シンクタンクの着眼点",
+      "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260616.html",
+      "source_file": "keizai-web/public/reports/20260617/Rank6_ホルムズ海峡混乱から再考するエネルギー政策（３）減った石油、でも消えていない石油：シンクタンクの着眼点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260616",
       "rank": 1,
