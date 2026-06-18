@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260618",
     "20260617",
     "20260616",
     "20260615",
@@ -48,6 +49,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260618",
+      "rank": 1,
+      "title": "米国政府はなぜ最先端AIを停止させたのか～最先端AIモデルへの輸出規制措置が示すAI統治の転換点：米国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/usa/20260617_025839.pdf",
+      "source_file": "keizai-web/public/reports/20260618/Rank1_米国政府はなぜ最先端AIを停止させたのか～最先端AIモデルへの輸出規制措置が示すAI統治の転換点：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260618",
+      "rank": 2,
+      "title": "OpenAIが辿るビジネスの変遷～生成AI・AIエージェントのフロントランナーの現在地",
+      "source_url": "https://www.dir.co.jp/jump.html?url=https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/wgkaisai/bc_houkokusyo/gaiyouban.pdf",
+      "source_file": "keizai-web/public/reports/20260618/Rank2_OpenAIが辿るビジネスの変遷～生成AI・AIエージェントのフロントランナーの現在地.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260618",
+      "rank": 3,
+      "title": "日経平均株価７万円の景色：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/623123.pdf",
+      "source_file": "keizai-web/public/reports/20260618/Rank3_日経平均株価７万円の景色：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260618",
+      "rank": 4,
+      "title": "日本の成長の「勝ち筋」と企業に求められるもの ～デロイト トーマツ戦略研究所シンポジウムより",
+      "source_url": "https://faportal.deloitte.jp/pdf/rules.pdf",
+      "source_file": "keizai-web/public/reports/20260618/Rank4_日本の成長の「勝ち筋」と企業に求められるもの ～デロイト トーマツ戦略研究所シンポジウムより.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260618",
+      "rank": 5,
+      "title": "ザリガニ指数から見た中国経済の実態と言論空間",
+      "source_url": "http://www.world-economic-review.jp/impact/article4415.html",
+      "source_file": "keizai-web/public/reports/20260618/Rank5_ザリガニ指数から見た中国経済の実態と言論空間.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260618",
+      "rank": 6,
+      "title": "新NISA時代でも、家計はなぜ預貯金を選ぶのか～家計調査でみる「貯蓄から投資」の現在地と次の変化：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623109.pdf",
+      "source_file": "keizai-web/public/reports/20260618/Rank6_新NISA時代でも、家計はなぜ預貯金を選ぶのか～家計調査でみる「貯蓄から投資」の現在地と次の変化：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260617",
       "rank": 1,
