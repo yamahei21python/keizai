@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260619",
     "20260618",
     "20260617",
     "20260616",
@@ -49,6 +50,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260619",
+      "rank": 1,
+      "title": "銀行の預貸率上昇の２つの背景：Economist Column No.2026-031",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260619/Rank1_銀行の預貸率上昇の２つの背景：Economist Column No.2026-031.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260619",
+      "rank": 2,
+      "title": "住宅価格高騰をめぐる動向～東京23区のマンション価格を中心として：Issue Brief",
+      "source_url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/14952368",
+      "source_file": "keizai-web/public/reports/20260619/Rank2_住宅価格高騰をめぐる動向～東京23区のマンション価格を中心として：Issue Brief.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260619",
+      "rank": 3,
+      "title": "金利上昇とインフレがもたらす日本経済および家計への影響と構造転換：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623169.pdf",
+      "source_file": "keizai-web/public/reports/20260619/Rank3_金利上昇とインフレがもたらす日本経済および家計への影響と構造転換：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260619",
+      "rank": 4,
+      "title": "周囲を巻き込むコペルニクス的転回",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=vtsmu18a07",
+      "source_file": "keizai-web/public/reports/20260619/Rank4_周囲を巻き込むコペルニクス的転回.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260619",
+      "rank": 5,
+      "title": "日本の宿泊・ホテル市場2026～「回復」から「進化」の局面へ　Ⅱ",
+      "source_url": "https://www.nomu.com/cre-navi/market/20260618.html?article_url=%2Fmarket%2F20260618.html",
+      "source_file": "keizai-web/public/reports/20260619/Rank5_日本の宿泊・ホテル市場2026～「回復」から「進化」の局面へ　Ⅱ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260619",
+      "rank": 6,
+      "title": "米企業のAI利用に2つの潮流：価格競争が激化するAI業界：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260618.html",
+      "source_file": "keizai-web/public/reports/20260619/Rank6_米企業のAI利用に2つの潮流：価格競争が激化するAI業界：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260618",
       "rank": 1,
