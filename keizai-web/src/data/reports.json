@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260620",
     "20260619",
     "20260618",
     "20260617",
@@ -50,6 +51,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260620",
+      "rank": 1,
+      "title": "AIバブルについて【講演資料・動画】",
+      "source_url": "https://cigs.canon/uploads/2026/06/cigs_ai_bubble_tomohiro_hirano.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank1_AIバブルについて【講演資料・動画】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260620",
+      "rank": 2,
+      "title": "米イランとの覚書に隠れたリスク～日本へのメリットはあるのか？：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623304.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank2_米イランとの覚書に隠れたリスク～日本へのメリットはあるのか？：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260620",
+      "rank": 3,
+      "title": "日銀の利上げは為替に無意味なのか：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/623292.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank3_日銀の利上げは為替に無意味なのか：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260620",
+      "rank": 4,
+      "title": "巻頭言：長寿化とAIが変える日本経済",
+      "source_url": "https://www.mof.go.jp/public_relations/finance/202606/pdf/202606b.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank4_巻頭言：長寿化とAIが変える日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260620",
+      "rank": 5,
+      "title": "もしウォーシュ議長が金利見通しを提出していたら～ドットチャートの弱体化：US Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623268.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank5_もしウォーシュ議長が金利見通しを提出していたら～ドットチャートの弱体化：US Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260620",
+      "rank": 6,
+      "title": "問われる地方創生臨時交付金のあり方：Economist Column No.2026-032",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260620/Rank6_問われる地方創生臨時交付金のあり方：Economist Column No.2026-032.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260619",
       "rank": 1,
