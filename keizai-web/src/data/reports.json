@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260621",
     "20260620",
     "20260619",
     "20260618",
@@ -51,6 +52,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260621",
+      "rank": 1,
+      "title": "AIバブルについて【講演資料・動画】",
+      "source_url": "https://cigs.canon/uploads/2026/06/cigs_ai_bubble_tomohiro_hirano.pdf",
+      "source_file": "keizai-web/public/reports/20260621/Rank1_AIバブルについて【講演資料・動画】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260621",
+      "rank": 2,
+      "title": "大阪信用金庫の新本店ビルの建替え：ニュース＆トピックス：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260619-post-673.html",
+      "source_file": "keizai-web/public/reports/20260621/Rank2_大阪信用金庫の新本店ビルの建替え：ニュース＆トピックス：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260621",
+      "rank": 3,
+      "title": "信用金庫の預金動向と法人預金推進の方向性～「金利のある世界」における預金基盤再構築に向けて：金融調査情報",
+      "source_url": "https://www.scbri.jp/reports/finance/20260619-post-674.html",
+      "source_file": "keizai-web/public/reports/20260621/Rank3_信用金庫の預金動向と法人預金推進の方向性～「金利のある世界」における預金基盤再構築に向けて：金融調査情報.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260621",
+      "rank": 4,
+      "title": "人工知能基本計画（素案）",
+      "source_url": "https://www8.cao.go.jp/cstp/stmain/20260619ai/aiplan_2601_draft.pdf",
+      "source_file": "keizai-web/public/reports/20260621/Rank4_人工知能基本計画（素案）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260621",
+      "rank": 5,
+      "title": "投資信託の外国税額控除の制度解説とファンドに及ぼす影響の試算～税引後リターンに年率0.1％～0.9％pt程度の差が生じる可能性も：税制",
+      "source_url": "https://www.dir.co.jp/report/research/law-research/tax/20190612_020839.pdf",
+      "source_file": "keizai-web/public/reports/20260621/Rank5_投資信託の外国税額控除の制度解説とファンドに及ぼす影響の試算～税引後リターンに年率0.1％～0.9％pt程度の差が生じる可能性も：税制.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260621",
+      "rank": 6,
+      "title": "政府は17分野の成長戦略投資で官民合計370兆円規模を想定：なお課題も多く慎重な戦略策定が望まれる：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=672671&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260621/Rank6_政府は17分野の成長戦略投資で官民合計370兆円規模を想定：なお課題も多く慎重な戦略策定が望まれる：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260620",
       "rank": 1,
