@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260622",
     "20260621",
     "20260620",
     "20260619",
@@ -52,6 +53,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260622",
+      "rank": 1,
+      "title": "AIバブルについて【講演資料・動画】",
+      "source_url": "https://cigs.canon/uploads/2026/06/cigs_ai_bubble_tomohiro_hirano.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank1_AIバブルについて【講演資料・動画】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260622",
+      "rank": 2,
+      "title": "日本の自動車部品産業2026",
+      "source_url": "https://www.japia.or.jp/files/user/japia/east/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E7%94%A3%E6%A5%AD2026.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank2_日本の自動車部品産業2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260622",
+      "rank": 3,
+      "title": "人工知能基本計画（素案）",
+      "source_url": "https://www8.cao.go.jp/cstp/stmain/20260619ai/aiplan_2601_draft.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank3_人工知能基本計画（素案）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260622",
+      "rank": 4,
+      "title": "米イランとの覚書に隠れたリスク～日本へのメリットはあるのか？：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623304.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank4_米イランとの覚書に隠れたリスク～日本へのメリットはあるのか？：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260622",
+      "rank": 5,
+      "title": "統計でみる市区町村のすがた 2026",
+      "source_url": "https://www.stat.go.jp/data/guide/pdf/before_r.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank5_統計でみる市区町村のすがた 2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260622",
+      "rank": 6,
+      "title": "海外経済の潮流 161：米国経済を支えるAI向けデータセンター動向",
+      "source_url": "https://www.mof.go.jp/public_relations/finance/202606/pdf/202606j.pdf",
+      "source_file": "keizai-web/public/reports/20260622/Rank6_海外経済の潮流 161：米国経済を支えるAI向けデータセンター動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260621",
       "rank": 1,
