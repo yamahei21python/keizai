@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260623",
     "20260622",
     "20260621",
     "20260620",
@@ -53,6 +54,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260623",
+      "rank": 1,
+      "title": "危険水域に入ってきた「投機の円売り」：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260622.pdf",
+      "source_file": "keizai-web/public/reports/20260623/Rank1_危険水域に入ってきた「投機の円売り」：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260623",
+      "rank": 2,
+      "title": "「崩れていく国家」の先のあるもの。（原田武夫の”Future Predicts.” Vol. 87）",
+      "source_url": "https://haradatakeo.com/special/514718/",
+      "source_file": "keizai-web/public/reports/20260623/Rank2_「崩れていく国家」の先のあるもの。（原田武夫の”Future Predicts.” Vol. 87）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260623",
+      "rank": 3,
+      "title": "戦略17分野の官民370兆円投資：総花的で見えにくい成長戦略の理念：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260622.html",
+      "source_file": "keizai-web/public/reports/20260623/Rank3_戦略17分野の官民370兆円投資：総花的で見えにくい成長戦略の理念：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260623",
+      "rank": 4,
+      "title": "未婚化社会データ考～「結婚相手が自分に求めること」バイアスの壁：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/85961_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260623/Rank4_未婚化社会データ考～「結婚相手が自分に求めること」バイアスの壁：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260623",
+      "rank": 5,
+      "title": "「チャイナ・イノベーション」をどう捉えるか 神戸大学大学院経済学研究科・梶谷懐教授",
+      "source_url": "https://spap.jst.go.jp/china/experiences/economy/economy_2614.html",
+      "source_file": "keizai-web/public/reports/20260623/Rank5_「チャイナ・イノベーション」をどう捉えるか 神戸大学大学院経済学研究科・梶谷懐教授.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260623",
+      "rank": 6,
+      "title": "7万円も通過点となった日経平均株価の上昇ペースを再考する：市川レポート",
+      "source_url": "https://www.smd-am.co.jp/market/ichikawa/2026/06/irepo260622.pdf",
+      "source_file": "keizai-web/public/reports/20260623/Rank6_7万円も通過点となった日経平均株価の上昇ペースを再考する：市川レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260622",
       "rank": 1,
