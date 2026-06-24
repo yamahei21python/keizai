@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260624",
     "20260623",
     "20260622",
     "20260621",
@@ -54,6 +55,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260624",
+      "rank": 1,
+      "title": "家計資産「株・投信・債券4割目標」で何が変わるのか～国際比較でみる日本の特徴と政府新目標の温度感：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623389.pdf",
+      "source_file": "keizai-web/public/reports/20260624/Rank1_家計資産「株・投信・債券4割目標」で何が変わるのか～国際比較でみる日本の特徴と政府新目標の温度感：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260624",
+      "rank": 2,
+      "title": "AIは規制産業化するのか：曲がり角に差し掛かるAI開発競争",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260623_tamaoki.pdf",
+      "source_file": "keizai-web/public/reports/20260624/Rank2_AIは規制産業化するのか：曲がり角に差し掛かるAI開発競争.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260624",
+      "rank": 3,
+      "title": "食料品消費税の時限的減税がもたらす経済的効果と構造的課題：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623349.pdf",
+      "source_file": "keizai-web/public/reports/20260624/Rank3_食料品消費税の時限的減税がもたらす経済的効果と構造的課題：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260624",
+      "rank": 4,
+      "title": "日銀短観と株式市場そして金融政策：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/623352.pdf",
+      "source_file": "keizai-web/public/reports/20260624/Rank4_日銀短観と株式市場そして金融政策：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260624",
+      "rank": 5,
+      "title": "みずほ経済ウィークリー 2026年6月23日～日本の輸出にもAI需要の恩恵。製品別では濃淡も",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0061/index.html",
+      "source_file": "keizai-web/public/reports/20260624/Rank5_みずほ経済ウィークリー 2026年6月23日～日本の輸出にもAI需要の恩恵。製品別では濃淡も.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260624",
+      "rank": 6,
+      "title": "予測市場はAI時代の新たな情報インフラになるのか～Polymarketが映す「未来の価格」：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623355.pdf",
+      "source_file": "keizai-web/public/reports/20260624/Rank6_予測市場はAI時代の新たな情報インフラになるのか～Polymarketが映す「未来の価格」：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260623",
       "rank": 1,
