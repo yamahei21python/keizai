@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260625",
     "20260624",
     "20260623",
     "20260622",
@@ -55,6 +56,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260625",
+      "rank": 1,
+      "title": "戦略17分野における「主要な製品・技術等」の官民投資ロードマップ（案）",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shidai.pdf",
+      "source_file": "keizai-web/public/reports/20260625/Rank1_戦略17分野における「主要な製品・技術等」の官民投資ロードマップ（案）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260625",
+      "rank": 2,
+      "title": "「日本の所得分配・再分配に関する研究会」報告書",
+      "source_url": "https://www.mof.go.jp/pri/research/conference/fy2026/bunpaireport00.pdf",
+      "source_file": "keizai-web/public/reports/20260625/Rank2_「日本の所得分配・再分配に関する研究会」報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260625",
+      "rank": 3,
+      "title": "地域未来戦略の政策パッケージ",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shidai.pdf",
+      "source_file": "keizai-web/public/reports/20260625/Rank3_地域未来戦略の政策パッケージ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260625",
+      "rank": 4,
+      "title": "創造性10の源泉レポート",
+      "source_url": "https://www.hakuhodo.co.jp/news/info/267275/",
+      "source_file": "keizai-web/public/reports/20260625/Rank4_創造性10の源泉レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260625",
+      "rank": 5,
+      "title": "我が国のブルーカーボン事業の可能性調査",
+      "source_url": "https://www.dbj.jp/investigate/assets/2026062410001.pdf",
+      "source_file": "keizai-web/public/reports/20260625/Rank5_我が国のブルーカーボン事業の可能性調査.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260625",
+      "rank": 6,
+      "title": "若年層の投資行動と生活設計意識～定量調査から見える生活設計意識の重要性",
+      "source_url": "https://www.imaj.or.jp/statistics/research/pdf-cms/20260624IMAJ_report.pdf",
+      "source_file": "keizai-web/public/reports/20260625/Rank6_若年層の投資行動と生活設計意識～定量調査から見える生活設計意識の重要性.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260624",
       "rank": 1,
