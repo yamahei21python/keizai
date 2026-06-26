@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260626",
     "20260625",
     "20260624",
     "20260623",
@@ -56,6 +57,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260626",
+      "rank": 1,
+      "title": "第200回「なぜ日本人の生産性はドイツ人の半分なのか（2）～失われた30年を生み出した大きな要因～」：IoT、AI等デジタル化の経済学",
+      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/200.html",
+      "source_file": "keizai-web/public/reports/20260626/Rank1_第200回「なぜ日本人の生産性はドイツ人の半分なのか（2）～失われた30年を生み出した大きな要因～」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260626",
+      "rank": 2,
+      "title": "資本コストを意識した経営：批判的コメント",
+      "source_url": "https://www.jsri.or.jp/publish/research/pdf/135/135_05.pdf",
+      "source_file": "keizai-web/public/reports/20260626/Rank2_資本コストを意識した経営：批判的コメント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260626",
+      "rank": 3,
+      "title": "AI浸透でオフィス需要は縮小するか？～米国オフィス市場とAI浸透に関する調査レポート～",
+      "source_url": "https://www.officesoken.jp/Will-AI-reduce-office-demand-2026.pdf",
+      "source_file": "keizai-web/public/reports/20260626/Rank3_AI浸透でオフィス需要は縮小するか？～米国オフィス市場とAI浸透に関する調査レポート～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260626",
+      "rank": 4,
+      "title": "戦略17分野の官民投資：従来の産業政策の枠を超える過剰な国家関与と財政悪化が懸念される：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260625.html",
+      "source_file": "keizai-web/public/reports/20260626/Rank4_戦略17分野の官民投資：従来の産業政策の枠を超える過剰な国家関与と財政悪化が懸念される：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260626",
+      "rank": 5,
+      "title": "〔論稿〕世界の投資信託のトレンドはどう変化しているか～変わったこと・変わらないこと：証券レビュー",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=673451&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260626/Rank5_〔論稿〕世界の投資信託のトレンドはどう変化しているか～変わったこと・変わらないこと：証券レビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260626",
+      "rank": 6,
+      "title": "AI競争の勝敗を左右する電力インフラ：Economist Column No.2026-034",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260626/Rank6_AI競争の勝敗を左右する電力インフラ：Economist Column No.2026-034.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260625",
       "rank": 1,
