@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260627",
     "20260626",
     "20260625",
     "20260624",
@@ -57,6 +58,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260627",
+      "rank": 1,
+      "title": "「ホルムズ海峡危機」の大反省会：溜池通信Vol.840",
+      "source_url": "http://tameike.net/pdfs8/tame840.PDF",
+      "source_file": "keizai-web/public/reports/20260627/Rank1_「ホルムズ海峡危機」の大反省会：溜池通信Vol.840.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260627",
+      "rank": 2,
+      "title": "中国人型ロボット産業における技術革新の最新動向",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000063002.pdf",
+      "source_file": "keizai-web/public/reports/20260627/Rank2_中国人型ロボット産業における技術革新の最新動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260627",
+      "rank": 3,
+      "title": "財政再建のための奇策～100兆円の日銀含み益を使えないか？：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623484.pdf",
+      "source_file": "keizai-web/public/reports/20260627/Rank3_財政再建のための奇策～100兆円の日銀含み益を使えないか？：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260627",
+      "rank": 4,
+      "title": "人口減少と不確実性の時代における国力の強化と財政運営",
+      "source_url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20260626/01.pdf",
+      "source_file": "keizai-web/public/reports/20260627/Rank4_人口減少と不確実性の時代における国力の強化と財政運営.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260627",
+      "rank": 5,
+      "title": "米国トランプ政権の関税政策の要旨 2026年6月11日",
+      "source_url": "https://www.jetro.go.jp/ext_images/world/us_tariff/pdf/00_20260611_v2.pdf",
+      "source_file": "keizai-web/public/reports/20260627/Rank5_米国トランプ政権の関税政策の要旨 2026年6月11日.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260627",
+      "rank": 6,
+      "title": "イタリア政治に不安定化の兆候～インフレや景気減速で強まる政策的ジレンマ：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0062/index.html",
+      "source_file": "keizai-web/public/reports/20260627/Rank6_イタリア政治に不安定化の兆候～インフレや景気減速で強まる政策的ジレンマ：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260626",
       "rank": 1,
