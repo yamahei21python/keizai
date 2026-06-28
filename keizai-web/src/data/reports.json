@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260628",
     "20260627",
     "20260626",
     "20260625",
@@ -58,6 +59,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260628",
+      "rank": 1,
+      "title": "フィジカルAIの社会実装 ～技術を現場に届けるための産業構造と政策：今月のトピックスNo.445",
+      "source_url": "https://www.dbj.jp/investigate/assets/26062630.pdf",
+      "source_file": "keizai-web/public/reports/20260628/Rank1_フィジカルAIの社会実装 ～技術を現場に届けるための産業構造と政策：今月のトピックスNo.445.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260628",
+      "rank": 2,
+      "title": "米国のAI・データセンター投資ブームは物価高をもたらす：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260626.html",
+      "source_file": "keizai-web/public/reports/20260628/Rank2_米国のAI・データセンター投資ブームは物価高をもたらす：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260628",
+      "rank": 3,
+      "title": "急成長する海外で稼ぐ力は日本株を下支えに ～非製造業主導で深化する日本企業のグローバル展開～",
+      "source_url": "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260626.pdf",
+      "source_file": "keizai-web/public/reports/20260628/Rank3_急成長する海外で稼ぐ力は日本株を下支えに ～非製造業主導で深化する日本企業のグローバル展開～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260628",
+      "rank": 4,
+      "title": "【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか（１）：為替介入の効果と限界",
+      "source_url": "https://www.am-one.co.jp/hagukumu/article/column-20260626-1.html",
+      "source_file": "keizai-web/public/reports/20260628/Rank4_【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか（１）：為替介入の効果と限界.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260628",
+      "rank": 5,
+      "title": "多様なチームと共に歩む～サウジアラビアでのビジネス：現地だより",
+      "source_url": "https://www.jccme.or.jp/download?document_option_id=5204",
+      "source_file": "keizai-web/public/reports/20260628/Rank5_多様なチームと共に歩む～サウジアラビアでのビジネス：現地だより.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260628",
+      "rank": 6,
+      "title": "投資INSIDE-OUT vol.398　AI相場は続くのか？～米マイクロンの決算にみる半導体需要の動向",
+      "source_url": "https://www.smtam.jp/report_column/pdf/cat_07/HPVol.398_AI20260626k.pdf",
+      "source_file": "keizai-web/public/reports/20260628/Rank6_投資INSIDE-OUT vol.398　AI相場は続くのか？～米マイクロンの決算にみる半導体需要の動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260627",
       "rank": 1,
