@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260629",
     "20260628",
     "20260627",
     "20260626",
@@ -59,6 +60,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260629",
+      "rank": 1,
+      "title": "「ホルムズ海峡危機」の大反省会：溜池通信Vol.840",
+      "source_url": "http://tameike.net/pdfs8/tame840.PDF",
+      "source_file": "keizai-web/public/reports/20260629/Rank1_「ホルムズ海峡危機」の大反省会：溜池通信Vol.840.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260629",
+      "rank": 2,
+      "title": "中国人型ロボット産業における技術革新の最新動向",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000063002.pdf",
+      "source_file": "keizai-web/public/reports/20260629/Rank2_中国人型ロボット産業における技術革新の最新動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260629",
+      "rank": 3,
+      "title": "ホルムズ海峡封鎖と石油備蓄：経済の動き",
+      "source_url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/171_2.pdf",
+      "source_file": "keizai-web/public/reports/20260629/Rank3_ホルムズ海峡封鎖と石油備蓄：経済の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260629",
+      "rank": 4,
+      "title": "働き方改革の現在地と見直しの行方：経済の動き",
+      "source_url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/171_1.pdf",
+      "source_file": "keizai-web/public/reports/20260629/Rank4_働き方改革の現在地と見直しの行方：経済の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260629",
+      "rank": 5,
+      "title": "フィジカルAIの社会実装 ～技術を現場に届けるための産業構造と政策：今月のトピックスNo.445",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=673579&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260629/Rank5_フィジカルAIの社会実装 ～技術を現場に届けるための産業構造と政策：今月のトピックスNo.445.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260629",
+      "rank": 6,
+      "title": "財政再建のための奇策～100兆円の日銀含み益を使えないか？：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623484.pdf",
+      "source_file": "keizai-web/public/reports/20260629/Rank6_財政再建のための奇策～100兆円の日銀含み益を使えないか？：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260628",
       "rank": 1,
