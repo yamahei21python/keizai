@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260630",
     "20260629",
     "20260628",
     "20260627",
@@ -60,6 +61,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260630",
+      "rank": 1,
+      "title": "AIブームに沸く米データセンター建設、その拡大に忍び寄る制約～電力需要の急増に加え、水資源や景観を巡る住民反発も広がる：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86101_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260630/Rank1_AIブームに沸く米データセンター建設、その拡大に忍び寄る制約～電力需要の急増に加え、水資源や景観を巡る住民反発も広がる：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260630",
+      "rank": 2,
+      "title": "「欲しい」はある、でも買えない～購入待ちリストから読み解くZ世代の消費心理：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86089_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260630/Rank2_「欲しい」はある、でも買えない～購入待ちリストから読み解くZ世代の消費心理：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260630",
+      "rank": 3,
+      "title": "AIファーストとは何か？AI前提で会社を設計し直す新しい経営モデル",
+      "source_url": "https://dx.mri.co.jp/column/column-1203/",
+      "source_file": "keizai-web/public/reports/20260630/Rank3_AIファーストとは何か？AI前提で会社を設計し直す新しい経営モデル.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260630",
+      "rank": 4,
+      "title": "家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか～キャッシュレス時代に強まる預金口座の「決済ハブ」機能：Flash Insight",
+      "source_url": "https://www.dlri.co.jp/files/ld/623522.pdf",
+      "source_file": "keizai-web/public/reports/20260630/Rank4_家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか～キャッシュレス時代に強まる預金口座の「決済ハブ」機能：Flash Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260630",
+      "rank": 5,
+      "title": "日経平均株価に働き始めた調整圧力～AIバブルに加わった試練：Economic Trends",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=673773&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260630/Rank5_日経平均株価に働き始めた調整圧力～AIバブルに加わった試練：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260630",
+      "rank": 6,
+      "title": "バブルの生成と崩壊の定点観測(2)～バブルかどうかは弾けてみないと分からない～：鳥瞰の眼・虫瞰の眼",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=673777&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260630/Rank6_バブルの生成と崩壊の定点観測(2)～バブルかどうかは弾けてみないと分からない～：鳥瞰の眼・虫瞰の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260629",
       "rank": 1,
