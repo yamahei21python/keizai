@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260702",
     "20260701",
     "20260630",
     "20260629",
@@ -62,6 +63,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260702",
+      "rank": 1,
+      "title": "最低賃金1500円で変わる職業地図～影響を最も受ける職業は何か：基礎研レポート",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86110_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260702/Rank1_最低賃金1500円で変わる職業地図～影響を最も受ける職業は何か：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260702",
+      "rank": 2,
+      "title": "基軸通貨米ドルの現状評価と今後(2026年版)～トランプ2.0と基軸通貨米ドルのプレゼンスへの影響：国際通貨研レポート",
+      "source_url": "https://www.iima.or.jp/docs/newsletter/2026/nl2026.36.pdf",
+      "source_file": "keizai-web/public/reports/20260702/Rank2_基軸通貨米ドルの現状評価と今後(2026年版)～トランプ2.0と基軸通貨米ドルのプレゼンスへの影響：国際通貨研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260702",
+      "rank": 3,
+      "title": "令和8年分の路線価図等",
+      "source_url": "https://www.rosenka.nta.go.jp/main_r08/index.htm",
+      "source_file": "keizai-web/public/reports/20260702/Rank3_令和8年分の路線価図等.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260702",
+      "rank": 4,
+      "title": "資源戦略としての循環経済～リチウム・レアアースを中心に",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=674338&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260702/Rank4_資源戦略としての循環経済～リチウム・レアアースを中心に.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260702",
+      "rank": 5,
+      "title": "骨太の方針原案で明らかになる政府による日本銀行の利上げ牽制姿勢と円安進行リスク：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260701.html",
+      "source_file": "keizai-web/public/reports/20260702/Rank5_骨太の方針原案で明らかになる政府による日本銀行の利上げ牽制姿勢と円安進行リスク：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260702",
+      "rank": 6,
+      "title": "骨太方針2026のポイント（総論編）～責任ある積極財政の具体化と「成長重視」へのギアチェンジ：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623625.pdf",
+      "source_file": "keizai-web/public/reports/20260702/Rank6_骨太方針2026のポイント（総論編）～責任ある積極財政の具体化と「成長重視」へのギアチェンジ：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260701",
       "rank": 1,
