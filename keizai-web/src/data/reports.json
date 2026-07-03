@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260703",
     "20260702",
     "20260701",
     "20260630",
@@ -63,6 +64,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260703",
+      "rank": 1,
+      "title": "AIと経済安全保障が変える米国の成長モデル～成長を支える投資と高齢社会で高まる構造的インフレ圧力：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0073/index.html",
+      "source_file": "keizai-web/public/reports/20260703/Rank1_AIと経済安全保障が変える米国の成長モデル～成長を支える投資と高齢社会で高まる構造的インフレ圧力：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260703",
+      "rank": 2,
+      "title": "インフレ時代の資産運用～株式と債券の分散効果に変化の兆し：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623697.pdf",
+      "source_file": "keizai-web/public/reports/20260703/Rank2_インフレ時代の資産運用～株式と債券の分散効果に変化の兆し：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260703",
+      "rank": 3,
+      "title": "東京都心部におけるマンション価格高騰と短期転売について",
+      "source_url": "https://www.nomu.com/cre-navi/trend/20260702.html?article_url=%2Ftrend%2F20260702.html",
+      "source_file": "keizai-web/public/reports/20260703/Rank3_東京都心部におけるマンション価格高騰と短期転売について.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260703",
+      "rank": 4,
+      "title": "高まる家計の節約志向～中東情勢を受けたインフレ再加速が、今後の消費の重石に：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0071/index.html",
+      "source_file": "keizai-web/public/reports/20260703/Rank4_高まる家計の節約志向～中東情勢を受けたインフレ再加速が、今後の消費の重石に：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260703",
+      "rank": 5,
+      "title": "プライベート・クレジット投資の実際",
+      "source_url": "https://www.mercer.com/ja-jp/insights/investments/alternative-investments/pension-fund-202606/",
+      "source_file": "keizai-web/public/reports/20260703/Rank5_プライベート・クレジット投資の実際.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260703",
+      "rank": 6,
+      "title": "ロシア、産油国が石油不足に陥る苦境の背景とは～ウクライナによるドローン攻撃が奏功も、ウクライナ戦争の行方は見通せない展開が続こう：World Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623690.pdf",
+      "source_file": "keizai-web/public/reports/20260703/Rank6_ロシア、産油国が石油不足に陥る苦境の背景とは～ウクライナによるドローン攻撃が奏功も、ウクライナ戦争の行方は見通せない展開が続こう：World Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260702",
       "rank": 1,
