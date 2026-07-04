@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260704",
     "20260703",
     "20260702",
     "20260701",
@@ -64,6 +65,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260704",
+      "rank": 1,
+      "title": "米民主党は社会主義化するのか？～急進左派が躍進、中間選挙後に経済路線を再選択へ：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0072/index.html",
+      "source_file": "keizai-web/public/reports/20260704/Rank1_米民主党は社会主義化するのか？～急進左派が躍進、中間選挙後に経済路線を再選択へ：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260704",
+      "rank": 2,
+      "title": "骨太方針2026のポイント（財政運営編）～責任ある積極財政：評価すべき点と懸念が残る点：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623748.pdf",
+      "source_file": "keizai-web/public/reports/20260704/Rank2_骨太方針2026のポイント（財政運営編）～責任ある積極財政：評価すべき点と懸念が残る点：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260704",
+      "rank": 3,
+      "title": "世界で強まる米国への不信感～ただ、経済面での米国離れにはハードル：US Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623754.pdf",
+      "source_file": "keizai-web/public/reports/20260704/Rank3_世界で強まる米国への不信感～ただ、経済面での米国離れにはハードル：US Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260704",
+      "rank": 4,
+      "title": "約40年ぶりの円安ドル高、日本経済への影響は？～円安の恩恵は偏在し、直近1年間の実質GDPへの影響は▲0.14％：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260703_025880.pdf",
+      "source_file": "keizai-web/public/reports/20260704/Rank4_約40年ぶりの円安ドル高、日本経済への影響は？～円安の恩恵は偏在し、直近1年間の実質GDPへの影響は▲0.14％：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260704",
+      "rank": 5,
+      "title": "生成AIの発展に伴う米国の重要鉱物戦略の動向：地域・分析レポート",
+      "source_url": "https://www.jetro.go.jp/ext_images/biz/areareports/2026/729269e9b406c29c/g01.pdf",
+      "source_file": "keizai-web/public/reports/20260704/Rank5_生成AIの発展に伴う米国の重要鉱物戦略の動向：地域・分析レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260704",
+      "rank": 6,
+      "title": "こうしてイラン戦争は台湾問題に波及した～全方位的な中国のエネルギー安全保障...",
+      "source_url": "https://www.jspmi.or.jp/system/file/6/203/No76columnTakemori.pdf",
+      "source_file": "keizai-web/public/reports/20260704/Rank6_こうしてイラン戦争は台湾問題に波及した～全方位的な中国のエネルギー安全保障....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260703",
       "rank": 1,
