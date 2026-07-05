@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260705",
     "20260704",
     "20260703",
     "20260702",
@@ -65,6 +66,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260705",
+      "rank": 1,
+      "title": "高シェアの死角～半導体電子材料メーカーの成長を支えるリスク設計",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/risk-resilience-design.html",
+      "source_file": "keizai-web/public/reports/20260705/Rank1_高シェアの死角～半導体電子材料メーカーの成長を支えるリスク設計.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260705",
+      "rank": 2,
+      "title": "問われるファンダメンタルズの正常化：「金利のある世界」と不動産市場の新たな局面",
+      "source_url": "https://www.lij.jp/html/jli/jli_2026/2026spring_p003.pdf",
+      "source_file": "keizai-web/public/reports/20260705/Rank2_問われるファンダメンタルズの正常化：「金利のある世界」と不動産市場の新たな局面.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260705",
+      "rank": 3,
+      "title": "緩められる財政健全化目標と財政規律：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260703_2.html",
+      "source_file": "keizai-web/public/reports/20260705/Rank3_緩められる財政健全化目標と財政規律：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260705",
+      "rank": 4,
+      "title": "金融環境の変化と不動産投資市場～オフィス市場を中心に：「金利のある世界」と不動産市場の新たな局面",
+      "source_url": "https://www.lij.jp/html/jli/jli_2026/2026spring_p026.pdf",
+      "source_file": "keizai-web/public/reports/20260705/Rank4_金融環境の変化と不動産投資市場～オフィス市場を中心に：「金利のある世界」と不動産市場の新たな局面.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260705",
+      "rank": 5,
+      "title": "金利上昇・コスト高騰化における都市開発の現状と今後の展望：「金利のある世界」と不動産市場の新たな局面",
+      "source_url": "https://www.lij.jp/html/jli/jli_2026/2026spring_p040.pdf",
+      "source_file": "keizai-web/public/reports/20260705/Rank5_金利上昇・コスト高騰化における都市開発の現状と今後の展望：「金利のある世界」と不動産市場の新たな局面.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260705",
+      "rank": 6,
+      "title": "金利転換期における不動産業の期待形成～業況の予測誤差からみた構造変化：「金利のある世界」と不動産市場の新たな局面",
+      "source_url": "https://www.lij.jp/html/jli/jli_2026/2026spring_p053.pdf",
+      "source_file": "keizai-web/public/reports/20260705/Rank6_金利転換期における不動産業の期待形成～業況の予測誤差からみた構造変化：「金利のある世界」と不動産市場の新たな局面.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260704",
       "rank": 1,
