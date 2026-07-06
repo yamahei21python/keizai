@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260706",
     "20260705",
     "20260704",
     "20260703",
@@ -66,6 +67,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260706",
+      "rank": 1,
+      "title": "骨太方針2026のポイント（財政運営編）～責任ある積極財政：評価すべき点と懸念が残る点：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/623748.pdf",
+      "source_file": "keizai-web/public/reports/20260706/Rank1_骨太方針2026のポイント（財政運営編）～責任ある積極財政：評価すべき点と懸念が残る点：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260706",
+      "rank": 2,
+      "title": "約40年ぶりの円安ドル高、日本経済への影響は？～円安の恩恵は偏在し、直近1年間の実質GDPへの影響は▲0.14％：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260703_025880.pdf",
+      "source_file": "keizai-web/public/reports/20260706/Rank2_約40年ぶりの円安ドル高、日本経済への影響は？～円安の恩恵は偏在し、直近1年間の実質GDPへの影響は▲0.14％：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260706",
+      "rank": 3,
+      "title": "「使わなくても困らない」生成AIを従業員にどう活用させるか",
+      "source_url": "https://www.dir.co.jp/report/column/20260703_012448.html",
+      "source_file": "keizai-web/public/reports/20260706/Rank3_「使わなくても困らない」生成AIを従業員にどう活用させるか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260706",
+      "rank": 4,
+      "title": "370兆円超の官民投資は日本を変えるか ～問われる投資の実効性と改革の本気度～",
+      "source_url": "https://www.myri.co.jp/viewpdf.php?id=aead22f5cd0f2491f2c1bdd47722c7a118856488f27076b1b026c07a919ba61bf6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496a90a2ceeddc267d97a719d73189aa7d20e2bc269429cecfa31ca2fe23f7c85972dbe79de8c77e729bf510906dd9f87f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61dd360dcf81aa41020f969b7117557c0022bfd4b5cddd050b989ea836720dc&tmp=1783068868",
+      "source_file": "keizai-web/public/reports/20260706/Rank4_370兆円超の官民投資は日本を変えるか ～問われる投資の実効性と改革の本気度～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260706",
+      "rank": 5,
+      "title": "使われない老後資産が映す日本の不安～日本に求められる「デキュムレーション」の設計図：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623771.pdf",
+      "source_file": "keizai-web/public/reports/20260706/Rank5_使われない老後資産が映す日本の不安～日本に求められる「デキュムレーション」の設計図：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260706",
+      "rank": 6,
+      "title": "米民主党は社会主義化するのか？～急進左派が躍進、中間選挙後に経済路線を再選択へ：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0072/index.html",
+      "source_file": "keizai-web/public/reports/20260706/Rank6_米民主党は社会主義化するのか？～急進左派が躍進、中間選挙後に経済路線を再選択へ：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260705",
       "rank": 1,
