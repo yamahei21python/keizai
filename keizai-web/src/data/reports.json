@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260707",
     "20260706",
     "20260705",
     "20260704",
@@ -67,6 +68,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260707",
+      "rank": 1,
+      "title": "「いよいよ、インド」はホンモノか",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/region_202606_2/files/1_no030.pdf",
+      "source_file": "keizai-web/public/reports/20260707/Rank1_「いよいよ、インド」はホンモノか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260707",
+      "rank": 2,
+      "title": "AIエージェントは人々の生活をどう変えていくのか（前編）～エージェンティック・コマースの現在と将来展望",
+      "source_url": "https://www.dir.co.jp/jump.html?url=https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_22.pdf",
+      "source_file": "keizai-web/public/reports/20260707/Rank2_AIエージェントは人々の生活をどう変えていくのか（前編）～エージェンティック・コマースの現在と将来展望.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260707",
+      "rank": 3,
+      "title": "第201回「なぜ日本人の生産性はドイツ人の半分なのか（3）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=674836&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260707/Rank3_第201回「なぜ日本人の生産性はドイツ人の半分なのか（3）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260707",
+      "rank": 4,
+      "title": "続く円安と物価高の連鎖：政府の政策が自ら円安リスクを高める：2022年以来の円安で家計負担は年間4.7万円に：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260706.html",
+      "source_file": "keizai-web/public/reports/20260707/Rank4_続く円安と物価高の連鎖：政府の政策が自ら円安リスクを高める：2022年以来の円安で家計負担は年間4.7万円に：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260707",
+      "rank": 5,
+      "title": "原油価格急落でも円安が解消されない理由：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260706.pdf",
+      "source_file": "keizai-web/public/reports/20260707/Rank5_原油価格急落でも円安が解消されない理由：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260707",
+      "rank": 6,
+      "title": "なぜ学生のリアペは面白くなくなっているのか",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=674756&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260707/Rank6_なぜ学生のリアペは面白くなくなっているのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260706",
       "rank": 1,
