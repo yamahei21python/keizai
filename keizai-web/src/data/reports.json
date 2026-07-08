@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260708",
     "20260707",
     "20260706",
     "20260705",
@@ -68,6 +69,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260708",
+      "rank": 1,
+      "title": "AI半導体バブルはどこまで続くのか～AI半導体投資の過熱と、インフラ投資回収の限界：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/623841.pdf",
+      "source_file": "keizai-web/public/reports/20260708/Rank1_AI半導体バブルはどこまで続くのか～AI半導体投資の過熱と、インフラ投資回収の限界：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260708",
+      "rank": 2,
+      "title": "日本のエネルギー政策の展望",
+      "source_url": "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202607_no170.pdf",
+      "source_file": "keizai-web/public/reports/20260708/Rank2_日本のエネルギー政策の展望.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260708",
+      "rank": 3,
+      "title": "過去最高の税収額は何を意味するのか？：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260707_00001.html",
+      "source_file": "keizai-web/public/reports/20260708/Rank3_過去最高の税収額は何を意味するのか？：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260708",
+      "rank": 4,
+      "title": "骨太方針2026「原案」を読み解く～高市内閣「責任ある積極財政」具体化に向けた大枠：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86185_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260708/Rank4_骨太方針2026「原案」を読み解く～高市内閣「責任ある積極財政」具体化に向けた大枠：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260708",
+      "rank": 5,
+      "title": "AIが米国経済にもたらす恩恵とリスク：今月のトピックスNo.446",
+      "source_url": "https://www.dbj.jp/investigate/assets/202607071000.pdf",
+      "source_file": "keizai-web/public/reports/20260708/Rank5_AIが米国経済にもたらす恩恵とリスク：今月のトピックスNo.446.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260708",
+      "rank": 6,
+      "title": "感情労働とは？具体的な職種や向いている人、ストレスやバーンアウト対策なども解説",
+      "source_url": "https://career-research.mynavi.jp/column/20260707_112275/",
+      "source_file": "keizai-web/public/reports/20260708/Rank6_感情労働とは？具体的な職種や向いている人、ストレスやバーンアウト対策なども解説.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260707",
       "rank": 1,
