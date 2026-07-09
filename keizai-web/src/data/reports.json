@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260709",
     "20260708",
     "20260707",
     "20260706",
@@ -69,6 +70,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260709",
+      "rank": 1,
+      "title": "半導体株は何をみられているのか？：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/629138.pdf",
+      "source_file": "keizai-web/public/reports/20260709/Rank1_半導体株は何をみられているのか？：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260709",
+      "rank": 2,
+      "title": "一段と進む円安～日米金利差との連動性低下が示すドル円相場の新局面",
+      "source_url": "https://www.dir.co.jp/report/column/20260708_012450.html",
+      "source_file": "keizai-web/public/reports/20260709/Rank2_一段と進む円安～日米金利差との連動性低下が示すドル円相場の新局面.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260709",
+      "rank": 3,
+      "title": "シニアの推し活は「若者化」なのか～コンテンツ経験から読み解くシニア像：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86189_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260709/Rank3_シニアの推し活は「若者化」なのか～コンテンツ経験から読み解くシニア像：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260709",
+      "rank": 4,
+      "title": "骨太ショックによる長期金利上昇は財政政策への市場の警鐘：国内経済や世界の金融市場にも悪影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260708.html",
+      "source_file": "keizai-web/public/reports/20260709/Rank4_骨太ショックによる長期金利上昇は財政政策への市場の警鐘：国内経済や世界の金融市場にも悪影響：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260709",
+      "rank": 5,
+      "title": "「過剰学歴に関する調査」報告書：Works Report 2026",
+      "source_url": "https://www.works-i.com/research/report/item/over_qualification_surveys.pdf",
+      "source_file": "keizai-web/public/reports/20260709/Rank5_「過剰学歴に関する調査」報告書：Works Report 2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260709",
+      "rank": 6,
+      "title": "破産の全東信、20年前から粉飾決算か＝600億円超の債務超過のおそれ：TSRデータインサイト",
+      "source_url": "https://www.tsr-net.co.jp/data/detail/1203040_1527.html",
+      "source_file": "keizai-web/public/reports/20260709/Rank6_破産の全東信、20年前から粉飾決算か＝600億円超の債務超過のおそれ：TSRデータインサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260708",
       "rank": 1,
