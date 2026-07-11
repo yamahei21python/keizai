@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260711",
     "20260709",
     "20260708",
     "20260707",
@@ -70,6 +71,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260711",
+      "rank": 1,
+      "title": "2026年下半期の世界を読むヒント：溜池通信Vol.841",
+      "source_url": "http://tameike.net/pdfs8/tame841.PDF",
+      "source_file": "keizai-web/public/reports/20260711/Rank1_2026年下半期の世界を読むヒント：溜池通信Vol.841.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260711",
+      "rank": 2,
+      "title": "木内登英の経済の潮流～「円安・物価高の連鎖は続くか」：NRI JOURNAL",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260710.html",
+      "source_file": "keizai-web/public/reports/20260711/Rank2_木内登英の経済の潮流～「円安・物価高の連鎖は続くか」：NRI JOURNAL.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260711",
+      "rank": 3,
+      "title": "2040年の経済社会を見据えた日本成長戦略試算～EBPMかPBEMか？",
+      "source_url": "https://sbiferi.co.jp/assets/pdf/report/rep20260710_1.pdf",
+      "source_file": "keizai-web/public/reports/20260711/Rank3_2040年の経済社会を見据えた日本成長戦略試算～EBPMかPBEMか？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260711",
+      "rank": 4,
+      "title": "惑う米国、建国200周年の記憶～権限集中の再来、選挙は改革への転機になるか：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0075/index.html",
+      "source_file": "keizai-web/public/reports/20260711/Rank4_惑う米国、建国200周年の記憶～権限集中の再来、選挙は改革への転機になるか：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260711",
+      "rank": 5,
+      "title": "中小企業財務の現状と求められる金融機関の役割：リサーチ・フォーカス No.2026-023",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260711/Rank5_中小企業財務の現状と求められる金融機関の役割：リサーチ・フォーカス No.2026-023.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260711",
+      "rank": 6,
+      "title": "原油需給の現状整理～控える構造的な供給過剰と地政学リスクの再燃：Global Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/629228.pdf",
+      "source_file": "keizai-web/public/reports/20260711/Rank6_原油需給の現状整理～控える構造的な供給過剰と地政学リスクの再燃：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260709",
       "rank": 1,
