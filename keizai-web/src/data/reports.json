@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260712",
     "20260711",
     "20260709",
     "20260708",
@@ -71,6 +72,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260712",
+      "rank": 1,
+      "title": "グロースとバリューの境界の曖昧化が示唆する投資機会",
+      "source_url": "https://www.morganstanley.com/im/ja-jp/japanese-investor/insights/flash-report/market-pulse-with-jim-caron-20260629.html",
+      "source_file": "keizai-web/public/reports/20260712/Rank1_グロースとバリューの境界の曖昧化が示唆する投資機会.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260712",
+      "rank": 2,
+      "title": "東京都区部 新築マンションの価格帯別市況～億ション供給の増加（1億円未満の大幅減）と初月契約率（2026年5月期）",
+      "source_url": "https://daiwakantei.co.jp/wp/uploads/2026/07/660df2fba0859ea901f5abc46caa542c.pdf",
+      "source_file": "keizai-web/public/reports/20260712/Rank2_東京都区部 新築マンションの価格帯別市況～億ション供給の増加（1億円未満の大幅減）と初月契約率（2026年5月期）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260712",
+      "rank": 3,
+      "title": "【石黒英之のMarket Navi】AIバブル崩壊の兆候は何をみればよいのか？",
+      "source_url": "https://www.nomura-am.co.jp/market/marketcomment/20260710_Global_AI_Bubble_Markets_Equity.pdf",
+      "source_file": "keizai-web/public/reports/20260712/Rank3_【石黒英之のMarket Navi】AIバブル崩壊の兆候は何をみればよいのか？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260712",
+      "rank": 4,
+      "title": "工作機械受注が教えてくれる日本株・世界経済（26年６月）：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/629207.pdf",
+      "source_file": "keizai-web/public/reports/20260712/Rank4_工作機械受注が教えてくれる日本株・世界経済（26年６月）：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260712",
+      "rank": 5,
+      "title": "原油・ナフサの代替調達を着実に進める日本～気がかりなのは小規模企業のコスト上昇耐性：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0078/index.html",
+      "source_file": "keizai-web/public/reports/20260712/Rank5_原油・ナフサの代替調達を着実に進める日本～気がかりなのは小規模企業のコスト上昇耐性：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260712",
+      "rank": 6,
+      "title": "デュポン・サークル便り（7月10日）",
+      "source_url": "https://cigs.canon/blog/security/2026/07/10_1345.html",
+      "source_file": "keizai-web/public/reports/20260712/Rank6_デュポン・サークル便り（7月10日）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260711",
       "rank": 1,
