@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260713",
     "20260712",
     "20260711",
     "20260709",
@@ -72,6 +73,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260713",
+      "rank": 1,
+      "title": "2026年下半期の世界を読むヒント：溜池通信Vol.841",
+      "source_url": "http://tameike.net/pdfs8/tame841.PDF",
+      "source_file": "keizai-web/public/reports/20260713/Rank1_2026年下半期の世界を読むヒント：溜池通信Vol.841.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260713",
+      "rank": 2,
+      "title": "中国で進む「母親ペナルティ」と揺らぐ「父親プレミアム」：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86236_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260713/Rank2_中国で進む「母親ペナルティ」と揺らぐ「父親プレミアム」：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260713",
+      "rank": 3,
+      "title": "社外取締役受難の時代到来か",
+      "source_url": "https://www.jacd.jp/news/column/column-opinion/260710_post-369.html",
+      "source_file": "keizai-web/public/reports/20260713/Rank3_社外取締役受難の時代到来か.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260713",
+      "rank": 4,
+      "title": "部下の活力を奪う上司、取り戻す上司：ポジティブ・エナジャイザーに学ぶ、対話の質の高め方",
+      "source_url": "https://career-research.mynavi.jp/column/20260710_112401/",
+      "source_file": "keizai-web/public/reports/20260713/Rank4_部下の活力を奪う上司、取り戻す上司：ポジティブ・エナジャイザーに学ぶ、対話の質の高め方.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260713",
+      "rank": 5,
+      "title": "木内登英の経済の潮流～「円安・物価高の連鎖は続くか」：NRI JOURNAL",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260710.html",
+      "source_file": "keizai-web/public/reports/20260713/Rank5_木内登英の経済の潮流～「円安・物価高の連鎖は続くか」：NRI JOURNAL.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260713",
+      "rank": 6,
+      "title": "全東信の粉飾、資本と営業権と不動産から読み解く：TSRデータインサイト",
+      "source_url": "https://www.tsr-net.co.jp/data/detail/1203046_1527.html",
+      "source_file": "keizai-web/public/reports/20260713/Rank6_全東信の粉飾、資本と営業権と不動産から読み解く：TSRデータインサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260712",
       "rank": 1,
