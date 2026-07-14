@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260714",
     "20260713",
     "20260712",
     "20260711",
@@ -73,6 +74,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260714",
+      "rank": 1,
+      "title": "ホルムズ海峡の再封鎖：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260713.html",
+      "source_file": "keizai-web/public/reports/20260714/Rank1_ホルムズ海峡の再封鎖：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260714",
+      "rank": 2,
+      "title": "日本のフィジカルAIの成否の鍵を握る「暗黙知」",
+      "source_url": "https://www.dir.co.jp/report/column/20260713_012451.html",
+      "source_file": "keizai-web/public/reports/20260714/Rank2_日本のフィジカルAIの成否の鍵を握る「暗黙知」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260714",
+      "rank": 3,
+      "title": "地方銀行は銀行であり続けるべきか～「地域経済プラットフォーマー」として道州制を先取りする次の10年：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/asset/629244.pdf",
+      "source_file": "keizai-web/public/reports/20260714/Rank3_地方銀行は銀行であり続けるべきか～「地域経済プラットフォーマー」として道州制を先取りする次の10年：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260714",
+      "rank": 4,
+      "title": "AIによる思考拡張がもたらす構造変革",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/region_202607/files/3_no031.pdf",
+      "source_file": "keizai-web/public/reports/20260714/Rank4_AIによる思考拡張がもたらす構造変革.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260714",
+      "rank": 5,
+      "title": "AI投資ブームに潜む金融システム上のリスク～投資ブームの持続可能性と期待剥落に伴う市場混乱のリスクに要注意：リサーチ・アイ No.2026-029",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260714/Rank5_AI投資ブームに潜む金融システム上のリスク～投資ブームの持続可能性と期待剥落に伴う市場混乱のリスクに要注意：リサーチ・アイ No.2026-029.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260714",
+      "rank": 6,
+      "title": "社会主義から挑戦される資本主義～修正することで資本主義の維持・発展は可能：Economist Column No.2026-038",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260714/Rank6_社会主義から挑戦される資本主義～修正することで資本主義の維持・発展は可能：Economist Column No.2026-038.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260713",
       "rank": 1,
