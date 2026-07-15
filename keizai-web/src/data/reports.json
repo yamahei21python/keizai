@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260715",
     "20260714",
     "20260713",
     "20260712",
@@ -74,6 +75,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260715",
+      "rank": 1,
+      "title": "AI時代に本当に問われるスキルとは",
+      "source_url": "https://blogs.ricoh.co.jp/RISB/post_1033.html",
+      "source_file": "keizai-web/public/reports/20260715/Rank1_AI時代に本当に問われるスキルとは.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260715",
+      "rank": 2,
+      "title": "骨太の方針が映した「マネタリストの不愉快な算術」～中央銀行の独立性をどう支えるか：Economist Column No.2026-040",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260715/Rank2_骨太の方針が映した「マネタリストの不愉快な算術」～中央銀行の独立性をどう支えるか：Economist Column No.2026-040.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260715",
+      "rank": 3,
+      "title": "AIは労働者を補完するか？～「AI利用で仕事が大変に」のパラドックス：みずほ経済インサイト グローバル",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0082/index.html",
+      "source_file": "keizai-web/public/reports/20260715/Rank3_AIは労働者を補完するか？～「AI利用で仕事が大変に」のパラドックス：みずほ経済インサイト グローバル.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260715",
+      "rank": 4,
+      "title": "エネルギー動向（2026年版）",
+      "source_url": "https://www.enecho.meti.go.jp/about/energytrends/2026/pdf/energytrends_mokuji.pdf",
+      "source_file": "keizai-web/public/reports/20260715/Rank4_エネルギー動向（2026年版）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260715",
+      "rank": 5,
+      "title": "統合イノベーション戦略2026（案）",
+      "source_url": "https://www8.cao.go.jp/cstp/siryo/haihui085/siryo1-2.pdf",
+      "source_file": "keizai-web/public/reports/20260715/Rank5_統合イノベーション戦略2026（案）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260715",
+      "rank": 6,
+      "title": "人工知能基本計画～日本ＡＸ、より強く、より豊かに～",
+      "source_url": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_20260714.pdf",
+      "source_file": "keizai-web/public/reports/20260715/Rank6_人工知能基本計画～日本ＡＸ、より強く、より豊かに～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260714",
       "rank": 1,
