@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260717",
     "20260716",
     "20260715",
     "20260714",
@@ -76,6 +77,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260717",
+      "rank": 1,
+      "title": "若者はなぜ投資を始めたのか～新NISA時代の多様な投資要因と持続可能な資産形成への課題：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/asset/634326.pdf",
+      "source_file": "keizai-web/public/reports/20260717/Rank1_若者はなぜ投資を始めたのか～新NISA時代の多様な投資要因と持続可能な資産形成への課題：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260717",
+      "rank": 2,
+      "title": "原油高でも厳しいロシア経済～原油や石油が増産できないロシア～",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=676247&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260717/Rank2_原油高でも厳しいロシア経済～原油や石油が増産できないロシア～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260717",
+      "rank": 3,
+      "title": "有価証券報告書から読み解く企業の景況感～テキスト解析手法としての生成AIの現在地～：Insight Plus",
+      "source_url": "https://www.sompo-ri.co.jp/wp-content/uploads/2026/07/t202625.pdf",
+      "source_file": "keizai-web/public/reports/20260717/Rank3_有価証券報告書から読み解く企業の景況感～テキスト解析手法としての生成AIの現在地～：Insight Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260717",
+      "rank": 4,
+      "title": "働き方改革は何を生み、誰に効いたのか～若手ほど減り、中高年ほど残る《残業減少格差》の背景",
+      "source_url": "https://www.stat.go.jp/data/shakai/2021/pdf/gaiyoua.pdf",
+      "source_file": "keizai-web/public/reports/20260717/Rank4_働き方改革は何を生み、誰に効いたのか～若手ほど減り、中高年ほど残る《残業減少格差》の背景.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260717",
+      "rank": 5,
+      "title": "個人向け国債は浸透するか～欧米や過去との対比～：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260716.pdf",
+      "source_file": "keizai-web/public/reports/20260717/Rank5_個人向け国債は浸透するか～欧米や過去との対比～：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260717",
+      "rank": 6,
+      "title": "近年におけるエンゲル係数の上昇について",
+      "source_url": "https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/r08pdf/202625403.pdf",
+      "source_file": "keizai-web/public/reports/20260717/Rank6_近年におけるエンゲル係数の上昇について.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260716",
       "rank": 1,
