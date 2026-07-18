@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260718",
     "20260717",
     "20260716",
     "20260715",
@@ -77,6 +78,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260718",
+      "rank": 1,
+      "title": "エルニーニョ現象がブラジル・メキシコに与える影響：IIMAコメンタリー",
+      "source_url": "https://www.iima.or.jp/docs/column/2026/ei2026.22.pdf",
+      "source_file": "keizai-web/public/reports/20260718/Rank1_エルニーニョ現象がブラジル・メキシコに与える影響：IIMAコメンタリー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260718",
+      "rank": 2,
+      "title": "前触れとしてのトランプ口座～資本市場の活用、年金改革、UBCの入り口か？：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0085/index.html",
+      "source_file": "keizai-web/public/reports/20260718/Rank2_前触れとしてのトランプ口座～資本市場の活用、年金改革、UBCの入り口か？：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260718",
+      "rank": 3,
+      "title": "逼迫するサウジアラビアの物流網～ジッダ港混雑と代替輸送の課題：地域・分析レポート",
+      "source_url": "https://www.jetro.go.jp/biz/areareports/special/2026/0402/e7c720c7be14229c.html",
+      "source_file": "keizai-web/public/reports/20260718/Rank3_逼迫するサウジアラビアの物流網～ジッダ港混雑と代替輸送の課題：地域・分析レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260718",
+      "rank": 4,
+      "title": "新たな給付制度でも財源議論は先送り～新たな給付制度を2029年度に導入へ...：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260717.html",
+      "source_file": "keizai-web/public/reports/20260718/Rank4_新たな給付制度でも財源議論は先送り～新たな給付制度を2029年度に導入へ...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260718",
+      "rank": 5,
+      "title": "週刊！投資環境（2026年7月17日号）～AI・半導体関連株の動向～",
+      "source_url": "https://www.daiwa-am.co.jp/specialreport/weeklymarket/20260717.pdf",
+      "source_file": "keizai-web/public/reports/20260718/Rank5_週刊！投資環境（2026年7月17日号）～AI・半導体関連株の動向～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260718",
+      "rank": 6,
+      "title": "「ESG評価・データ提供機関に係る行動規範」の受入れを表明した評価機関等リスト（令和8年6月30日時点）",
+      "source_url": "https://www.fsa.go.jp/news/r4/singi/20221215/05.pdf",
+      "source_file": "keizai-web/public/reports/20260718/Rank6_「ESG評価・データ提供機関に係る行動規範」の受入れを表明した評価機関等リスト（令和8年6月30日時点）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260717",
       "rank": 1,
