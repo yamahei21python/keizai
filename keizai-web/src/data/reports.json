@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260719",
     "20260718",
     "20260717",
     "20260716",
@@ -78,6 +79,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260719",
+      "rank": 1,
+      "title": "アジアの富が市場の構造的な牽引役となる",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/foreword-asian-wealth-becomes-a-structural-force",
+      "source_file": "keizai-web/public/reports/20260719/Rank1_アジアの富が市場の構造的な牽引役となる.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260719",
+      "rank": 2,
+      "title": "アジア：エネルギー問題とAIの成長力がもたらす二極化",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/asia-divergence-shaped-by-energy-strain-and-ai-strength",
+      "source_file": "keizai-web/public/reports/20260719/Rank2_アジア：エネルギー問題とAIの成長力がもたらす二極化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260719",
+      "rank": 3,
+      "title": "AI時代の競争力を生むのは誰か？～シリコンバレーとシアトルが示す「人材エコシステム」の力",
+      "source_url": "https://www.dir.co.jp/report/column/20260717_012456.html",
+      "source_file": "keizai-web/public/reports/20260719/Rank3_AI時代の競争力を生むのは誰か？～シリコンバレーとシアトルが示す「人材エコシステム」の力.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260719",
+      "rank": 4,
+      "title": "令和8年版 国土交通白書～経済成長を牽引するハード・ソフトのインフラ～",
+      "source_url": "https://www.mlit.go.jp/report/press/content/002012335.pdf",
+      "source_file": "keizai-web/public/reports/20260719/Rank4_令和8年版 国土交通白書～経済成長を牽引するハード・ソフトのインフラ～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260719",
+      "rank": 5,
+      "title": "心理的安全性の高いチーム・職場とは：声を出せるチーム・職場が、組織を強くする～心理的安全性再考",
+      "source_url": "https://www.rengo-soken.or.jp/dio/dio421-1.pdf",
+      "source_file": "keizai-web/public/reports/20260719/Rank5_心理的安全性の高いチーム・職場とは：声を出せるチーム・職場が、組織を強くする～心理的安全性再考.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260719",
+      "rank": 6,
+      "title": "ポストSDGs時代に、なぜ「文化」が注目されるのか？～経済・社会・環境を支える「新たな土台」：Beyond 2030 Agenda研究会",
+      "source_url": "https://www.nri.com/jp/media/column/beyond_2030_agenda_research/20260717.html",
+      "source_file": "keizai-web/public/reports/20260719/Rank6_ポストSDGs時代に、なぜ「文化」が注目されるのか？～経済・社会・環境を支える「新たな土台」：Beyond 2030 Agenda研究会.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260718",
       "rank": 1,
