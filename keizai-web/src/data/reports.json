@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260720",
     "20260719",
     "20260718",
     "20260717",
@@ -79,6 +80,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260720",
+      "rank": 1,
+      "title": "アジア：エネルギー問題とAIの成長力がもたらす二極化",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/asia-divergence-shaped-by-energy-strain-and-ai-strength",
+      "source_file": "keizai-web/public/reports/20260720/Rank1_アジア：エネルギー問題とAIの成長力がもたらす二極化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260720",
+      "rank": 2,
+      "title": "アジアの富が市場の構造的な牽引役となる",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/foreword-asian-wealth-becomes-a-structural-force",
+      "source_file": "keizai-web/public/reports/20260720/Rank2_アジアの富が市場の構造的な牽引役となる.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260720",
+      "rank": 3,
+      "title": "AI投資：AIエージェントの時代が到来",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/ai-the-agents-are-coming",
+      "source_file": "keizai-web/public/reports/20260720/Rank3_AI投資：AIエージェントの時代が到来.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260720",
+      "rank": 4,
+      "title": "半導体株の調整はいつまで続くのか～ファンダメンタルズ変化による利益確定主導であれば自律反発も：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/634457.pdf",
+      "source_file": "keizai-web/public/reports/20260720/Rank4_半導体株の調整はいつまで続くのか～ファンダメンタルズ変化による利益確定主導であれば自律反発も：Investment Navigator.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260720",
+      "rank": 5,
+      "title": "ＤＩＯ 2026年7月号～特集：声を出せるチーム・職場が、組織を強くする～心理的安全性再考",
+      "source_url": "https://www.rengo-soken.or.jp/dio/dio421.pdf",
+      "source_file": "keizai-web/public/reports/20260720/Rank5_ＤＩＯ 2026年7月号～特集：声を出せるチーム・職場が、組織を強くする～心理的安全性再考.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260720",
+      "rank": 6,
+      "title": "新技術立国に関する調査 報告書：令和7年度技術開発調査等の推進事業費",
+      "source_url": "https://www.meti.go.jp/meti_lib/report/2025FY/report_202607151546_0.pdf",
+      "source_file": "keizai-web/public/reports/20260720/Rank6_新技術立国に関する調査 報告書：令和7年度技術開発調査等の推進事業費.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260719",
       "rank": 1,
