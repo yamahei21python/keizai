@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260721",
     "20260720",
     "20260719",
     "20260718",
@@ -80,6 +81,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260721",
+      "rank": 1,
+      "title": "世界経済の潮流2026年Ⅰ ～中東情勢の緊迫化と政策対応",
+      "source_url": "https://www5.cao.go.jp/j-j/sekai_chouryuu/sh26-01/pdf/s1-26.pdf",
+      "source_file": "keizai-web/public/reports/20260721/Rank1_世界経済の潮流2026年Ⅰ ～中東情勢の緊迫化と政策対応.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260721",
+      "rank": 2,
+      "title": "【説明資料】世界経済の潮流2026年Ⅰ ～中東情勢の緊迫化と政策対応",
+      "source_url": "https://www5.cao.go.jp/keizai3/2026/sekai126siryou.pdf",
+      "source_file": "keizai-web/public/reports/20260721/Rank2_【説明資料】世界経済の潮流2026年Ⅰ ～中東情勢の緊迫化と政策対応.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260721",
+      "rank": 3,
+      "title": "オフィスの「隠れコスト」に関する試算レポート～年間245日出社した場合、出社1日あたりのコストは約4,172円",
+      "source_url": "https://reskill.gakken.jp/5233",
+      "source_file": "keizai-web/public/reports/20260721/Rank3_オフィスの「隠れコスト」に関する試算レポート～年間245日出社した場合、出社1日あたりのコストは約4,172円.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260721",
+      "rank": 4,
+      "title": "半導体株の調整はいつまで続くのか～ファンダメンタルズ変化による利益確定主導であれば自律反発も：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/634457.pdf",
+      "source_file": "keizai-web/public/reports/20260721/Rank4_半導体株の調整はいつまで続くのか～ファンダメンタルズ変化による利益確定主導であれば自律反発も：Investment Navigator.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260721",
+      "rank": 5,
+      "title": "アジア：エネルギー問題とAIの成長力がもたらす二極化",
+      "source_url": "https://www.fidelity.co.jp/page/editorial/asia-divergence-shaped-by-energy-strain-and-ai-strength",
+      "source_file": "keizai-web/public/reports/20260721/Rank5_アジア：エネルギー問題とAIの成長力がもたらす二極化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260721",
+      "rank": 6,
+      "title": "新たな給付制度でも財源議論は先送り～新たな給付制度を2029年度に導入へ...：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260717.html",
+      "source_file": "keizai-web/public/reports/20260721/Rank6_新たな給付制度でも財源議論は先送り～新たな給付制度を2029年度に導入へ...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260720",
       "rank": 1,
