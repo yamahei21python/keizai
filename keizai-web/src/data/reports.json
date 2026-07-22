@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260722",
     "20260721",
     "20260720",
     "20260719",
@@ -81,6 +82,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260722",
+      "rank": 1,
+      "title": "日本成長戦略",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+      "source_file": "keizai-web/public/reports/20260722/Rank1_日本成長戦略.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260722",
+      "rank": 2,
+      "title": "戦略17分野における「主要な製品・技術等」の官民投資ロードマップ",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+      "source_file": "keizai-web/public/reports/20260722/Rank2_戦略17分野における「主要な製品・技術等」の官民投資ロードマップ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260722",
+      "rank": 3,
+      "title": "地域未来戦略（令和8年7月21日閣議決定）",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/pdf/20251111_1.pdf",
+      "source_file": "keizai-web/public/reports/20260722/Rank3_地域未来戦略（令和8年7月21日閣議決定）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260722",
+      "rank": 4,
+      "title": "経済財政運営と改革の基本方針2026【概要版】",
+      "source_url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2026/0721_shiryo08.pdf",
+      "source_file": "keizai-web/public/reports/20260722/Rank4_経済財政運営と改革の基本方針2026【概要版】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260722",
+      "rank": 5,
+      "title": "日経平均７万円はバブルか？：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86259_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260722/Rank5_日経平均７万円はバブルか？：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260722",
+      "rank": 6,
+      "title": "取締役会の機能強化の取組みに関する事例集2026",
+      "source_url": "https://www.fsa.go.jp/news/r7/singi/20260721/10.pdf",
+      "source_file": "keizai-web/public/reports/20260722/Rank6_取締役会の機能強化の取組みに関する事例集2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260721",
       "rank": 1,
