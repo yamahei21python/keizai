@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260723",
     "20260722",
     "20260721",
     "20260720",
@@ -82,6 +83,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260723",
+      "rank": 1,
+      "title": "AIの進歩が我が国経済・産業に与える影響：マンスリー・トピックス（最近の経済指標の背景解説）",
+      "source_url": "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0722/topics_088.pdf",
+      "source_file": "keizai-web/public/reports/20260723/Rank1_AIの進歩が我が国経済・産業に与える影響：マンスリー・トピックス（最近の経済指標の背景解説）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260723",
+      "rank": 2,
+      "title": "第202回「なぜ日本人の生産性はドイツ人の半分なのか（4）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
+      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/202.html",
+      "source_file": "keizai-web/public/reports/20260723/Rank2_第202回「なぜ日本人の生産性はドイツ人の半分なのか（4）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260723",
+      "rank": 3,
+      "title": "国内REITの投資対象としてのDCの可能性～制度整備の進展と残された課題：不動産マーケットリサーチレポート",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=676917&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260723/Rank3_国内REITの投資対象としてのDCの可能性～制度整備の進展と残された課題：不動産マーケットリサーチレポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260723",
+      "rank": 4,
+      "title": "インドで存在感を増す「ゴキブリ」、インド政治への影響は～若年層の不満を背景に、SNS発の風刺運動が現実の政治運動へ発展：Asia Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/634556.pdf",
+      "source_file": "keizai-web/public/reports/20260723/Rank4_インドで存在感を増す「ゴキブリ」、インド政治への影響は～若年層の不満を背景に、SNS発の風刺運動が現実の政治運動へ発展：Asia Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260723",
+      "rank": 5,
+      "title": "フィジカルAI時代の技術動向と日本が進むべき道",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf",
+      "source_file": "keizai-web/public/reports/20260723/Rank5_フィジカルAI時代の技術動向と日本が進むべき道.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260723",
+      "rank": 6,
+      "title": "ASEANからみた日本と中国～信頼と経済的影響力からみる立ち位置：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86331_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260723/Rank6_ASEANからみた日本と中国～信頼と経済的影響力からみる立ち位置：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260722",
       "rank": 1,
