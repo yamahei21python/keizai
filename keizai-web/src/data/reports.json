@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260724",
     "20260723",
     "20260722",
     "20260721",
@@ -83,6 +84,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260724",
+      "rank": 1,
+      "title": "「わからない」を問い直す",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=zrk3x0s4po",
+      "source_file": "keizai-web/public/reports/20260724/Rank1_「わからない」を問い直す.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260724",
+      "rank": 2,
+      "title": "「AIが物理世界を飲み込む」時代へ～期待されるフィジカルAIへの資本シフト",
+      "source_url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2026/07/23/2607_ohnishi.pdf",
+      "source_file": "keizai-web/public/reports/20260724/Rank2_「AIが物理世界を飲み込む」時代へ～期待されるフィジカルAIへの資本シフト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260724",
+      "rank": 3,
+      "title": "骨太の方針と日本成長戦略～市場の受け止めについて考える：市川レポート",
+      "source_url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260723.pdf",
+      "source_file": "keizai-web/public/reports/20260724/Rank3_骨太の方針と日本成長戦略～市場の受け止めについて考える：市川レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260724",
+      "rank": 4,
+      "title": "AIは本当に信頼できるのか？「信頼ギャップ」の実態と課題～富士通 「信頼できるAI」レポート",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=677125&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260724/Rank4_AIは本当に信頼できるのか？「信頼ギャップ」の実態と課題～富士通 「信頼できるAI」レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260724",
+      "rank": 5,
+      "title": "最高路線価に読む立地の収益力～大都市圏への集中と、商業拠点から観光拠点への主役交代の兆し：地方創生・地方経済",
+      "source_url": "https://www.dir.co.jp/report/research/policy-analysis/regionalecnmy/20260723_025930.pdf",
+      "source_file": "keizai-web/public/reports/20260724/Rank5_最高路線価に読む立地の収益力～大都市圏への集中と、商業拠点から観光拠点への主役交代の兆し：地方創生・地方経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260724",
+      "rank": 6,
+      "title": "GX政策の経済学的な考え方",
+      "source_url": "https://www.gxa.go.jp/news/.assets/20260624.pdf",
+      "source_file": "keizai-web/public/reports/20260724/Rank6_GX政策の経済学的な考え方.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260723",
       "rank": 1,
