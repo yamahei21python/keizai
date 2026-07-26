@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260726",
     "20260725",
     "20260724",
     "20260723",
@@ -85,6 +86,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260726",
+      "rank": 1,
+      "title": "10月利上げが現実味を帯びてきた：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/634622.pdf",
+      "source_file": "keizai-web/public/reports/20260726/Rank1_10月利上げが現実味を帯びてきた：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260726",
+      "rank": 2,
+      "title": "グローバル時代の投資戦略 2026年7月号～AIブームの行方とウォーシュFRB議長の手腕が焦点に",
+      "source_url": "https://www.am.mufg.jp/report/senryaku/senryaku_260724.pdf",
+      "source_file": "keizai-web/public/reports/20260726/Rank2_グローバル時代の投資戦略 2026年7月号～AIブームの行方とウォーシュFRB議長の手腕が焦点に.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260726",
+      "rank": 3,
+      "title": "国際情勢を踏まえた資源・エネルギーの安定的な確保のための構造的対応に関する論点整理案",
+      "source_url": "https://www.meti.go.jp/shingikai/enecho/shigen_nenryo/pdf/047_01_00.pdf",
+      "source_file": "keizai-web/public/reports/20260726/Rank3_国際情勢を踏まえた資源・エネルギーの安定的な確保のための構造的対応に関する論点整理案.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260726",
+      "rank": 4,
+      "title": "静かになった中国：ズーム・アイ",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=sh0a7scaekw",
+      "source_file": "keizai-web/public/reports/20260726/Rank4_静かになった中国：ズーム・アイ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260726",
+      "rank": 5,
+      "title": "石油・ガス業界アウトルック2026",
+      "source_url": "https://www.deloitte.com/content/dam/assets-zone1/jp/ja/docs/industries/energy-resources-industrials/2026/quest-newsletter-14.pdf",
+      "source_file": "keizai-web/public/reports/20260726/Rank5_石油・ガス業界アウトルック2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260726",
+      "rank": 6,
+      "title": "不動産トピックス 2026年8月号～東京圏の人口動向 / 企業の研究開発拠点の最近の動きについて / 訪日中国人減少による宿泊需要への影響は限定的",
+      "source_url": "https://www.tmri.co.jp/fwp/wp-content/uploads/2026/07/2608.pdf",
+      "source_file": "keizai-web/public/reports/20260726/Rank6_不動産トピックス 2026年8月号～東京圏の人口動向  企業の研究開発拠点の最近の動きについて  訪日中国人減少による宿泊需要への影響は限定的.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260725",
       "rank": 1,
