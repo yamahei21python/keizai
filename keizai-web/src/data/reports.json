@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260727",
     "20260726",
     "20260725",
     "20260724",
@@ -86,6 +87,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260727",
+      "rank": 1,
+      "title": "気候変動で東京が蒸し暑くなったというフェイクニュース",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=677180&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260727/Rank1_気候変動で東京が蒸し暑くなったというフェイクニュース.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260727",
+      "rank": 2,
+      "title": "令和8年版 情報通信白書 ～特集：AIの進展がもたらす多面的影響～人間とAIが健全に協働するデジタル社会の実現に向けて",
+      "source_url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/pdf/00zentai.pdf",
+      "source_file": "keizai-web/public/reports/20260727/Rank2_令和8年版 情報通信白書 ～特集：AIの進展がもたらす多面的影響～人間とAIが健全に協働するデジタル社会の実現に向けて.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260727",
+      "rank": 3,
+      "title": "新型AI “Claude Mythos”の脅威とは何か",
+      "source_url": "https://www.sojitz-soken.com/sojitz-soken.com/wp-content/uploads/2026/07/chousa_20260724.pdf",
+      "source_file": "keizai-web/public/reports/20260727/Rank3_新型AI “Claude Mythos”の脅威とは何か.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260727",
+      "rank": 4,
+      "title": "トランプ関税の『逆襲』と『隘路』：溜池通信Vol.842",
+      "source_url": "http://tameike.net/pdfs8/tame842.PDF",
+      "source_file": "keizai-web/public/reports/20260727/Rank4_トランプ関税の『逆襲』と『隘路』：溜池通信Vol.842.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260727",
+      "rank": 5,
+      "title": "日本経済見通し：2026年7月 高市政権初の「骨太方針」を読む：経済予測",
+      "source_url": "https://www.dir.co.jp/report/research/economics/outlook/20260724_025935.pdf",
+      "source_file": "keizai-web/public/reports/20260727/Rank5_日本経済見通し：2026年7月 高市政権初の「骨太方針」を読む：経済予測.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260727",
+      "rank": 6,
+      "title": "なぜ私たちは「リベンジ夜更かし」をしてしまうのか～現在志向と睡眠のトレードオフ：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86345_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260727/Rank6_なぜ私たちは「リベンジ夜更かし」をしてしまうのか～現在志向と睡眠のトレードオフ：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260726",
       "rank": 1,
