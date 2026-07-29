@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260729",
     "20260727",
     "20260726",
     "20260725",
@@ -87,6 +88,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260729",
+      "rank": 1,
+      "title": "丸紅ワシントン報告：トランプ政権のAI規制 新たな局面を迎えるAIの事業環境",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/MWR_2026_19_AIregulation_20260724.pdf",
+      "source_file": "keizai-web/public/reports/20260729/Rank1_丸紅ワシントン報告：トランプ政権のAI規制 新たな局面を迎えるAIの事業環境.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260729",
+      "rank": 2,
+      "title": "消費税減税を巡る大きな不確実性：政権に2つの逆風（高市首相記者会見）：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260728.html",
+      "source_file": "keizai-web/public/reports/20260729/Rank2_消費税減税を巡る大きな不確実性：政権に2つの逆風（高市首相記者会見）：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260729",
+      "rank": 3,
+      "title": "2026年7月円金利見通し：『骨太ショック』だけではない長期金利上昇：グローバル経済・金利ウォッチ",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/g_260728_01.pdf",
+      "source_file": "keizai-web/public/reports/20260729/Rank3_2026年7月円金利見通し：『骨太ショック』だけではない長期金利上昇：グローバル経済・金利ウォッチ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260729",
+      "rank": 4,
+      "title": "高校生の「志願したい大学」を7エリアで発表『進学ブランド力調査 2026』",
+      "source_url": "https://souken.shingakunet.com/research/pdf/2026_brand01.pdf",
+      "source_file": "keizai-web/public/reports/20260729/Rank4_高校生の「志願したい大学」を7エリアで発表『進学ブランド力調査 2026』.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260729",
+      "rank": 5,
+      "title": "「守る蓄電池」として残る鉛蓄電池：産業界の動き",
+      "source_url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/172_3.pdf",
+      "source_file": "keizai-web/public/reports/20260729/Rank5_「守る蓄電池」として残る鉛蓄電池：産業界の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260729",
+      "rank": 6,
+      "title": "金融市場からの警鐘～日本経済2026年7月",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/07/d7674e37afef4bce3f3efa060be8d5ed.pdf",
+      "source_file": "keizai-web/public/reports/20260729/Rank6_金融市場からの警鐘～日本経済2026年7月.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260727",
       "rank": 1,
