@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260730",
     "20260729",
     "20260727",
     "20260726",
@@ -88,6 +89,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260730",
+      "rank": 1,
+      "title": "160円台が「円安すぎ」ではない理由～「期待インフレ上昇」という新たな構造変化：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0096/index.html",
+      "source_file": "keizai-web/public/reports/20260730/Rank1_160円台が「円安すぎ」ではない理由～「期待インフレ上昇」という新たな構造変化：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260730",
+      "rank": 2,
+      "title": "急落する半導体株の行方　ヒントは4年前の海運株？：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/634737.pdf",
+      "source_file": "keizai-web/public/reports/20260730/Rank2_急落する半導体株の行方　ヒントは4年前の海運株？：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260730",
+      "rank": 3,
+      "title": "がんを防ぐための 12か条",
+      "source_url": "https://www.fpcr.or.jp/data_files/view/354/mode:inline",
+      "source_file": "keizai-web/public/reports/20260730/Rank3_がんを防ぐための 12か条.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260730",
+      "rank": 4,
+      "title": "日経平均株価の下落は続くのか：Topics Plus",
+      "source_url": "https://www.sompo-ri.co.jp/topics_plus/20260729-24141/",
+      "source_file": "keizai-web/public/reports/20260730/Rank4_日経平均株価の下落は続くのか：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260730",
+      "rank": 5,
+      "title": "AI時代を読み解く（１）「道具」から「エージェント」へ～大きな関心と無視しえない緊張を生むAI：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0091/index.html",
+      "source_file": "keizai-web/public/reports/20260730/Rank5_AI時代を読み解く（１）「道具」から「エージェント」へ～大きな関心と無視しえない緊張を生むAI：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260730",
+      "rank": 6,
+      "title": "マイナ免許証、なぜ「二枚持ち」が選ばれるのか",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=677767&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260730/Rank6_マイナ免許証、なぜ「二枚持ち」が選ばれるのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260729",
       "rank": 1,
