@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260731",
     "20260730",
     "20260729",
     "20260727",
@@ -89,6 +90,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260731",
+      "rank": 1,
+      "title": "イラン戦争の勝者は中国か：宮家邦彦のWorld Watch",
+      "source_url": "https://cigs.canon/article/20260730_10146.html",
+      "source_file": "keizai-web/public/reports/20260731/Rank1_イラン戦争の勝者は中国か：宮家邦彦のWorld Watch.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260731",
+      "rank": 2,
+      "title": "高市政権の成長戦略は高く評価できる：鳥瞰の眼・虫瞰の眼",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=678006&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260731/Rank2_高市政権の成長戦略は高く評価できる：鳥瞰の眼・虫瞰の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260731",
+      "rank": 3,
+      "title": "第203回「なぜ日本人の生産性はドイツ人の半分なのか（5）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
+      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/203.html",
+      "source_file": "keizai-web/public/reports/20260731/Rank3_第203回「なぜ日本人の生産性はドイツ人の半分なのか（5）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260731",
+      "rank": 4,
+      "title": "DX動向2026 ～広がるAI導入、DXは変われるか",
+      "source_url": "https://www.ipa.go.jp/digital/chousa/dx-trend/rcu1hd0000017uk8-att/dx-trend-2026.pdf",
+      "source_file": "keizai-web/public/reports/20260731/Rank4_DX動向2026 ～広がるAI導入、DXは変われるか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260731",
+      "rank": 5,
+      "title": "「金融ニヒリズム」の含意～変容する若年層の投資行動に潜むリスクと求められる対策：資産運用・投資主体",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=677961&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260731/Rank5_「金融ニヒリズム」の含意～変容する若年層の投資行動に潜むリスクと求められる対策：資産運用・投資主体.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260731",
+      "rank": 6,
+      "title": "AI時代のB2Bビジネスと、人に求められる力～問われているのは「AIを使うか」ではない...",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2026/assets/pdf/ai-b2b-commerce.pdf",
+      "source_file": "keizai-web/public/reports/20260731/Rank6_AI時代のB2Bビジネスと、人に求められる力～問われているのは「AIを使うか」ではない....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260730",
       "rank": 1,
