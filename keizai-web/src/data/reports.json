@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260801",
     "20260731",
     "20260730",
     "20260729",
@@ -90,6 +91,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260801",
+      "rank": 1,
+      "title": "金利上昇の「質」が問われる日本～「良い金利上昇」を実現するための4つの論点：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0098/index.html",
+      "source_file": "keizai-web/public/reports/20260801/Rank1_金利上昇の「質」が問われる日本～「良い金利上昇」を実現するための4つの論点：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260801",
+      "rank": 2,
+      "title": "米国の老後資産取り崩し法を試してみた～4％ルールは本当に役に立つのか：Flash Insight",
+      "source_url": "https://www.dlri.co.jp/files/asset/638238.pdf",
+      "source_file": "keizai-web/public/reports/20260801/Rank2_米国の老後資産取り崩し法を試してみた～4％ルールは本当に役に立つのか：Flash Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260801",
+      "rank": 3,
+      "title": "米国の予算プロセスが溶けていく～自由になる大統領、「大きな政府」時代の落とし穴：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0097/index.html",
+      "source_file": "keizai-web/public/reports/20260801/Rank3_米国の予算プロセスが溶けていく～自由になる大統領、「大きな政府」時代の落とし穴：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260801",
+      "rank": 4,
+      "title": "中国:政治の季節と景気テコ入れ策の示唆～政治局会議開催。綱紀粛正強化による経済活動の一部委縮懸念：中国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/china/20260731_025955.pdf",
+      "source_file": "keizai-web/public/reports/20260801/Rank4_中国政治の季節と景気テコ入れ策の示唆～政治局会議開催。綱紀粛正強化による経済活動の一部委縮懸念：中国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260801",
+      "rank": 5,
+      "title": "高市首相が食料品の消費税率引き下げ方針を正式に発表：財源は明示されず、財政悪化への懸念が一段と強まる方向：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260731_2.html",
+      "source_file": "keizai-web/public/reports/20260801/Rank5_高市首相が食料品の消費税率引き下げ方針を正式に発表：財源は明示されず、財政悪化への懸念が一段と強まる方向：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260801",
+      "rank": 6,
+      "title": "週刊！投資環境（2026年7月31日号）～AI・半導体関連株は下げ止まったのか～",
+      "source_url": "https://www.daiwa-am.co.jp/specialreport/weeklymarket/20260731.pdf",
+      "source_file": "keizai-web/public/reports/20260801/Rank6_週刊！投資環境（2026年7月31日号）～AI・半導体関連株は下げ止まったのか～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260731",
       "rank": 1,
