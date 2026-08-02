@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260802",
     "20260801",
     "20260731",
     "20260730",
@@ -91,6 +92,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260802",
+      "rank": 1,
+      "title": "「骨太の方針2026」への期待と不安",
+      "source_url": "https://www.itochu-research.com/ja/column/2026/3329/",
+      "source_file": "keizai-web/public/reports/20260802/Rank1_「骨太の方針2026」への期待と不安.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260802",
+      "rank": 2,
+      "title": "ふるさと納税に関する現況調査結果（令和8年度実施）～令和7年度の実績は、約1兆3,314億円、約5,963万件。",
+      "source_url": "https://www.soumu.go.jp/main_content/000362599.pdf",
+      "source_file": "keizai-web/public/reports/20260802/Rank2_ふるさと納税に関する現況調査結果（令和8年度実施）～令和7年度の実績は、約1兆3,314億円、約5,963万件。.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260802",
+      "rank": 3,
+      "title": "「チャイナ・イノベーション」をどう捉えるか 京都外国語大学共通教育機構 土屋貴裕教授",
+      "source_url": "https://spap.jst.go.jp/china/experiences/economy/economy_2622.html",
+      "source_file": "keizai-web/public/reports/20260802/Rank3_「チャイナ・イノベーション」をどう捉えるか 京都外国語大学共通教育機構 土屋貴裕教授.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260802",
+      "rank": 4,
+      "title": "豊富に埋蔵量が残存する中東産油国VSフロンティアを開拓するメジャーズ ～共通するジレンマ",
+      "source_url": "https://journal.jogmec.go.jp/content/300802711.pdf",
+      "source_file": "keizai-web/public/reports/20260802/Rank4_豊富に埋蔵量が残存する中東産油国VSフロンティアを開拓するメジャーズ ～共通するジレンマ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260802",
+      "rank": 5,
+      "title": "熱中症判定フリーアプリ",
+      "source_url": "https://www.jaam.jp/about/teikan/kisoku28.pdf",
+      "source_file": "keizai-web/public/reports/20260802/Rank5_熱中症判定フリーアプリ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260802",
+      "rank": 6,
+      "title": "行政改革推進本部 デジタルに関するPT提言（第二弾）",
+      "source_url": "https://storage.jimin.jp/pdf/news/policy/213933_1.pdf",
+      "source_file": "keizai-web/public/reports/20260802/Rank6_行政改革推進本部 デジタルに関するPT提言（第二弾）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260801",
       "rank": 1,
