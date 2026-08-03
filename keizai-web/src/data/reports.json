@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260803",
     "20260802",
     "20260801",
     "20260731",
@@ -92,6 +93,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260803",
+      "rank": 1,
+      "title": "「骨太の方針2026」への期待と不安",
+      "source_url": "https://www.itochu-research.com/ja/column/2026/3329/",
+      "source_file": "keizai-web/public/reports/20260803/Rank1_「骨太の方針2026」への期待と不安.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260803",
+      "rank": 2,
+      "title": "金利上昇の「質」が問われる日本～「良い金利上昇」を実現するための4つの論点：みずほ経済インサイト",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0098/index.html",
+      "source_file": "keizai-web/public/reports/20260803/Rank2_金利上昇の「質」が問われる日本～「良い金利上昇」を実現するための4つの論点：みずほ経済インサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260803",
+      "rank": 3,
+      "title": "米国の老後資産取り崩し法を試してみた～4％ルールは本当に役に立つのか：Flash Insight",
+      "source_url": "https://www.dlri.co.jp/files/asset/638238.pdf",
+      "source_file": "keizai-web/public/reports/20260803/Rank3_米国の老後資産取り崩し法を試してみた～4％ルールは本当に役に立つのか：Flash Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260803",
+      "rank": 4,
+      "title": "気候変動対策を取り巻く最近の米国の動向",
+      "source_url": "https://www.nochuri.co.jp/report/pdf/n2608re2.pdf",
+      "source_file": "keizai-web/public/reports/20260803/Rank4_気候変動対策を取り巻く最近の米国の動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260803",
+      "rank": 5,
+      "title": "2026年度版 グローバル自動車消費者意識調査～世界主要8市場における電動化、購入意向、コネクテッド、SDV受容の最新動向",
+      "source_url": "https://www.deloitte.com/content/dam/assets-zone1/jp/ja/docs/industries/consumer/2026/global-automotive-consumer-study.pdf",
+      "source_file": "keizai-web/public/reports/20260803/Rank5_2026年度版 グローバル自動車消費者意識調査～世界主要8市場における電動化、購入意向、コネクテッド、SDV受容の最新動向.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260803",
+      "rank": 6,
+      "title": "2026年版マクロ経済経営環境資料「企業を取り巻く環境変化　マクロ経済環境のポイントと市場動向等」（ウェブ版）",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=5fm41cpur",
+      "source_file": "keizai-web/public/reports/20260803/Rank6_2026年版マクロ経済経営環境資料「企業を取り巻く環境変化　マクロ経済環境のポイントと市場動向等」（ウェブ版）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260802",
       "rank": 1,
