@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260804",
     "20260803",
     "20260802",
     "20260801",
@@ -93,6 +94,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260804",
+      "rank": 1,
+      "title": "AIブームの構造分析～将来期待の循環と潜在的リスク",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260803_institute_AI.pdf",
+      "source_file": "keizai-web/public/reports/20260804/Rank1_AIブームの構造分析～将来期待の循環と潜在的リスク.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260804",
+      "rank": 2,
+      "title": "「日本売り」に対抗する米国の事情を推察する～本当に心配なのは米国債...：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260803.pdf",
+      "source_file": "keizai-web/public/reports/20260804/Rank2_「日本売り」に対抗する米国の事情を推察する～本当に心配なのは米国債...：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260804",
+      "rank": 3,
+      "title": "円安阻止に向けた日米協調の新たな局面：15年ぶりの日米協調介入も効果の持続性は疑問：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260803.html",
+      "source_file": "keizai-web/public/reports/20260804/Rank3_円安阻止に向けた日米協調の新たな局面：15年ぶりの日米協調介入も効果の持続性は疑問：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260804",
+      "rank": 4,
+      "title": "15年ぶりの協調介入で円安の流れは変わるのか：Topics Plus",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=678452&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260804/Rank4_15年ぶりの協調介入で円安の流れは変わるのか：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260804",
+      "rank": 5,
+      "title": "円安阻止の日米協調介入について片山財務相が談話：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260803_2.html",
+      "source_file": "keizai-web/public/reports/20260804/Rank5_円安阻止の日米協調介入について片山財務相が談話：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260804",
+      "rank": 6,
+      "title": "MUFG BK 中国月報 2026年8・9月～EVの知能化が牽引する中国サプライチェーンの再構築 / 専精特新「小巨人」企業からみる中国の技術自立戦略...",
+      "source_url": "https://www.bk.mufg.jp/report/inschimonth/126080101.pdf",
+      "source_file": "keizai-web/public/reports/20260804/Rank6_MUFG BK 中国月報 2026年8・9月～EVの知能化が牽引する中国サプライチェーンの再構築  専精特新「小巨人」企業からみる中国の技術自立戦略....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260803",
       "rank": 1,
