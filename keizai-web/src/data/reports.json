@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260805",
     "20260804",
     "20260803",
     "20260802",
@@ -94,6 +95,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260805",
+      "rank": 1,
+      "title": "BYDが軽EV「ラッコ」を発売、日本市場への影響を探る～売れ筋のスーパーハイトワゴンで参入、EV市場拡大につながるか",
+      "source_url": "https://www.yokohama-ri.co.jp/html/report/pdf/column260804_okuyama.pdf",
+      "source_file": "keizai-web/public/reports/20260805/Rank1_BYDが軽EV「ラッコ」を発売、日本市場への影響を探る～売れ筋のスーパーハイトワゴンで参入、EV市場拡大につながるか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260805",
+      "rank": 2,
+      "title": "令和8年版 防衛白書～特集：未来につながる安全保障",
+      "source_url": "https://www.mod.go.jp/j/press/wp/index.html",
+      "source_file": "keizai-web/public/reports/20260805/Rank2_令和8年版 防衛白書～特集：未来につながる安全保障.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260805",
+      "rank": 3,
+      "title": "エアコン普及率の国際比較～日本は9割超、欧州や東南アジアは3割未満：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/638342.pdf",
+      "source_file": "keizai-web/public/reports/20260805/Rank3_エアコン普及率の国際比較～日本は9割超、欧州や東南アジアは3割未満：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260805",
+      "rank": 4,
+      "title": "なぜトランプ大統領が中国崩壊論者を痛烈批判か：中国経済論談",
+      "source_url": "http://mstcj182.g3.xrea.com/ITEM-3A321.html",
+      "source_file": "keizai-web/public/reports/20260805/Rank4_なぜトランプ大統領が中国崩壊論者を痛烈批判か：中国経済論談.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260805",
+      "rank": 5,
+      "title": "協調介入で揺らぐ円安基調、なお残る構造要因",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260804_matsuo_depreciation_of_yen.pdf",
+      "source_file": "keizai-web/public/reports/20260805/Rank5_協調介入で揺らぐ円安基調、なお残る構造要因.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260805",
+      "rank": 6,
+      "title": "2025年度　国内銀行98行「平均年間給与」調査～銀行の年収ランキング 三井住友銀行が4年ぶりトップ　銀行員の平均年収684万円、新卒・職種で格差拡大：TSRデータインサイト",
+      "source_url": "https://www.tsr-net.co.jp/data/detail/1203107_1527.html",
+      "source_file": "keizai-web/public/reports/20260805/Rank6_2025年度　国内銀行98行「平均年間給与」調査～銀行の年収ランキング 三井住友銀行が4年ぶりトップ　銀行員の平均年収684万円、新卒・職種で格差拡大：TSRデータインサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260804",
       "rank": 1,
