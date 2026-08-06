@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260806",
     "20260805",
     "20260804",
     "20260803",
@@ -95,6 +96,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260806",
+      "rank": 1,
+      "title": "高市首相の植田日銀総裁への国債買い入れ要請報道：政府は自らの責任で市場の信認回復を目指すべき：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260805_2.html",
+      "source_file": "keizai-web/public/reports/20260806/Rank1_高市首相の植田日銀総裁への国債買い入れ要請報道：政府は自らの責任で市場の信認回復を目指すべき：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260806",
+      "rank": 2,
+      "title": "AI時代を読み解く（２）生産性の果実はどこで生まれるか～AI革命にみる地理的分散と産業的偏在：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0099/index.html",
+      "source_file": "keizai-web/public/reports/20260806/Rank2_AI時代を読み解く（２）生産性の果実はどこで生まれるか～AI革命にみる地理的分散と産業的偏在：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260806",
+      "rank": 3,
+      "title": "数理の窓：偽りの独立性",
+      "source_url": "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202608/files/itf_202608_09.pdf",
+      "source_file": "keizai-web/public/reports/20260806/Rank3_数理の窓：偽りの独立性.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260806",
+      "rank": 4,
+      "title": "ベッセント財務長官発言を受けて～正道の確認～：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260805.pdf",
+      "source_file": "keizai-web/public/reports/20260806/Rank4_ベッセント財務長官発言を受けて～正道の確認～：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260806",
+      "rank": 5,
+      "title": "ポイント解説！「骨太の方針2026」Ｑ＆Ａ",
+      "source_url": "https://storage.jimin.jp/pdf/news/policy/213983_1.pdf",
+      "source_file": "keizai-web/public/reports/20260806/Rank5_ポイント解説！「骨太の方針2026」Ｑ＆Ａ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260806",
+      "rank": 6,
+      "title": "米国：AIで代替される雇用者はいかほどか～直近で4％、AI活用が広がれば11％の雇用者が特に代替されやすい：米国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/usa/20260805_025963.pdf",
+      "source_file": "keizai-web/public/reports/20260806/Rank6_米国：AIで代替される雇用者はいかほどか～直近で4％、AI活用が広がれば11％の雇用者が特に代替されやすい：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260805",
       "rank": 1,
