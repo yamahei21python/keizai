@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260808",
     "20260807",
     "20260806",
     "20260805",
@@ -97,6 +98,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260808",
+      "rank": 1,
+      "title": "地政学的変化と経済連携の方向性：アジ研ポリシー・ブリーフ",
+      "source_url": "https://www.ide.go.jp/library/Japanese/Publish/Reports/AjikenPolicyBrief/pdf/288.pdf",
+      "source_file": "keizai-web/public/reports/20260808/Rank1_地政学的変化と経済連携の方向性：アジ研ポリシー・ブリーフ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260808",
+      "rank": 2,
+      "title": "「生きがい感」の特徴～生活満足度との比較：ESRI Research Note No.100",
+      "source_url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote100/e_rnote100.pdf",
+      "source_file": "keizai-web/public/reports/20260808/Rank2_「生きがい感」の特徴～生活満足度との比較：ESRI Research Note No.100.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260808",
+      "rank": 3,
+      "title": "円安ニッポンにつけるクスリ：溜池通信Vol.843",
+      "source_url": "http://tameike.net/pdfs8/tame843.PDF",
+      "source_file": "keizai-web/public/reports/20260808/Rank3_円安ニッポンにつけるクスリ：溜池通信Vol.843.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260808",
+      "rank": 4,
+      "title": "投資INSIDE-OUT vol.404　為替介入は円安を止められるのか",
+      "source_url": "https://www.smtam.jp/report_column/pdf/cat_07/HPVol.404_20260807k.pdf",
+      "source_file": "keizai-web/public/reports/20260808/Rank4_投資INSIDE-OUT vol.404　為替介入は円安を止められるのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260808",
+      "rank": 5,
+      "title": "酒のしおり（令和8年7月）",
+      "source_url": "https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2026/pdf/00.pdf",
+      "source_file": "keizai-web/public/reports/20260808/Rank5_酒のしおり（令和8年7月）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260808",
+      "rank": 6,
+      "title": "【マーケットを語らず Vol.246】日米協調介入で思い出される「熟柿」",
+      "source_url": "https://www.fidelity.co.jp/page/strategist/vol246-japan-us-coordinated-fx-market-intervention",
+      "source_file": "keizai-web/public/reports/20260808/Rank6_【マーケットを語らず Vol.246】日米協調介入で思い出される「熟柿」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260807",
       "rank": 1,
