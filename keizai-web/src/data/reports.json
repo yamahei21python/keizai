@@ -100,9 +100,27 @@
     {
       "date": "20260807",
       "rank": 1,
+      "title": "円安ニッポンにつけるクスリ：溜池通信Vol.843",
+      "source_url": "http://tameike.net/pdfs8/tame843.PDF",
+      "source_file": "keizai-web/public/reports/20260807/Rank1_円安ニッポンにつけるクスリ：溜池通信Vol.843.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 1,
       "title": "「貯蓄から投資」が進んでいるマクロ的要因：基礎研レポート",
       "source_url": "https://www.nli-research.co.jp/files/topics/86487_ext_18_0.pdf?site=nli",
       "source_file": "keizai-web/public/reports/20260807/Rank1_「貯蓄から投資」が進んでいるマクロ的要因：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 2,
+      "title": "トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447",
+      "source_url": "https://www.dbj.jp/investigate/assets/2608071000.pdf",
+      "source_file": "keizai-web/public/reports/20260807/Rank2_トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -118,9 +136,27 @@
     {
       "date": "20260807",
       "rank": 3,
+      "title": "AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート",
+      "source_url": "https://www.jetro.go.jp/ext_images/biz/special/2026/0801/1aee4b7856c0c87c/g01.pdf",
+      "source_file": "keizai-web/public/reports/20260807/Rank3_AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 3,
       "title": "「日銀の利上げで円高になる」は本当か？：経済の舞台裏",
       "source_url": "https://www.dlri.co.jp/files/macro/638403.pdf",
       "source_file": "keizai-web/public/reports/20260807/Rank3_「日銀の利上げで円高になる」は本当か？：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 4,
+      "title": "今はAI・半導体バブル？ 巨大AI企業のIPOで相場が崩れる可能性は?：ストラテジストが語るグローバル市場展望",
+      "source_url": "https://am.jpmorgan.com/jp/ja/asset-management/per/insights/market-insights/on-the-minds-of-investors/strategist-views-2026q3-08/",
+      "source_file": "keizai-web/public/reports/20260807/Rank4_今はAI・半導体バブル？ 巨大AI企業のIPOで相場が崩れる可能性は：ストラテジストが語るグローバル市場展望.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -144,10 +180,28 @@
     },
     {
       "date": "20260807",
+      "rank": 5,
+      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679328&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260807/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
       "rank": 6,
       "title": "食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight",
       "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260806.html",
       "source_file": "keizai-web/public/reports/20260807/Rank6_食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 6,
+      "title": "米国はなぜ円買い協調介入に踏み切ったのか",
+      "source_url": "https://www.dir.co.jp/report/column/20260807_012465.html",
+      "source_file": "keizai-web/public/reports/20260807/Rank6_米国はなぜ円買い協調介入に踏み切ったのか.md",
       "summary_file": null,
       "status": "processing"
     },
