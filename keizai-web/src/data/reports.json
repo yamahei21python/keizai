@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260809",
     "20260808",
     "20260807",
     "20260806",
@@ -98,6 +99,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260809",
+      "rank": 1,
+      "title": "米国はなぜ円買い協調介入に踏み切ったのか",
+      "source_url": "https://www.dir.co.jp/report/column/20260807_012465.html",
+      "source_file": "keizai-web/public/reports/20260809/Rank1_米国はなぜ円買い協調介入に踏み切ったのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260809",
+      "rank": 2,
+      "title": "円安ニッポンにつけるクスリ：溜池通信Vol.843",
+      "source_url": "http://tameike.net/pdfs8/tame843.PDF",
+      "source_file": "keizai-web/public/reports/20260809/Rank2_円安ニッポンにつけるクスリ：溜池通信Vol.843.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260809",
+      "rank": 3,
+      "title": "酒のしおり（令和8年7月）",
+      "source_url": "https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2026/pdf/00.pdf",
+      "source_file": "keizai-web/public/reports/20260809/Rank3_酒のしおり（令和8年7月）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260809",
+      "rank": 4,
+      "title": "成長投資を促進するための金融戦略～「資産運用立国」のアップグレードで問われる金融機関の自己変革：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/asset/638426.pdf",
+      "source_file": "keizai-web/public/reports/20260809/Rank4_成長投資を促進するための金融戦略～「資産運用立国」のアップグレードで問われる金融機関の自己変革：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260809",
+      "rank": 5,
+      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/WR_2026_21_MidtermElection_1_20260805_External.pdf",
+      "source_file": "keizai-web/public/reports/20260809/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260809",
+      "rank": 6,
+      "title": "中東紛争の物価への影響",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/08/f6968fee42fd3cff8a6a819eca01f959.pdf",
+      "source_file": "keizai-web/public/reports/20260809/Rank6_中東紛争の物価への影響.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260808",
       "rank": 1,
