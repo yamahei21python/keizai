@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260810",
     "20260809",
     "20260808",
     "20260807",
@@ -99,6 +100,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260810",
+      "rank": 1,
+      "title": "30分で読める総合商社の歴史（江戸時代～平成期）～未来を考えるためのヒントとして",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260810_enomoto_history.pdf",
+      "source_file": "keizai-web/public/reports/20260810/Rank1_30分で読める総合商社の歴史（江戸時代～平成期）～未来を考えるためのヒントとして.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260810",
+      "rank": 2,
+      "title": "中国：消費低迷の深層・非正規雇用の急増～所得格差縮小は非持続的か。社会保障不安とリスキリングの難しさ：中国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/china/20260810_025971.pdf",
+      "source_file": "keizai-web/public/reports/20260810/Rank2_中国：消費低迷の深層・非正規雇用の急増～所得格差縮小は非持続的か。社会保障不安とリスキリングの難しさ：中国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260810",
+      "rank": 3,
+      "title": "年金改革ウォッチ 2026年8月号～国民年金保険料の納付率は向上。自動引去り利用率の伸び悩みが課題",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86500_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260810/Rank3_年金改革ウォッチ 2026年8月号～国民年金保険料の納付率は向上。自動引去り利用率の伸び悩みが課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260810",
+      "rank": 4,
+      "title": "第204回「なぜ日本人の生産性はドイツ人の半分なのか（6）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
+      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/204.html",
+      "source_file": "keizai-web/public/reports/20260810/Rank4_第204回「なぜ日本人の生産性はドイツ人の半分なのか（6）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260810",
+      "rank": 5,
+      "title": "岐路に立つ世界のEV市場～激動する国際情勢。世界のEV市場への影響は？：技術・業界展望",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=1zlgxpqrp1m",
+      "source_file": "keizai-web/public/reports/20260810/Rank5_岐路に立つ世界のEV市場～激動する国際情勢。世界のEV市場への影響は？：技術・業界展望.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260810",
+      "rank": 6,
+      "title": "円安がもたらす家計所得の構造変化～円実質実効為替レートと労働分配率の低下...",
+      "source_url": "http://www.world-economic-review.jp/impact/article4485.html",
+      "source_file": "keizai-web/public/reports/20260810/Rank6_円安がもたらす家計所得の構造変化～円実質実効為替レートと労働分配率の低下....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260809",
       "rank": 1,
