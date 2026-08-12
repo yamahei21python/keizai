@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260812",
     "20260810",
     "20260809",
     "20260808",
@@ -100,6 +101,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260812",
+      "rank": 1,
+      "title": "30分で読める総合商社の歴史（江戸時代～平成期）～未来を考えるためのヒントとして",
+      "source_url": "https://te.eg/wps/portal/te/Personal/",
+      "source_file": "keizai-web/public/reports/20260812/Rank1_30分で読める総合商社の歴史（江戸時代～平成期）～未来を考えるためのヒントとして.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260812",
+      "rank": 2,
+      "title": "家計を投資から遠ざけるものは何か～時間選好・金融リテラシー・投資イメージの役割と政策的含意：ワーキングペーパー",
+      "source_url": "https://sbiferi.co.jp/assets/pdf/wp/wpj20260810_1.pdf",
+      "source_file": "keizai-web/public/reports/20260812/Rank2_家計を投資から遠ざけるものは何か～時間選好・金融リテラシー・投資イメージの役割と政策的含意：ワーキングペーパー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260812",
+      "rank": 3,
+      "title": "日本のミドルマネジャー白書（日本の中間管理職白書）～管理職は本当に罰ゲーム？ 約９割が現場の実務も担う「プレイングマネジャー」 多忙な中間管理職の実態を読み解く",
+      "source_url": "https://files.actibookone.com/contents/4396/762271-20260717140813/original.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NzA5ODAzOH19fV19&Signature=Cu4OF5YsTqVJFg~Z6hO0XABd7lyHMU0PlZOVErIBSoftIQ3Mm7djxgpn0TuLcNLQWXk~rbIDuKu79MdsiEWiy5BfqS78GcFNSlRf5JxCbAMgAZSiO3nouKWN692U2bvk6imyy~URQHuKs0J8pxbPLbnPz~E0t9piuNz6G18VoFpnbKMKTS0v9GPJx~ZrPd5fS4jjAfVoQpqxpWKkYGiS93CNX3-asX0piyBVQtKtk1ZXXYM4rlrmdrGMNk4VJjv~ITK5pcQemjr4USmFT~Hngp1pMwZVTEdWfiL7EWQBUMAyDhJ44o5dL0Qoha-o9PSBpdELhvCuE16M2rGnMd0i2w__&Key-Pair-Id=APKAJBZGQAONT53PE2FA&response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2583%259F%25E3%2583%2589%25E3%2583%25AB%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E7%2599%25BD%25E6%259B%25B82025.pdf",
+      "source_file": "keizai-web/public/reports/20260812/Rank3_日本のミドルマネジャー白書（日本の中間管理職白書）～管理職は本当に罰ゲーム？ 約９割が現場の実務も担う「プレイングマネジャー」 多忙な中間管理職の実態を読み解く.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260812",
+      "rank": 4,
+      "title": "AIは相場の「次の暴落」に人間より先に気づくのか～ニュース解析で探る、相場予測の実力と落とし穴：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/645132.pdf",
+      "source_file": "keizai-web/public/reports/20260812/Rank4_AIは相場の「次の暴落」に人間より先に気づくのか～ニュース解析で探る、相場予測の実力と落とし穴：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260812",
+      "rank": 5,
+      "title": "東京一極集中の現在地と広がる「区格差」 その2 ～データが示す外国人増加の実態～",
+      "source_url": "https://www.haseko.co.jp/hri/cri/focus/focus-576/index.html",
+      "source_file": "keizai-web/public/reports/20260812/Rank5_東京一極集中の現在地と広がる「区格差」 その2 ～データが示す外国人増加の実態～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260812",
+      "rank": 6,
+      "title": "岐路に立つ世界のEV市場～激動する国際情勢。世界のEV市場への影響は？：技術・業界展望",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=1zlgxpqrp1m",
+      "source_file": "keizai-web/public/reports/20260812/Rank6_岐路に立つ世界のEV市場～激動する国際情勢。世界のEV市場への影響は？：技術・業界展望.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260810",
       "rank": 1,
