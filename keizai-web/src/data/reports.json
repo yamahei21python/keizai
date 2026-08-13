@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260813",
     "20260812",
     "20260810",
     "20260809",
@@ -101,6 +102,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260813",
+      "rank": 1,
+      "title": "失われた30年に、何を失ったのか",
+      "source_url": "https://www.scgr.co.jp/report/column/2026081282975/",
+      "source_file": "keizai-web/public/reports/20260813/Rank1_失われた30年に、何を失ったのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260813",
+      "rank": 2,
+      "title": "AI時代を読み解く（３）データセンターが批判される理由～根底にあるAI不信、問われる民主党の備え：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0106/index.html",
+      "source_file": "keizai-web/public/reports/20260813/Rank2_AI時代を読み解く（３）データセンターが批判される理由～根底にあるAI不信、問われる民主党の備え：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260813",
+      "rank": 3,
+      "title": "高市政権誕生後の長期金利をどうみるか～2035年に3.3～4.0％程度で、海外保有拡大で更なる上昇も：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260812_025972.pdf",
+      "source_file": "keizai-web/public/reports/20260813/Rank3_高市政権誕生後の長期金利をどうみるか～2035年に3.3～4.0％程度で、海外保有拡大で更なる上昇も：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260813",
+      "rank": 4,
+      "title": "経済安全保障と日本における産業政策の復活",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679684&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260813/Rank4_経済安全保障と日本における産業政策の復活.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260813",
+      "rank": 5,
+      "title": "ASEANの半導体産業にみる比較優位の変容",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260812_sagawa_semiconductor.pdf",
+      "source_file": "keizai-web/public/reports/20260813/Rank5_ASEANの半導体産業にみる比較優位の変容.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260813",
+      "rank": 6,
+      "title": "知っておきたい経済用語：AI-Readyってなに？",
+      "source_url": "https://journal.meti.go.jp/keizaiword/46647/",
+      "source_file": "keizai-web/public/reports/20260813/Rank6_知っておきたい経済用語：AI-Readyってなに？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260812",
       "rank": 1,
