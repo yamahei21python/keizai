@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260814",
     "20260813",
     "20260812",
     "20260810",
@@ -102,6 +103,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260814",
+      "rank": 1,
+      "title": "急拡大するデータセンター市場の実像",
+      "source_url": "https://www.nomu.com/cre-navi/trend/20260813.html?article_url=%2Ftrend%2F20260813.html",
+      "source_file": "keizai-web/public/reports/20260814/Rank1_急拡大するデータセンター市場の実像.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 2,
+      "title": "“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679902&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank2_“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 3,
+      "title": "企業の成長と中堅企業：Special Report",
+      "source_url": "https://www.rieti.go.jp/jp/special/special_report/260.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank3_企業の成長と中堅企業：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 4,
+      "title": "産業政策の再興、官民協働の制度設計をどう描くか：わたしの構想No.84",
+      "source_url": "https://www.nira.or.jp/paper/vision84.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank4_産業政策の再興、官民協働の制度設計をどう描くか：わたしの構想No.84.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 5,
+      "title": "個人株主の動向について（2026年7月）～2025年度末の個人株主数（名寄せ人数）は、1,677万人、過去最高値を更新",
+      "source_url": "https://www.jsda.or.jp/shiryoshitsu/toukei/2025kojinkabunushinodoukou.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank5_個人株主の動向について（2026年7月）～2025年度末の個人株主数（名寄せ人数）は、1,677万人、過去最高値を更新.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 6,
+      "title": "Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/m_260813_01.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank6_Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260813",
       "rank": 1,
