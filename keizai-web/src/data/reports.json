@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260815",
     "20260814",
     "20260813",
     "20260812",
@@ -103,6 +104,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260815",
+      "rank": 1,
+      "title": "生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓：リサーチラボ",
+      "source_url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+      "source_file": "keizai-web/public/reports/20260815/Rank1_生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓：リサーチラボ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260815",
+      "rank": 2,
+      "title": "木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260814.html",
+      "source_file": "keizai-web/public/reports/20260815/Rank2_木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260815",
+      "rank": 3,
+      "title": "インドの石炭需給の現状と展望 令和7年度",
+      "source_url": "http://coal.jogmec.go.jp/content/300395000.pdf",
+      "source_file": "keizai-web/public/reports/20260815/Rank3_インドの石炭需給の現状と展望 令和7年度.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260815",
+      "rank": 4,
+      "title": "日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/news/ccy260813_jpy.pdf",
+      "source_file": "keizai-web/public/reports/20260815/Rank4_日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260815",
+      "rank": 5,
+      "title": "省エネ・非化石転換法の手引き（工場・事業場編）～令和8年度改訂版～",
+      "source_url": "https://www.enecho.meti.go.jp/category/saving_and_new/saving/media/data/shoene_tebiki_01.pdf?update=260709",
+      "source_file": "keizai-web/public/reports/20260815/Rank5_省エネ・非化石転換法の手引き（工場・事業場編）～令和8年度改訂版～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260815",
+      "rank": 6,
+      "title": "俯瞰ワークショップ報告書「ヒューマンインタフェース／インタラクション」",
+      "source_url": "https://www.jst.go.jp/crds/pdf/2026/WR/CRDS-FY2026-WR-04.pdf",
+      "source_file": "keizai-web/public/reports/20260815/Rank6_俯瞰ワークショップ報告書「ヒューマンインタフェース／インタラクション」.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260814",
       "rank": 1,
