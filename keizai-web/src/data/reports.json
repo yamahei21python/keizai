@@ -114,10 +114,37 @@
     },
     {
       "date": "20260814",
+      "rank": 1,
+      "title": "米ドル覇権の行方：ドル覇権の持続性と国際金融システムの行方",
+      "source_url": "https://www.jiia.or.jp/jpn/upload/Kokusaimondai_No.732_02.pdf?noprint",
+      "source_file": "keizai-web/public/reports/20260814/Rank1_米ドル覇権の行方：ドル覇権の持続性と国際金融システムの行方.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
       "rank": 2,
       "title": "“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国",
       "source_url": "http://www3.keizaireport.com/jump.php?RID=679902&key=5655555555555&dj=1",
       "source_file": "keizai-web/public/reports/20260814/Rank2_“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 2,
+      "title": "日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679985&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank2_日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 3,
+      "title": "円の実力と日本経済～為替レートと国際収支に基づく考察：ドル覇権の持続性と国際金融システムの行方",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679967&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank3_円の実力と日本経済～為替レートと国際収支に基づく考察：ドル覇権の持続性と国際金融システムの行方.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -133,9 +160,27 @@
     {
       "date": "20260814",
       "rank": 4,
+      "title": "中国人民元は国際主要通貨になりうるか？～金融覇権主義と国際金融システム：ドル覇権の持続性と国際金融システムの行方",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679966&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank4_中国人民元は国際主要通貨になりうるか？～金融覇権主義と国際金融システム：ドル覇権の持続性と国際金融システムの行方.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 4,
       "title": "産業政策の再興、官民協働の制度設計をどう描くか：わたしの構想No.84",
       "source_url": "https://www.nira.or.jp/paper/vision84.pdf",
       "source_file": "keizai-web/public/reports/20260814/Rank4_産業政策の再興、官民協働の制度設計をどう描くか：わたしの構想No.84.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 5,
+      "title": "木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260814.html",
+      "source_file": "keizai-web/public/reports/20260814/Rank5_木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -154,6 +199,15 @@
       "title": "Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待",
       "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/m_260813_01.pdf",
       "source_file": "keizai-web/public/reports/20260814/Rank6_Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 6,
+      "title": "丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/MWR_2026_23_MidtermElection_2_20260813External.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank6_丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -448,15 +502,6 @@
     {
       "date": "20260807",
       "rank": 2,
-      "title": "トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447",
-      "source_url": "https://www.dbj.jp/investigate/assets/2608071000.pdf",
-      "source_file": "keizai-web/public/reports/20260807/Rank2_トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447.md",
-      "summary_file": null,
-      "status": "processing"
-    },
-    {
-      "date": "20260807",
-      "rank": 2,
       "title": "株価上昇と世帯年収別の金融資産・消費支出について：今週の指標 No.1421",
       "source_url": "https://www5.cao.go.jp/keizai3/shihyo/2026/0806/1421.pdf",
       "source_file": "keizai-web/public/reports/20260807/Rank2_株価上昇と世帯年収別の金融資産・消費支出について：今週の指標 No.1421.md",
@@ -465,10 +510,10 @@
     },
     {
       "date": "20260807",
-      "rank": 3,
-      "title": "AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート",
-      "source_url": "https://www.jetro.go.jp/ext_images/biz/special/2026/0801/1aee4b7856c0c87c/g01.pdf",
-      "source_file": "keizai-web/public/reports/20260807/Rank3_AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート.md",
+      "rank": 2,
+      "title": "トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447",
+      "source_url": "https://www.dbj.jp/investigate/assets/2608071000.pdf",
+      "source_file": "keizai-web/public/reports/20260807/Rank2_トランプ関税と日本製造業の対米投資姿勢：今月のトピックスNo.447.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -478,6 +523,15 @@
       "title": "「日銀の利上げで円高になる」は本当か？：経済の舞台裏",
       "source_url": "https://www.dlri.co.jp/files/macro/638403.pdf",
       "source_file": "keizai-web/public/reports/20260807/Rank3_「日銀の利上げで円高になる」は本当か？：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 3,
+      "title": "AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート",
+      "source_url": "https://www.jetro.go.jp/ext_images/biz/special/2026/0801/1aee4b7856c0c87c/g01.pdf",
+      "source_file": "keizai-web/public/reports/20260807/Rank3_AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）：地域・分析レポート.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -502,18 +556,18 @@
     {
       "date": "20260807",
       "rank": 5,
-      "title": "Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆",
-      "source_url": "https://www.jst.go.jp/ristex/funding/files/JST_1115180_21471335_osawa_ER.pdf",
-      "source_file": "keizai-web/public/reports/20260807/Rank5_Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆.md",
+      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679328&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260807/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260807",
       "rank": 5,
-      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=679328&key=5655555555555&dj=1",
-      "source_file": "keizai-web/public/reports/20260807/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
+      "title": "Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆",
+      "source_url": "https://www.jst.go.jp/ristex/funding/files/JST_1115180_21471335_osawa_ER.pdf",
+      "source_file": "keizai-web/public/reports/20260807/Rank5_Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -5434,15 +5488,6 @@
     {
       "date": "20260409",
       "rank": 3,
-      "title": "日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く",
-      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/geopolitical-risk-column/vol37.html",
-      "source_file": "keizai-web/public/reports/20260409/Rank3_日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く.md",
-      "summary_file": null,
-      "status": "processing"
-    },
-    {
-      "date": "20260409",
-      "rank": 3,
       "title": "供給途絶リスクに直面する日本経済",
       "source_url": "http://www3.keizaireport.com/jump.php?RID=662982&key=115555555573&dj=1",
       "source_file": "keizai-web/public/reports/20260409/Rank3_供給途絶リスクに直面する日本経済.md",
@@ -5451,10 +5496,10 @@
     },
     {
       "date": "20260409",
-      "rank": 4,
-      "title": "米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260408_2.html",
-      "source_file": "keizai-web/public/reports/20260409/Rank4_米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "rank": 3,
+      "title": "日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/geopolitical-risk-column/vol37.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank3_日本の半導体企業にとっての中国関連インテリジェンスの読み解き方（前編）：地政学リスクの今を読み解く.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -5464,6 +5509,15 @@
       "title": "老後のための資産形成～公私年金・退職金の統合勘定の設計と管理",
       "source_url": "https://www.jsri.or.jp/publish/research/pdf/134/134_01.pdf",
       "source_file": "keizai-web/public/reports/20260409/Rank4_老後のための資産形成～公私年金・退職金の統合勘定の設計と管理.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 4,
+      "title": "米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260408_2.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank4_米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -5488,18 +5542,18 @@
     {
       "date": "20260409",
       "rank": 6,
-      "title": "米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator",
-      "source_url": "https://www.dlri.co.jp/files/macro/593061.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank6_米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator.md",
+      "title": "AIは生産性をどの程度高めるか：エコノミスト360°視点",
+      "source_url": "https://www.rieti.go.jp/jp/papers/contribution/morikawa/34.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_AIは生産性をどの程度高めるか：エコノミスト360°視点.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260409",
       "rank": 6,
-      "title": "AIは生産性をどの程度高めるか：エコノミスト360°視点",
-      "source_url": "https://www.rieti.go.jp/jp/papers/contribution/morikawa/34.html",
-      "source_file": "keizai-web/public/reports/20260409/Rank6_AIは生産性をどの程度高めるか：エコノミスト360°視点.md",
+      "title": "米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/593061.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -5614,15 +5668,6 @@
     {
       "date": "20260406",
       "rank": 1,
-      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
-      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
-      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260406",
-      "rank": 1,
       "title": "AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～",
       "source_url": "https://www8.cao.go.jp/cstp/ai/ai-semi_wg/2kai/siryo1.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank1_AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～.md",
@@ -5631,12 +5676,12 @@
     },
     {
       "date": "20260406",
-      "rank": 2,
-      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
-      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
-      "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
-      "summary_file": null,
-      "status": "processing"
+      "rank": 1,
+      "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
+      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
+      "status": "completed"
     },
     {
       "date": "20260406",
@@ -5649,10 +5694,10 @@
     },
     {
       "date": "20260406",
-      "rank": 3,
-      "title": "NISA普及における地域間較差の要因分析と政策的示唆",
-      "source_url": "https://www.nri.com/jp/knowledge/report/files/000059905.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank3_NISA普及における地域間較差の要因分析と政策的示唆.md",
+      "rank": 2,
+      "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
+      "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -5662,6 +5707,15 @@
       "title": "世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く",
       "source_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Reuters%20Ipsos%20Iran%20Airstrike%20Topline%203.1.2026.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank3_世界を見る眼：なぜ米国・イスラエルはこのタイミングでイランを攻撃したのか～米国世論の変化から読み解く.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 3,
+      "title": "NISA普及における地域間較差の要因分析と政策的示唆",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000059905.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank3_NISA普及における地域間較差の要因分析と政策的示唆.md",
       "summary_file": null,
       "status": "processing"
     },
