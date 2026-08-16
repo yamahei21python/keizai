@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260816",
     "20260815",
     "20260814",
     "20260813",
@@ -104,6 +105,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260816",
+      "rank": 1,
+      "title": "生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓：リサーチラボ",
+      "source_url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank1_生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓：リサーチラボ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260816",
+      "rank": 2,
+      "title": "フィジカルAIを日本の「勝ち筋」にするために～「デジタル敗戦」を繰り返さないための日本企業の対応策：リサーチ・フォーカス No.2026-034",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank2_フィジカルAIを日本の「勝ち筋」にするために～「デジタル敗戦」を繰り返さないための日本企業の対応策：リサーチ・フォーカス No.2026-034.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260816",
+      "rank": 3,
+      "title": "「猛暑だから脱炭素」が消えたのは気候詐欺がバレたからか",
+      "source_url": "https://www.ipcc.ch/site/assets/uploads/2023/03/Doc5_Adopted_AR6_SYR_Longer_Report.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank3_「猛暑だから脱炭素」が消えたのは気候詐欺がバレたからか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260816",
+      "rank": 4,
+      "title": "丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/MWR_2026_23_MidtermElection_2_20260813External.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank4_丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260816",
+      "rank": 5,
+      "title": "注目を集める国内インフラ投資",
+      "source_url": "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202608_no171.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank5_注目を集める国内インフラ投資.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260816",
+      "rank": 6,
+      "title": "国債優遇は誰のためか～NISA・相続税と資産運用立国の制度目的を問い直す：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/asset/645272.pdf",
+      "source_file": "keizai-web/public/reports/20260816/Rank6_国債優遇は誰のためか～NISA・相続税と資産運用立国の制度目的を問い直す：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260815",
       "rank": 1,
