@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260817",
     "20260816",
     "20260815",
     "20260814",
@@ -105,6 +106,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260817",
+      "rank": 1,
+      "title": "将来の日本における金融業の強者連合とは",
+      "source_url": "https://www.dir.co.jp/report/column/20260817_012468.html",
+      "source_file": "keizai-web/public/reports/20260817/Rank1_将来の日本における金融業の強者連合とは.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260817",
+      "rank": 2,
+      "title": "中国による半導体サプライチェーンの自立自強動向と日本企業への示唆",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/china-semiconductor-supplychain.html",
+      "source_file": "keizai-web/public/reports/20260817/Rank2_中国による半導体サプライチェーンの自立自強動向と日本企業への示唆.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260817",
+      "rank": 3,
+      "title": "日本経済展望 2026年8月号～トピックス：年後半に再び強まる消費者物価の上昇圧力",
+      "source_url": "https://www.jri.co.jp/MediaLibrary/file/report/japan/pdf/16912.pdf",
+      "source_file": "keizai-web/public/reports/20260817/Rank3_日本経済展望 2026年8月号～トピックス：年後半に再び強まる消費者物価の上昇圧力.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260817",
+      "rank": 4,
+      "title": "日本の財政・金融政策に対する論点整理～サナエノミクスの現状分析と評価：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/645306.pdf",
+      "source_file": "keizai-web/public/reports/20260817/Rank4_日本の財政・金融政策に対する論点整理～サナエノミクスの現状分析と評価：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260817",
+      "rank": 5,
+      "title": "来たるAI時代、半導体は戦略資産となり得るか～AI競争の主戦場は「AIモデルを作る競争」から「AIモデルを使い倒す競争」...",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/semiconductors-strategic-assets-ai-era.html",
+      "source_file": "keizai-web/public/reports/20260817/Rank5_来たるAI時代、半導体は戦略資産となり得るか～AI競争の主戦場は「AIモデルを作る競争」から「AIモデルを使い倒す競争」....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260817",
+      "rank": 6,
+      "title": "政策提言：人口減少時代の地方自治～単独・自前型から連携・分業型への転換",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=680183&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260817/Rank6_政策提言：人口減少時代の地方自治～単独・自前型から連携・分業型への転換.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260816",
       "rank": 1,
