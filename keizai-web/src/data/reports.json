@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260819",
     "20260818",
     "20260817",
     "20260816",
@@ -107,6 +108,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260819",
+      "rank": 1,
+      "title": "日中関係はなぜ改善しないのか",
+      "source_url": "https://www.scgr.co.jp/report/column/2026081983124/",
+      "source_file": "keizai-web/public/reports/20260819/Rank1_日中関係はなぜ改善しないのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260819",
+      "rank": 2,
+      "title": "AI時代を読み解く（４）AIブームの利益を誰が得るのか～経営戦略論で見るAIビジネスの未来：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0109/index.html",
+      "source_file": "keizai-web/public/reports/20260819/Rank2_AI時代を読み解く（４）AIブームの利益を誰が得るのか～経営戦略論で見るAIビジネスの未来：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260819",
+      "rank": 3,
+      "title": "起業家精神に関する調査報告書（令和7年度）",
+      "source_url": "https://www.meti.go.jp/policy/newbusiness/houkokusyo/GEM2025_report.pdf",
+      "source_file": "keizai-web/public/reports/20260819/Rank3_起業家精神に関する調査報告書（令和7年度）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260819",
+      "rank": 4,
+      "title": "「ホルムズ危機と中東秩序の行方～エネルギー、安全保障、地域秩序の構造変化」（4）中東秩序の構造転換：多重対立から「管理された競争」へ",
+      "source_url": "https://dcer.dentsusoken.com/reports/nt26004/",
+      "source_file": "keizai-web/public/reports/20260819/Rank4_「ホルムズ危機と中東秩序の行方～エネルギー、安全保障、地域秩序の構造変化」（4）中東秩序の構造転換：多重対立から「管理された競争」へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260819",
+      "rank": 5,
+      "title": "「スーパー・エルニーニョ現象」が生活に与える影響～暖冬がマクロ経済に与える影響を中心に：Economic Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/645385.pdf",
+      "source_file": "keizai-web/public/reports/20260819/Rank5_「スーパー・エルニーニョ現象」が生活に与える影響～暖冬がマクロ経済に与える影響を中心に：Economic Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260819",
+      "rank": 6,
+      "title": "証券決済と証券保管振替機構～基礎編～",
+      "source_url": "https://www.mof.go.jp/public_relations/finance/202608/pdf/202608e.pdf",
+      "source_file": "keizai-web/public/reports/20260819/Rank6_証券決済と証券保管振替機構～基礎編～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260818",
       "rank": 1,
