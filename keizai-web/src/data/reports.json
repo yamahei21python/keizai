@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260820",
     "20260819",
     "20260818",
     "20260817",
@@ -108,6 +109,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260820",
+      "rank": 1,
+      "title": "露呈した米国の問題意識～「情けは人の為ならず」：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260820.pdf",
+      "source_file": "keizai-web/public/reports/20260820/Rank1_露呈した米国の問題意識～「情けは人の為ならず」：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260820",
+      "rank": 2,
+      "title": "南鳥島レアアースの潜在力と商業化への課題",
+      "source_url": "https://www.spf.org/opri/newsletter/608_2.html",
+      "source_file": "keizai-web/public/reports/20260820/Rank2_南鳥島レアアースの潜在力と商業化への課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260820",
+      "rank": 3,
+      "title": "長期金利の大幅上昇をもたらす財政悪化リスク～長期金利の大幅上昇は国内要因による部分が大きい...：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260820.html",
+      "source_file": "keizai-web/public/reports/20260820/Rank3_長期金利の大幅上昇をもたらす財政悪化リスク～長期金利の大幅上昇は国内要因による部分が大きい...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260820",
+      "rank": 4,
+      "title": "食料品の値上げに対する生活者の意識と行動",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000065199.pdf",
+      "source_file": "keizai-web/public/reports/20260820/Rank4_食料品の値上げに対する生活者の意識と行動.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260820",
+      "rank": 5,
+      "title": "「過去の正解」で見極める組織はAIに淘汰される～次世代リーダーの芽を摘む合理的判断の罠",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/consulting/articles-2026-k0026/index.html",
+      "source_file": "keizai-web/public/reports/20260820/Rank5_「過去の正解」で見極める組織はAIに淘汰される～次世代リーダーの芽を摘む合理的判断の罠.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260820",
+      "rank": 6,
+      "title": "AI時代における企業の品格：NRI JOURNAL",
+      "source_url": "https://www.nri.com/jp/media/journal/20260820.html",
+      "source_file": "keizai-web/public/reports/20260820/Rank6_AI時代における企業の品格：NRI JOURNAL.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260819",
       "rank": 1,
