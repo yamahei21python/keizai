@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260821",
     "20260820",
     "20260819",
     "20260818",
@@ -109,6 +110,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260821",
+      "rank": 1,
+      "title": "社会主義から挑戦される資本主義～政府や企業はどう対応すべきか：ビューポイント No.2026-019",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260821/Rank1_社会主義から挑戦される資本主義～政府や企業はどう対応すべきか：ビューポイント No.2026-019.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260821",
+      "rank": 2,
+      "title": "金価格急反発の真相：米実質金利の上振れ余地と構造的なドル離れ：Special Report",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/sp_260821_01.pdf",
+      "source_file": "keizai-web/public/reports/20260821/Rank2_金価格急反発の真相：米実質金利の上振れ余地と構造的なドル離れ：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260821",
+      "rank": 3,
+      "title": "トランプ通商政策の持続性を問う～分かれる関税評価、民主党は自由貿易に転ずるか？：みずほ経済インサイト 米州",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0111/index.html",
+      "source_file": "keizai-web/public/reports/20260821/Rank3_トランプ通商政策の持続性を問う～分かれる関税評価、民主党は自由貿易に転ずるか？：みずほ経済インサイト 米州.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260821",
+      "rank": 4,
+      "title": "外務省人材戦略",
+      "source_url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04070.html",
+      "source_file": "keizai-web/public/reports/20260821/Rank4_外務省人材戦略.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260821",
+      "rank": 5,
+      "title": "消費者物価（全国26年7月）～コアCPI上昇率は7ヵ月連続の1％台だが、日用品で値上げの動き：経済・金融フラッシュ",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86590_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260821/Rank5_消費者物価（全国26年7月）～コアCPI上昇率は7ヵ月連続の1％台だが、日用品で値上げの動き：経済・金融フラッシュ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260821",
+      "rank": 6,
+      "title": "財源としての外為特会～為替差益は原則繰入不可、剰余金は今後目減りへ：リサーチ・フォーカス No.2026-039",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260821/Rank6_財源としての外為特会～為替差益は原則繰入不可、剰余金は今後目減りへ：リサーチ・フォーカス No.2026-039.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260820",
       "rank": 1,
