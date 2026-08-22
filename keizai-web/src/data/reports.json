@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260822",
     "20260821",
     "20260820",
     "20260819",
@@ -110,6 +111,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260822",
+      "rank": 1,
+      "title": "中東危機が問う日本の選択：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86560_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260822/Rank1_中東危機が問う日本の選択：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260822",
+      "rank": 2,
+      "title": "機械受注統計（2026年6月）～4-6月期のコア民需は微増、7-9月期の回復見込みが実現するかが焦点：Daily Macro Economic Insights",
+      "source_url": "https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/daily-macro-economic-insights260821.pdf",
+      "source_file": "keizai-web/public/reports/20260822/Rank2_機械受注統計（2026年6月）～4-6月期のコア民需は微増、7-9月期の回復見込みが実現するかが焦点：Daily Macro Economic Insights.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260822",
+      "rank": 3,
+      "title": "消費者物価指数（全国・2026年7月）～食料・日用品で値上げの動き。コスト増の波及で物価は秋以降上振れへ",
+      "source_url": "https://www.dlri.co.jp/files/macro/654416.pdf",
+      "source_file": "keizai-web/public/reports/20260822/Rank3_消費者物価指数（全国・2026年7月）～食料・日用品で値上げの動き。コスト増の波及で物価は秋以降上振れへ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260822",
+      "rank": 4,
+      "title": "消費税減税の期待と現実",
+      "source_url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/579f69b47065401f895f01c9982a9696/col2026072101.pdf",
+      "source_file": "keizai-web/public/reports/20260822/Rank4_消費税減税の期待と現実.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260822",
+      "rank": 5,
+      "title": "7月のCPIは伸びを拡大～伸びは市場予想通り：マーケットレポート",
+      "source_url": "https://www.smtam.jp/report_column/pdf/cat_03/HP7CPI20260821k.pdf",
+      "source_file": "keizai-web/public/reports/20260822/Rank5_7月のCPIは伸びを拡大～伸びは市場予想通り：マーケットレポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260822",
+      "rank": 6,
+      "title": "中国の技術競争力はどこから生まれるのか～専精特新「小巨人」企業からみる中国の技術自立戦略：MRIエコノミックレビュー",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/20260821.html",
+      "source_file": "keizai-web/public/reports/20260822/Rank6_中国の技術競争力はどこから生まれるのか～専精特新「小巨人」企業からみる中国の技術自立戦略：MRIエコノミックレビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260821",
       "rank": 1,
