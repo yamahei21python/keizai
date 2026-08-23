@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260823",
     "20260822",
     "20260821",
     "20260820",
@@ -111,6 +112,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260823",
+      "rank": 1,
+      "title": "金価格急反発の真相：米実質金利の上振れ余地と構造的なドル離れ：Special Report",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/sp_260821_01.pdf",
+      "source_file": "keizai-web/public/reports/20260823/Rank1_金価格急反発の真相：米実質金利の上振れ余地と構造的なドル離れ：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260823",
+      "rank": 2,
+      "title": "「AIで変えるべき業務」をどう見極めるか～全業務の俯瞰から考えるAI活用の優先順位：経営研レポート",
+      "source_url": "https://www.nttdata-strategy.com/knowledge/reports/2026/260821/",
+      "source_file": "keizai-web/public/reports/20260823/Rank2_「AIで変えるべき業務」をどう見極めるか～全業務の俯瞰から考えるAI活用の優先順位：経営研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260823",
+      "rank": 3,
+      "title": "日系企業のモノの国際競争ポジションに関する情報収集 2025年度調査報告書～製品別の世界シェア...",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=680693&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260823/Rank3_日系企業のモノの国際競争ポジションに関する情報収集 2025年度調査報告書～製品別の世界シェア....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260823",
+      "rank": 4,
+      "title": "中東危機が問う日本の選択：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86560_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260823/Rank4_中東危機が問う日本の選択：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260823",
+      "rank": 5,
+      "title": "中国の技術競争力はどこから生まれるのか～専精特新「小巨人」企業からみる中国の技術自立戦略：MRIエコノミックレビュー",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/20260821.html",
+      "source_file": "keizai-web/public/reports/20260823/Rank5_中国の技術競争力はどこから生まれるのか～専精特新「小巨人」企業からみる中国の技術自立戦略：MRIエコノミックレビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260823",
+      "rank": 6,
+      "title": "社会主義から挑戦される資本主義～政府や企業はどう対応すべきか：ビューポイント No.2026-019",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260823/Rank6_社会主義から挑戦される資本主義～政府や企業はどう対応すべきか：ビューポイント No.2026-019.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260822",
       "rank": 1,
