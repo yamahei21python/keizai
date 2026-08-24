@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260824",
     "20260823",
     "20260822",
     "20260821",
@@ -112,6 +113,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260824",
+      "rank": 1,
+      "title": "なぜ高齢者はお金を使わないのか ～心理的収支が阻む保有資産の取り崩し：Insight Plus",
+      "source_url": "https://www.sompo-ri.co.jp/wp-content/uploads/2026/08/t202626.pdf",
+      "source_file": "keizai-web/public/reports/20260824/Rank1_なぜ高齢者はお金を使わないのか ～心理的収支が阻む保有資産の取り崩し：Insight Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260824",
+      "rank": 2,
+      "title": "「個人向け国債」見直しで家計の行動はどう変わる？：欧州で起きた「家計資金の大移動」からの示唆",
+      "source_url": "https://www.dir.co.jp/report/column/20260824_012471.html",
+      "source_file": "keizai-web/public/reports/20260824/Rank2_「個人向け国債」見直しで家計の行動はどう変わる？：欧州で起きた「家計資金の大移動」からの示唆.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260824",
+      "rank": 3,
+      "title": "第205回「なぜ日本人の生産性はドイツ人の半分なのか（7）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学",
+      "source_url": "https://www.rieti.go.jp/users/iwamoto-koichi/serial/205.html",
+      "source_file": "keizai-web/public/reports/20260824/Rank3_第205回「なぜ日本人の生産性はドイツ人の半分なのか（7）～失われた30年を生み出した大きな要因」：IoT、AI等デジタル化の経済学.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260824",
+      "rank": 4,
+      "title": "拡大する米国のAI関連投資～成長への寄与と投資ブームの持続性：Weekly エコノミスト・レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86608_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260824/Rank4_拡大する米国のAI関連投資～成長への寄与と投資ブームの持続性：Weekly エコノミスト・レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260824",
+      "rank": 5,
+      "title": "「アダム・スミス問題」への私見",
+      "source_url": "http://www.world-economic-review.jp/impact/article4504.html",
+      "source_file": "keizai-web/public/reports/20260824/Rank5_「アダム・スミス問題」への私見.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260824",
+      "rank": 6,
+      "title": "設備投資は増やせばよいのか～成長戦略時代に問われる「投資ガバナンス」：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/654504.pdf",
+      "source_file": "keizai-web/public/reports/20260824/Rank6_設備投資は増やせばよいのか～成長戦略時代に問われる「投資ガバナンス」：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260823",
       "rank": 1,
