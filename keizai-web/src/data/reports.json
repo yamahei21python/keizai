@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260825",
     "20260824",
     "20260823",
     "20260822",
@@ -113,6 +114,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260825",
+      "rank": 1,
+      "title": "始まった貿易収支の悪化～シミュレーション再考：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260825.pdf",
+      "source_file": "keizai-web/public/reports/20260825/Rank1_始まった貿易収支の悪化～シミュレーション再考：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260825",
+      "rank": 2,
+      "title": "中国はなぜ超精密部品を作れるようになったのか",
+      "source_url": "https://spap.jst.go.jp/china/experiences/science/st_26069.html",
+      "source_file": "keizai-web/public/reports/20260825/Rank2_中国はなぜ超精密部品を作れるようになったのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260825",
+      "rank": 3,
+      "title": "内外経済ウォッチ『日本～こじれる消費税減税の裏側にあるもの～』(2026年9月号)",
+      "source_url": "https://www.dlri.co.jp/files/dlri/654452.pdf",
+      "source_file": "keizai-web/public/reports/20260825/Rank3_内外経済ウォッチ『日本～こじれる消費税減税の裏側にあるもの～』(2026年9月号).md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260825",
+      "rank": 4,
+      "title": "カーボンニュートラル実現に向けた国内外の中長期エネルギー需給動向調査・分析事業 報告書",
+      "source_url": "https://www.meti.go.jp/meti_lib/report/2025FY/080825/report_202608251634_0.pdf",
+      "source_file": "keizai-web/public/reports/20260825/Rank4_カーボンニュートラル実現に向けた国内外の中長期エネルギー需給動向調査・分析事業 報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260825",
+      "rank": 5,
+      "title": "株価の現在位置 バブルは金融緩和局面でしか発生しない？：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654539.pdf",
+      "source_file": "keizai-web/public/reports/20260825/Rank5_株価の現在位置 バブルは金融緩和局面でしか発生しない？：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260825",
+      "rank": 6,
+      "title": "中国経済見通し：政治の季節で経済が萎縮？～固定資産投資はマイナス幅が一段と拡大、内需低迷が続く：中国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/china/20260825_026004.pdf",
+      "source_file": "keizai-web/public/reports/20260825/Rank6_中国経済見通し：政治の季節で経済が萎縮？～固定資産投資はマイナス幅が一段と拡大、内需低迷が続く：中国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260824",
       "rank": 1,
