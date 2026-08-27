@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260827",
     "20260825",
     "20260824",
     "20260823",
@@ -114,6 +115,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260827",
+      "rank": 1,
+      "title": "「おじさん構文」ににじむことばの加齢臭",
+      "source_url": "https://www.dir.co.jp/report/column/20260826_012473.html",
+      "source_file": "keizai-web/public/reports/20260827/Rank1_「おじさん構文」ににじむことばの加齢臭.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260827",
+      "rank": 2,
+      "title": "中小国の生き残り戦略は：宮家邦彦のWorld Watch",
+      "source_url": "https://cigs.canon/article/20260826_10385.html",
+      "source_file": "keizai-web/public/reports/20260827/Rank2_中小国の生き残り戦略は：宮家邦彦のWorld Watch.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260827",
+      "rank": 3,
+      "title": "AIバブルは「2000年」の再来なのか～ドットコム・バブルとの比較で見える、決定的な違いと共通する危うさ：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/654551.pdf",
+      "source_file": "keizai-web/public/reports/20260827/Rank3_AIバブルは「2000年」の再来なのか～ドットコム・バブルとの比較で見える、決定的な違いと共通する危うさ：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260827",
+      "rank": 4,
+      "title": "〔講演〕AIバブルを乗り越える～AI革命と情報・半導体産業の競争の行方：証券レビュー",
+      "source_url": "https://www.jsri.or.jp/publication/periodical/review/6608_02/",
+      "source_file": "keizai-web/public/reports/20260827/Rank4_〔講演〕AIバブルを乗り越える～AI革命と情報・半導体産業の競争の行方：証券レビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260827",
+      "rank": 5,
+      "title": "人口減少下の地方創生と集積の利益",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/08/d596bc9af82b5279b335c3ad01bb6926.pdf",
+      "source_file": "keizai-web/public/reports/20260827/Rank5_人口減少下の地方創生と集積の利益.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260827",
+      "rank": 6,
+      "title": "AI活用で日本経済はどう変わるのか？～AI活用推進による成長力強化は労働市場への悪影響の抑制とともに：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260826_026012.pdf",
+      "source_file": "keizai-web/public/reports/20260827/Rank6_AI活用で日本経済はどう変わるのか？～AI活用推進による成長力強化は労働市場への悪影響の抑制とともに：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260825",
       "rank": 1,
