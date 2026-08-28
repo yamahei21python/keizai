@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260828",
     "20260827",
     "20260825",
     "20260824",
@@ -115,6 +116,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260828",
+      "rank": 1,
+      "title": "伊藤忠東京本社ビルと瀬島さんの思い出：戦略と組織、そして人",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=681307&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260828/Rank1_伊藤忠東京本社ビルと瀬島さんの思い出：戦略と組織、そして人.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260828",
+      "rank": 2,
+      "title": "世界を見る眼：TSMCはなぜ熊本で3ナノ生産をめざすのか",
+      "source_url": "https://www.ide.go.jp/Japanese/IDEsquare/Eyes/2026/ISQ202620_023.html",
+      "source_file": "keizai-web/public/reports/20260828/Rank2_世界を見る眼：TSMCはなぜ熊本で3ナノ生産をめざすのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260828",
+      "rank": 3,
+      "title": "インフレに負けない資産形成と消費拡大に向けて～金融リテラシー向上、将来不安軽減、中古住宅市場活性化等で資産効果を引き上げ：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260827_026022.pdf",
+      "source_file": "keizai-web/public/reports/20260828/Rank3_インフレに負けない資産形成と消費拡大に向けて～金融リテラシー向上、将来不安軽減、中古住宅市場活性化等で資産効果を引き上げ：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260828",
+      "rank": 4,
+      "title": "物が壊れないほうの話～米欧の熱波と渇水、壊れたのは設備ではなく前提だった：Insight Plus",
+      "source_url": "https://assets.bbhub.io/company/sites/60/2020/10/FINAL-2017-TCFD-Report-11052018.pdf",
+      "source_file": "keizai-web/public/reports/20260828/Rank4_物が壊れないほうの話～米欧の熱波と渇水、壊れたのは設備ではなく前提だった：Insight Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260828",
+      "rank": 5,
+      "title": "利上げを予告する必要もないとの判断か　氷見野日銀副総裁の講演：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654608.pdf",
+      "source_file": "keizai-web/public/reports/20260828/Rank5_利上げを予告する必要もないとの判断か　氷見野日銀副総裁の講演：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260828",
+      "rank": 6,
+      "title": "物価上昇を考える",
+      "source_url": "https://www.hokukei.or.jp/contents/pdf_exl/self-survey2609_1.pdf",
+      "source_file": "keizai-web/public/reports/20260828/Rank6_物価上昇を考える.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260827",
       "rank": 1,
