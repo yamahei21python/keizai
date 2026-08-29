@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260829",
     "20260828",
     "20260827",
     "20260825",
@@ -116,6 +117,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260829",
+      "rank": 1,
+      "title": "データセンターの政治経済学：溜池通信Vol.844",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=681548&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260829/Rank1_データセンターの政治経済学：溜池通信Vol.844.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260829",
+      "rank": 2,
+      "title": "労働基準法、40年ぶりの大改正へ～経営者・人事が今のうちに押さえておくべき3つの視点",
+      "source_url": "https://www.manpowergroup.jp/client/manpowerclip/hrconsulting/labor-standards-act-reform.html",
+      "source_file": "keizai-web/public/reports/20260829/Rank2_労働基準法、40年ぶりの大改正へ～経営者・人事が今のうちに押さえておくべき3つの視点.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260829",
+      "rank": 3,
+      "title": "楽読 Vol.2218～ 日本の半導体戦略と半導体産業の現在地を確認する～日本の半導体産業は本格的な成長局面へ",
+      "source_url": "https://www.amova-am.com/files/market/rakuyomi/pdf/rakuyomi_vol-2218.pdf",
+      "source_file": "keizai-web/public/reports/20260829/Rank3_楽読 Vol.2218～ 日本の半導体戦略と半導体産業の現在地を確認する～日本の半導体産業は本格的な成長局面へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260829",
+      "rank": 4,
+      "title": "2026・2027年度の日本経済見通し～先行きの値上げ圧力が景気を下押し：経済の動き",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=681593&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260829/Rank4_2026・2027年度の日本経済見通し～先行きの値上げ圧力が景気を下押し：経済の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260829",
+      "rank": 5,
+      "title": "【動画解説】高市政権で大転換した「骨太の方針2026」の期待と不安",
+      "source_url": "https://www.tkfd.or.jp/research/detail.php?id=5034",
+      "source_file": "keizai-web/public/reports/20260829/Rank5_【動画解説】高市政権で大転換した「骨太の方針2026」の期待と不安.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260829",
+      "rank": 6,
+      "title": "インド太平洋地域で増大する影響工作の脅威～中国からの影響工作...",
+      "source_url": "https://www.spf.org/iina/articles/osawa_09.html",
+      "source_file": "keizai-web/public/reports/20260829/Rank6_インド太平洋地域で増大する影響工作の脅威～中国からの影響工作....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260828",
       "rank": 1,
