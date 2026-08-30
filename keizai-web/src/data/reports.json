@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260830",
     "20260829",
     "20260828",
     "20260827",
@@ -117,6 +118,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260830",
+      "rank": 1,
+      "title": "「株式等学習シミュレーション」を活用した学習指導案",
+      "source_url": "https://www.j-flec.go.jp/materials/game/",
+      "source_file": "keizai-web/public/reports/20260830/Rank1_「株式等学習シミュレーション」を活用した学習指導案.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260830",
+      "rank": 2,
+      "title": "信用金庫における学金連携の深化に向けて（１）～東京東信用金庫（東京都）によるブランド価値を高める学金連携への挑戦：金融調査情報",
+      "source_url": "https://www.scbri.jp/reports/finance/20260828-1-2035.html",
+      "source_file": "keizai-web/public/reports/20260830/Rank2_信用金庫における学金連携の深化に向けて（１）～東京東信用金庫（東京都）によるブランド価値を高める学金連携への挑戦：金融調査情報.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260830",
+      "rank": 3,
+      "title": "じゃんけんは何人まで「できる」のか～「できる」と「使える」の間にある、指数関数の壁：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86666_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260830/Rank3_じゃんけんは何人まで「できる」のか～「できる」と「使える」の間にある、指数関数の壁：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260830",
+      "rank": 4,
+      "title": "小規模企業景気動向調査(2026年7月期調査)～季節需要が追い風となるも、コスト高と人件費上昇が重荷となる小規模企業景況",
+      "source_url": "https://www.shokokai.or.jp/news/reports/16232/",
+      "source_file": "keizai-web/public/reports/20260830/Rank4_小規模企業景気動向調査(2026年7月期調査)～季節需要が追い風となるも、コスト高と人件費上昇が重荷となる小規模企業景況.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260830",
+      "rank": 5,
+      "title": "東南アジア諸国と共創する創薬エコシステムの構築 安全保障としての感染症医薬品開発（2）：新型コロナウイルス（COVID-19）危機対策：分析と提言",
+      "source_url": "https://www.mri.co.jp/knowledge/column/20260828_2.html",
+      "source_file": "keizai-web/public/reports/20260830/Rank5_東南アジア諸国と共創する創薬エコシステムの構築 安全保障としての感染症医薬品開発（2）：新型コロナウイルス（COVID-19）危機対策：分析と提言.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260830",
+      "rank": 6,
+      "title": "データセンターの政治経済学：溜池通信Vol.844",
+      "source_url": "http://tameike.net/pdfs8/tame844.PDF",
+      "source_file": "keizai-web/public/reports/20260830/Rank6_データセンターの政治経済学：溜池通信Vol.844.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260829",
       "rank": 1,
