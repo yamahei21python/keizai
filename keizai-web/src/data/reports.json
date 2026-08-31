@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260831",
     "20260830",
     "20260829",
     "20260828",
@@ -118,6 +119,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260831",
+      "rank": 1,
+      "title": "データセンターの政治経済学：溜池通信Vol.844",
+      "source_url": "http://tameike.net/pdfs8/tame844.PDF",
+      "source_file": "keizai-web/public/reports/20260831/Rank1_データセンターの政治経済学：溜池通信Vol.844.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260831",
+      "rank": 2,
+      "title": "国内防衛産業の市場動向 ～市場環境の変化と産業固有の課題：産業界の動き",
+      "source_url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+      "source_file": "keizai-web/public/reports/20260831/Rank2_国内防衛産業の市場動向 ～市場環境の変化と産業固有の課題：産業界の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260831",
+      "rank": 3,
+      "title": "若年層ほど進む「貯蓄から投資」～30歳未満の金融資産は5年間で6割増：Topics Plus",
+      "source_url": "https://www.sompo-ri.co.jp/topics_plus/20260828-24371/",
+      "source_file": "keizai-web/public/reports/20260831/Rank3_若年層ほど進む「貯蓄から投資」～30歳未満の金融資産は5年間で6割増：Topics Plus.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260831",
+      "rank": 4,
+      "title": "じゃんけんは何人まで「できる」のか～「できる」と「使える」の間にある、指数関数の壁：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86666_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260831/Rank4_じゃんけんは何人まで「できる」のか～「できる」と「使える」の間にある、指数関数の壁：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260831",
+      "rank": 5,
+      "title": "「日中の過度な眠気」の経済インパクト～企業の生産性向上・経営リスク低減に向けて",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=681444&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260831/Rank5_「日中の過度な眠気」の経済インパクト～企業の生産性向上・経営リスク低減に向けて.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260831",
+      "rank": 6,
+      "title": "バッテリー2035: 新たな競争優位を確立する",
+      "source_url": "https://www.mckinsey.com/jp/our-insights/battery-2035-building-new-advantages",
+      "source_file": "keizai-web/public/reports/20260831/Rank6_バッテリー2035 新たな競争優位を確立する.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260830",
       "rank": 1,
