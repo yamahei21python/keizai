@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260901",
     "20260831",
     "20260830",
     "20260829",
@@ -119,6 +120,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260901",
+      "rank": 1,
+      "title": "データセンター建設を巡る論争が米中間選挙の新たな争点に",
+      "source_url": "https://www.dir.co.jp/report/column/20260831_012474.html",
+      "source_file": "keizai-web/public/reports/20260901/Rank1_データセンター建設を巡る論争が米中間選挙の新たな争点に.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260901",
+      "rank": 2,
+      "title": "ROIC経営は、なぜ会社を成長させられなくなるのか～価値創造の源泉が変わった時代の評価思想",
+      "source_url": "https://www.rolandberger.com/ja/Insights/Publications/ROIC%E7%B5%8C%E5%96%B6%E3%81%AF%E3%80%81%E3%81%AA%E3%81%9C%E4%BC%9A%E7%A4%BE%E3%82%92%E6%88%90%E9%95%B7%E3%81%95%E3%81%9B%E3%82%89%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B.html?btc=JP",
+      "source_file": "keizai-web/public/reports/20260901/Rank2_ROIC経営は、なぜ会社を成長させられなくなるのか～価値創造の源泉が変わった時代の評価思想.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260901",
+      "rank": 3,
+      "title": "さらに高まった米財務省の円安警戒モード～2026年7月版米財務省為替報告書：国際通貨研レポート",
+      "source_url": "https://www.iima.or.jp/docs/newsletter/2026/nl2026.47.pdf",
+      "source_file": "keizai-web/public/reports/20260901/Rank3_さらに高まった米財務省の円安警戒モード～2026年7月版米財務省為替報告書：国際通貨研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260901",
+      "rank": 4,
+      "title": "予想外に豊作となったジャクソンホール講演：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654659.pdf",
+      "source_file": "keizai-web/public/reports/20260901/Rank4_予想外に豊作となったジャクソンホール講演：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260901",
+      "rank": 5,
+      "title": "世界AI戦争に巻き込まれる日本",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=681709&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260901/Rank5_世界AI戦争に巻き込まれる日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260901",
+      "rank": 6,
+      "title": "金利ある世界における地方銀行のロイヤルティプログラム",
+      "source_url": "https://www.nri.com/jp/knowledge/report/files/000065583.pdf",
+      "source_file": "keizai-web/public/reports/20260901/Rank6_金利ある世界における地方銀行のロイヤルティプログラム.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260831",
       "rank": 1,
