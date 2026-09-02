@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260902",
     "20260901",
     "20260831",
     "20260830",
@@ -120,6 +121,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260902",
+      "rank": 1,
+      "title": "フィジカルAI相場の利益はどこに向かうのか～「頭脳の米国、量産の中国、つるはしの日本」から読み解く産業構造：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/654678.pdf",
+      "source_file": "keizai-web/public/reports/20260902/Rank1_フィジカルAI相場の利益はどこに向かうのか～「頭脳の米国、量産の中国、つるはしの日本」から読み解く産業構造：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260902",
+      "rank": 2,
+      "title": "長期金利が3％に到達：マーケットレポート",
+      "source_url": "https://www.smtam.jp/report_column/pdf/cat_03/HP320260901kk.pdf",
+      "source_file": "keizai-web/public/reports/20260902/Rank2_長期金利が3％に到達：マーケットレポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260902",
+      "rank": 3,
+      "title": "概算要求は過去最大の143兆円前後に：平時としては異例の規模で金融市場にも影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260901.html",
+      "source_file": "keizai-web/public/reports/20260902/Rank3_概算要求は過去最大の143兆円前後に：平時としては異例の規模で金融市場にも影響：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260902",
+      "rank": 4,
+      "title": "高市政権の経済政策をどうみるか～世界の潮流に沿った点は評価、課題は財政再建とインフレ抑制：ビューポイント No.2026-021",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260902/Rank4_高市政権の経済政策をどうみるか～世界の潮流に沿った点は評価、課題は財政再建とインフレ抑制：ビューポイント No.2026-021.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260902",
+      "rank": 5,
+      "title": "実質GNIの減少をどう考えるか～交易条件の悪化を上回る付加価値の流出：齋藤潤の経済バーズアイ",
+      "source_url": "https://www.jcer.or.jp/j-column/column-saito/2026091.html",
+      "source_file": "keizai-web/public/reports/20260902/Rank5_実質GNIの減少をどう考えるか～交易条件の悪化を上回る付加価値の流出：齋藤潤の経済バーズアイ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260902",
+      "rank": 6,
+      "title": "やっぱり、お金持ちになれば幸せになれる？～それともお金と幸せは関係ない？",
+      "source_url": "https://www.fidelity.co.jp/page/financial-wellbeing/does-wealth-make-you-happy",
+      "source_file": "keizai-web/public/reports/20260902/Rank6_やっぱり、お金持ちになれば幸せになれる？～それともお金と幸せは関係ない？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260901",
       "rank": 1,
