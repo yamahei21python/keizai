@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260903",
     "20260902",
     "20260901",
     "20260831",
@@ -121,6 +122,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260903",
+      "rank": 1,
+      "title": "出生数増加の裏に見え隠れする「結婚前」の壁 ～30代男性、所得300万円台でも未婚率5割超～",
+      "source_url": "https://www.myri.co.jp/viewpdf.php?id=a7a97df6c80927c3a5cde8d57d2b95a11f8734dfa9757be6b62a962f939bf71cf6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496a90f59fbcd5232cc2fc4ad035dda97776e1b32bc57fc5cef548f1fa28f5cd0e23dbe79de8c77e729bf510906dd9fb7f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61dd36edcf91aa53215fa5c8112744aca1632fe607b143591f1dbb598&tmp=1788338800",
+      "source_file": "keizai-web/public/reports/20260903/Rank1_出生数増加の裏に見え隠れする「結婚前」の壁 ～30代男性、所得300万円台でも未婚率5割超～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260903",
+      "rank": 2,
+      "title": "長期金利３％到達の基本的な理解：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654716.pdf",
+      "source_file": "keizai-web/public/reports/20260903/Rank2_長期金利３％到達の基本的な理解：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260903",
+      "rank": 3,
+      "title": "米財務省がベッセント財務長官と植田総裁の会談内容を公表：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260902_2.html",
+      "source_file": "keizai-web/public/reports/20260903/Rank3_米財務省がベッセント財務長官と植田総裁の会談内容を公表：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260903",
+      "rank": 4,
+      "title": "「自分で考えて」が伝わらない。新入社員の“考える力”をどう育てる？",
+      "source_url": "https://www.hj.sanno.ac.jp/feature/202609/new-employee-thinking.html",
+      "source_file": "keizai-web/public/reports/20260903/Rank4_「自分で考えて」が伝わらない。新入社員の“考える力”をどう育てる？.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260903",
+      "rank": 5,
+      "title": "国家の存亡を賭けた挑戦としての日本成長戦略",
+      "source_url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou5.pdf",
+      "source_file": "keizai-web/public/reports/20260903/Rank5_国家の存亡を賭けた挑戦としての日本成長戦略.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260903",
+      "rank": 6,
+      "title": "半導体市場で今起こっていること～過去のシリコンサイクルとは一線を画す、メモリ半導体の驚異の価格上昇：Global Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/654761.pdf",
+      "source_file": "keizai-web/public/reports/20260903/Rank6_半導体市場で今起こっていること～過去のシリコンサイクルとは一線を画す、メモリ半導体の驚異の価格上昇：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260902",
       "rank": 1,
