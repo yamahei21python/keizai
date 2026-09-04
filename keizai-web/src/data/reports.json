@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260904",
     "20260903",
     "20260902",
     "20260901",
@@ -122,6 +123,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260904",
+      "rank": 1,
+      "title": "要約する力と、背景を読み解く力",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=u2mxfurydqp",
+      "source_file": "keizai-web/public/reports/20260904/Rank1_要約する力と、背景を読み解く力.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260904",
+      "rank": 2,
+      "title": "AIエージェントは人々の生活をどう変えていくのか（後編）～エージェンティック・ファイナンスの現在と将来展望：AIと実生活",
+      "source_url": "https://www.dir.co.jp/report/technology/feature/20260903_026031.pdf",
+      "source_file": "keizai-web/public/reports/20260904/Rank2_AIエージェントは人々の生活をどう変えていくのか（後編）～エージェンティック・ファイナンスの現在と将来展望：AIと実生活.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260904",
+      "rank": 3,
+      "title": "生成AIが個人の資産形成に及ぼす影響とは～諸外国の調査研究からみるAI活用の現在地：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/654775.pdf",
+      "source_file": "keizai-web/public/reports/20260904/Rank3_生成AIが個人の資産形成に及ぼす影響とは～諸外国の調査研究からみるAI活用の現在地：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260904",
+      "rank": 4,
+      "title": "繰り返されるベッセント発言とその副作用：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260903.pdf",
+      "source_file": "keizai-web/public/reports/20260904/Rank4_繰り返されるベッセント発言とその副作用：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260904",
+      "rank": 5,
+      "title": "日銀の利上げペースは加速へ～100％を超えた9月の0.25％利上げ確率...：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260903.html",
+      "source_file": "keizai-web/public/reports/20260904/Rank5_日銀の利上げペースは加速へ～100％を超えた9月の0.25％利上げ確率...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260904",
+      "rank": 6,
+      "title": "オープンウェイトAIモデルの普及がもたらす事業機会～生成AIを取り巻くビジネス構造の変化",
+      "source_url": "https://www.marubeni.com/jp/research/report/data/20260903_irie_Open-weightAI.pdf",
+      "source_file": "keizai-web/public/reports/20260904/Rank6_オープンウェイトAIモデルの普及がもたらす事業機会～生成AIを取り巻くビジネス構造の変化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260903",
       "rank": 1,
