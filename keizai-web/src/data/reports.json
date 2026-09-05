@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260905",
     "20260904",
     "20260903",
     "20260902",
@@ -123,6 +124,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260905",
+      "rank": 1,
+      "title": "なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/usa/20260904_026039.pdf",
+      "source_file": "keizai-web/public/reports/20260905/Rank1_なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260905",
+      "rank": 2,
+      "title": "５円を超える円高の背景にあるもの：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654801.pdf",
+      "source_file": "keizai-web/public/reports/20260905/Rank2_５円を超える円高の背景にあるもの：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260905",
+      "rank": 3,
+      "title": "続く高市政権vs市場連合の構図～「物価水準の財政理論」の世界へ",
+      "source_url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+      "source_file": "keizai-web/public/reports/20260905/Rank3_続く高市政権vs市場連合の構図～「物価水準の財政理論」の世界へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260905",
+      "rank": 4,
+      "title": "円安修正が大きく進む：トランプ政権からの圧力で日本の金融・財政政策が変わるとの期待が背景に：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260904.html",
+      "source_file": "keizai-web/public/reports/20260905/Rank4_円安修正が大きく進む：トランプ政権からの圧力で日本の金融・財政政策が変わるとの期待が背景に：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260905",
+      "rank": 5,
+      "title": "日本：GDP2次速報予測（2026年4-6月期）～設備投資や在庫投資が上振れ、前期比年率+1.9%へ上方修正と予想：MRIデイリー・エコノミック・ポイント",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/dep/2026/0903.html",
+      "source_file": "keizai-web/public/reports/20260905/Rank5_日本：GDP2次速報予測（2026年4-6月期）～設備投資や在庫投資が上振れ、前期比年率+1.9%へ上方修正と予想：MRIデイリー・エコノミック・ポイント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260905",
+      "rank": 6,
+      "title": "戦後最長の景気拡大でも好況には遠い：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=682454&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260905/Rank6_戦後最長の景気拡大でも好況には遠い：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260904",
       "rank": 1,
@@ -1224,18 +1279,18 @@
     {
       "date": "20260814",
       "rank": 2,
-      "title": "“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=679902&key=5655555555555&dj=1",
-      "source_file": "keizai-web/public/reports/20260814/Rank2_“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国.md",
+      "title": "日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679985&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank2_日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260814",
       "rank": 2,
-      "title": "日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=679985&key=5655555555555&dj=1",
-      "source_file": "keizai-web/public/reports/20260814/Rank2_日本：円安と物価の関係性の再考～BIS論文から読み解く為替パススルーの行方：通貨ニュース.md",
+      "title": "“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679902&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260814/Rank2_“TACO”指数で読む トランプ大統領の“TACO”化の兆し～市場と世論が映す政策転換のサイン：米国.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -1278,15 +1333,6 @@
     {
       "date": "20260814",
       "rank": 5,
-      "title": "木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」",
-      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260814.html",
-      "source_file": "keizai-web/public/reports/20260814/Rank5_木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」.md",
-      "summary_file": null,
-      "status": "processing"
-    },
-    {
-      "date": "20260814",
-      "rank": 5,
       "title": "個人株主の動向について（2026年7月）～2025年度末の個人株主数（名寄せ人数）は、1,677万人、過去最高値を更新",
       "source_url": "https://www.jsda.or.jp/shiryoshitsu/toukei/2025kojinkabunushinodoukou.pdf",
       "source_file": "keizai-web/public/reports/20260814/Rank5_個人株主の動向について（2026年7月）～2025年度末の個人株主数（名寄せ人数）は、1,677万人、過去最高値を更新.md",
@@ -1295,10 +1341,10 @@
     },
     {
       "date": "20260814",
-      "rank": 6,
-      "title": "Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待",
-      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/m_260813_01.pdf",
-      "source_file": "keizai-web/public/reports/20260814/Rank6_Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待.md",
+      "rank": 5,
+      "title": "木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260814.html",
+      "source_file": "keizai-web/public/reports/20260814/Rank5_木内登英の経済の潮流～「トランプ政権が日本に12.5％の新関税を発動」.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -1308,6 +1354,15 @@
       "title": "丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論",
       "source_url": "https://www.marubeni.com/jp/research/report/data/MWR_2026_23_MidtermElection_2_20260813External.pdf",
       "source_file": "keizai-web/public/reports/20260814/Rank6_丸紅ワシントン報告：2026年米中間選挙（2）～投票日まで81日：ウィスコンシンの逆転劇と、修正を迫られる「左派台頭」論.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260814",
+      "rank": 6,
+      "title": "Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/m_260813_01.pdf",
+      "source_file": "keizai-web/public/reports/20260814/Rank6_Monthly Global Market Report 2026年8月号：協調介入の舞台裏と米国の期待.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -1656,15 +1711,6 @@
     {
       "date": "20260807",
       "rank": 5,
-      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=679328&key=5655555555555&dj=1",
-      "source_file": "keizai-web/public/reports/20260807/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
-      "summary_file": null,
-      "status": "processing"
-    },
-    {
-      "date": "20260807",
-      "rank": 5,
       "title": "Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆",
       "source_url": "https://www.jst.go.jp/ristex/funding/files/JST_1115180_21471335_osawa_ER.pdf",
       "source_file": "keizai-web/public/reports/20260807/Rank5_Europe2031が警告するAI時代の国家戦略～日本に対する5つの示唆.md",
@@ -1673,10 +1719,10 @@
     },
     {
       "date": "20260807",
-      "rank": 6,
-      "title": "食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260806.html",
-      "source_file": "keizai-web/public/reports/20260807/Rank6_食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "rank": 5,
+      "title": "丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=679328&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260807/Rank5_丸紅ワシントン報告：2026年米中間選挙～投票日まで89日：「急進左派」の台頭と民主党の現在地.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -1686,6 +1732,15 @@
       "title": "米国はなぜ円買い協調介入に踏み切ったのか",
       "source_url": "https://www.dir.co.jp/report/column/20260807_012465.html",
       "source_file": "keizai-web/public/reports/20260807/Rank6_米国はなぜ円買い協調介入に踏み切ったのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260807",
+      "rank": 6,
+      "title": "食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260806.html",
+      "source_file": "keizai-web/public/reports/20260807/Rank6_食料品の消費税率引き下げが閣議決定～物価高対策は必要だが、答えは消費税率引き下げではない...：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6552,15 +6607,6 @@
     {
       "date": "20260409",
       "rank": 1,
-      "title": "図説 日本の証券市場 2026年版",
-      "source_url": "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank1_図説 日本の証券市場 2026年版.md",
-      "summary_file": null,
-      "status": "processing"
-    },
-    {
-      "date": "20260409",
-      "rank": 1,
       "title": "地経学時代における「経済インテリジェンス」とは：シンクタンクの着眼点",
       "source_url": "https://www.mri.co.jp/knowledge/column/angle-20260409.html",
       "source_file": "keizai-web/public/reports/20260409/Rank1_地経学時代における「経済インテリジェンス」とは：シンクタンクの着眼点.md",
@@ -6569,10 +6615,10 @@
     },
     {
       "date": "20260409",
-      "rank": 2,
-      "title": "アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=663046&key=115555555573&dj=1",
-      "source_file": "keizai-web/public/reports/20260409/Rank2_アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点.md",
+      "rank": 1,
+      "title": "図説 日本の証券市場 2026年版",
+      "source_url": "https://www.jsri.or.jp/publish/market/pdf/market_36/36_all.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank1_図説 日本の証券市場 2026年版.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6587,10 +6633,10 @@
     },
     {
       "date": "20260409",
-      "rank": 3,
-      "title": "供給途絶リスクに直面する日本経済",
-      "source_url": "http://www3.keizaireport.com/jump.php?RID=662982&key=115555555573&dj=1",
-      "source_file": "keizai-web/public/reports/20260409/Rank3_供給途絶リスクに直面する日本経済.md",
+      "rank": 2,
+      "title": "アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=663046&key=115555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260409/Rank2_アメリカとイスラエルによるイラン攻撃（３） 停戦は「終結」か「次の危機の前段」か：シンクタンクの着眼点.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6605,10 +6651,10 @@
     },
     {
       "date": "20260409",
-      "rank": 4,
-      "title": "老後のための資産形成～公私年金・退職金の統合勘定の設計と管理",
-      "source_url": "https://www.jsri.or.jp/publish/research/pdf/134/134_01.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank4_老後のための資産形成～公私年金・退職金の統合勘定の設計と管理.md",
+      "rank": 3,
+      "title": "供給途絶リスクに直面する日本経済",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=662982&key=115555555573&dj=1",
+      "source_file": "keizai-web/public/reports/20260409/Rank3_供給途絶リスクに直面する日本経済.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6618,6 +6664,15 @@
       "title": "米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight",
       "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260408_2.html",
       "source_file": "keizai-web/public/reports/20260409/Rank4_米国とイランが2週間の停戦で合意も最終合意に至るかはなお不確実：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260409",
+      "rank": 4,
+      "title": "老後のための資産形成～公私年金・退職金の統合勘定の設計と管理",
+      "source_url": "https://www.jsri.or.jp/publish/research/pdf/134/134_01.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank4_老後のための資産形成～公私年金・退職金の統合勘定の設計と管理.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6642,18 +6697,18 @@
     {
       "date": "20260409",
       "rank": 6,
-      "title": "AIは生産性をどの程度高めるか：エコノミスト360°視点",
-      "source_url": "https://www.rieti.go.jp/jp/papers/contribution/morikawa/34.html",
-      "source_file": "keizai-web/public/reports/20260409/Rank6_AIは生産性をどの程度高めるか：エコノミスト360°視点.md",
+      "title": "米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/593061.pdf",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260409",
       "rank": 6,
-      "title": "米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator",
-      "source_url": "https://www.dlri.co.jp/files/macro/593061.pdf",
-      "source_file": "keizai-web/public/reports/20260409/Rank6_米・イラン一時停戦で注目されるポイント～ホルムズ海峡通行料とイスラエルの対応がカギ：Investment Navigator.md",
+      "title": "AIは生産性をどの程度高めるか：エコノミスト360°視点",
+      "source_url": "https://www.rieti.go.jp/jp/papers/contribution/morikawa/34.html",
+      "source_file": "keizai-web/public/reports/20260409/Rank6_AIは生産性をどの程度高めるか：エコノミスト360°視点.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6768,15 +6823,6 @@
     {
       "date": "20260406",
       "rank": 1,
-      "title": "AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～",
-      "source_url": "https://www8.cao.go.jp/cstp/ai/ai-semi_wg/2kai/siryo1.pdf",
-      "source_file": "keizai-web/public/reports/20260406/Rank1_AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～.md",
-      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
-      "status": "completed"
-    },
-    {
-      "date": "20260406",
-      "rank": 1,
       "title": "ホルムズ海峡の事実上封鎖と世界経済への影響",
       "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_20260403.pdf",
       "source_file": "keizai-web/public/reports/20260406/Rank1_ホルムズ海峡の事実上封鎖と世界経済への影響.md",
@@ -6785,12 +6831,12 @@
     },
     {
       "date": "20260406",
-      "rank": 2,
-      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
-      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
-      "summary_file": null,
-      "status": "processing"
+      "rank": 1,
+      "title": "AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～",
+      "source_url": "https://www8.cao.go.jp/cstp/ai/ai-semi_wg/2kai/siryo1.pdf",
+      "source_file": "keizai-web/public/reports/20260406/Rank1_AIロボティクス戦略～社会実装を加速し、巨大市場を切り拓く～.md",
+      "summary_file": "keizai-web/public/reports/20260406/Rank1_Summary_Briefing.md",
+      "status": "completed"
     },
     {
       "date": "20260406",
@@ -6798,6 +6844,15 @@
       "title": "ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防",
       "source_url": "https://instituteofgeoeconomics.org/research/2026040366/",
       "source_file": "keizai-web/public/reports/20260406/Rank2_ホルムズ海峡と港湾・パイプラインの地政学～地政学的チョークポイントを巡る攻防.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260406",
+      "rank": 2,
+      "title": "電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260406_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank2_電力・ガソリン消費の自粛要請へ：迫るタイムリミットと電力利用規制が行われた場合の経済への影響：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
@@ -6822,18 +6877,18 @@
     {
       "date": "20260406",
       "rank": 4,
-      "title": "米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260403_2.html",
-      "source_file": "keizai-web/public/reports/20260406/Rank4_米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "title": "トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり",
+      "source_url": "http://www.world-economic-review.jp/impact/article4295.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank4_トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり.md",
       "summary_file": null,
       "status": "processing"
     },
     {
       "date": "20260406",
       "rank": 4,
-      "title": "トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり",
-      "source_url": "http://www.world-economic-review.jp/impact/article4295.html",
-      "source_file": "keizai-web/public/reports/20260406/Rank4_トランプ一族の宗教観とファミリー・ビジネス：サウジ・コネクションや際限のない公私混同ぶり.md",
+      "title": "米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260403_2.html",
+      "source_file": "keizai-web/public/reports/20260406/Rank4_米国のプライベート・クレジット・ファンドで個人投資家の解約請求が増加：木内登英のGlobal Economy ＆ Policy Insight.md",
       "summary_file": null,
       "status": "processing"
     },
