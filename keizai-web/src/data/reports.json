@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260906",
     "20260905",
     "20260904",
     "20260903",
@@ -124,6 +125,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260906",
+      "rank": 1,
+      "title": "AIと採用に関する日米実態調査（企業編）～8割以上の企業が採用を「減らしていない」。一方、求める人材・スキルには変化の兆し",
+      "source_url": "https://www.indeedrecruit-partners.co.jp/newsroom/pressrelease/2026/0903_4189/",
+      "source_file": "keizai-web/public/reports/20260906/Rank1_AIと採用に関する日米実態調査（企業編）～8割以上の企業が採用を「減らしていない」。一方、求める人材・スキルには変化の兆し.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260906",
+      "rank": 2,
+      "title": "なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/usa/20260904_026039.pdf",
+      "source_file": "keizai-web/public/reports/20260906/Rank2_なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260906",
+      "rank": 3,
+      "title": "５円を超える円高の背景にあるもの：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654801.pdf",
+      "source_file": "keizai-web/public/reports/20260906/Rank3_５円を超える円高の背景にあるもの：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260906",
+      "rank": 4,
+      "title": "日本：GDP2次速報予測（2026年4-6月期）～設備投資や在庫投資が上振れ、前期比年率+1.9%へ上方修正と予想：MRIデイリー・エコノミック・ポイント",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/dep/2026/0903.html",
+      "source_file": "keizai-web/public/reports/20260906/Rank4_日本：GDP2次速報予測（2026年4-6月期）～設備投資や在庫投資が上振れ、前期比年率+1.9%へ上方修正と予想：MRIデイリー・エコノミック・ポイント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260906",
+      "rank": 5,
+      "title": "KAMIYAMA Express：円高米ドル安と長期金利の上昇",
+      "source_url": "https://www.amova-am.com/files/market/kamiyama-view/pdf/kamiyama-express_20260904.pdf",
+      "source_file": "keizai-web/public/reports/20260906/Rank5_KAMIYAMA Express：円高米ドル安と長期金利の上昇.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260906",
+      "rank": 6,
+      "title": "週末版（円急伸の読み解き方～「市場の持っていない情報」の真意～）：みずほマーケット・トピック",
+      "source_url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ260904.pdf",
+      "source_file": "keizai-web/public/reports/20260906/Rank6_週末版（円急伸の読み解き方～「市場の持っていない情報」の真意～）：みずほマーケット・トピック.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260905",
       "rank": 1,
