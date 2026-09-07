@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260907",
     "20260906",
     "20260905",
     "20260904",
@@ -125,6 +126,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260907",
+      "rank": 1,
+      "title": "なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国",
+      "source_url": "https://www.dir.co.jp/report/research/economics/usa/20260904_026039.pdf",
+      "source_file": "keizai-web/public/reports/20260907/Rank1_なぜ米長期債・超長期債利回りは高止まりしているのか？～米国債への資金フローが構造的に変化：米国.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260907",
+      "rank": 2,
+      "title": "世界ロボット大会2026に見る中国フィジカルAIの進化～汎用化、実用化、商用化に向けた競争軸",
+      "source_url": "https://rp.kddi-research.jp/article/RA2026009?from=news",
+      "source_file": "keizai-web/public/reports/20260907/Rank2_世界ロボット大会2026に見る中国フィジカルAIの進化～汎用化、実用化、商用化に向けた競争軸.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260907",
+      "rank": 3,
+      "title": "５円を超える円高の背景にあるもの：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/654801.pdf",
+      "source_file": "keizai-web/public/reports/20260907/Rank3_５円を超える円高の背景にあるもの：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260907",
+      "rank": 4,
+      "title": "続く高市政権vs市場連合の構図～「物価水準の財政理論」の世界へ",
+      "source_url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+      "source_file": "keizai-web/public/reports/20260907/Rank4_続く高市政権vs市場連合の構図～「物価水準の財政理論」の世界へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260907",
+      "rank": 5,
+      "title": "金融機関間の預金獲得競争の構造変化（再考）～銀行預金の「創出力」と「滞留力」に関する分析：基礎研レポート",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86694_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260907/Rank5_金融機関間の預金獲得競争の構造変化（再考）～銀行預金の「創出力」と「滞留力」に関する分析：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260907",
+      "rank": 6,
+      "title": "新富裕層調査2026 ～年代を超えた共通インサイト「10大価値観」から紐解く新富裕層のリアル。「〇〇離れ」に当てはまらない若年富裕層、若者並にAIを活用するシニア富裕層",
+      "source_url": "https://www.hakuhodo.co.jp/news/newsrelease/267368/",
+      "source_file": "keizai-web/public/reports/20260907/Rank6_新富裕層調査2026 ～年代を超えた共通インサイト「10大価値観」から紐解く新富裕層のリアル。「〇〇離れ」に当てはまらない若年富裕層、若者並にAIを活用するシニア富裕層.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260906",
       "rank": 1,
