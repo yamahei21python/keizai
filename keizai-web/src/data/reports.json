@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260908",
     "20260907",
     "20260906",
     "20260905",
@@ -126,6 +127,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260908",
+      "rank": 1,
+      "title": "2026 睡眠白書～日本人の睡眠調査～",
+      "source_url": "https://www.nishikawa1566.com/cms/pdf/hakusyo_2026.pdf",
+      "source_file": "keizai-web/public/reports/20260908/Rank1_2026 睡眠白書～日本人の睡眠調査～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260908",
+      "rank": 2,
+      "title": "家計資産の有価証券比率が40％の世界とは",
+      "source_url": "https://www.dir.co.jp/report/column/20260907_012479.html",
+      "source_file": "keizai-web/public/reports/20260908/Rank2_家計資産の有価証券比率が40％の世界とは.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260908",
+      "rank": 3,
+      "title": "半導体メーカーが直面する水リスク：責任投資",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=682590&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260908/Rank3_半導体メーカーが直面する水リスク：責任投資.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260908",
+      "rank": 4,
+      "title": "金利上昇が住宅市場に及ぼす影響～変容する「ハウジング・チャネル」、若年層や子育て世帯の負担拡大も：リサーチ・フォーカス No.2026-041",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260908/Rank4_金利上昇が住宅市場に及ぼす影響～変容する「ハウジング・チャネル」、若年層や子育て世帯の負担拡大も：リサーチ・フォーカス No.2026-041.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260908",
+      "rank": 5,
+      "title": "戦後最長の景気拡大の可能性が高まる：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260907_2.html",
+      "source_file": "keizai-web/public/reports/20260908/Rank5_戦後最長の景気拡大の可能性が高まる：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260908",
+      "rank": 6,
+      "title": "エンゲル係数上昇の背景：今週の指標 No.1425",
+      "source_url": "https://www5.cao.go.jp/keizai3/shihyo/2026/0902/1425.pdf",
+      "source_file": "keizai-web/public/reports/20260908/Rank6_エンゲル係数上昇の背景：今週の指標 No.1425.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260907",
       "rank": 1,
