@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260910",
     "20260909",
     "20260908",
     "20260907",
@@ -128,6 +129,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260910",
+      "rank": 1,
+      "title": "系統用蓄電池事業への投資について",
+      "source_url": "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202609_no172.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank1_系統用蓄電池事業への投資について.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260910",
+      "rank": 2,
+      "title": "リフレ政策を検討する(1)～円安・インフレについて",
+      "source_url": "https://www.rieb.kobe-u.ac.jp/academic/ra/dp/Japanese/dp2026-J04.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank2_リフレ政策を検討する(1)～円安・インフレについて.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260910",
+      "rank": 3,
+      "title": "長期金利3％、家計は30年前より強くなったのか～金融資産はほぼ倍増、家計ごとに異なる「金利耐性」：Flash Insight",
+      "source_url": "https://www.dlri.co.jp/files/asset/654919.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank3_長期金利3％、家計は30年前より強くなったのか～金融資産はほぼ倍増、家計ごとに異なる「金利耐性」：Flash Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260910",
+      "rank": 4,
+      "title": "急速な円高の進行が日本株に与える影響について考える：市川レポート",
+      "source_url": "https://www.smd-am.co.jp/market/ichikawa/2026/09/irepo260909.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank4_急速な円高の進行が日本株に与える影響について考える：市川レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260910",
+      "rank": 5,
+      "title": "一時152円台に突入したドル円レート、日本経済への影響と円高の背景～10円の円高ドル安でGDPは▲0.16％も多くの企業・家計にはプラス：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/japan/20260909_026054.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank5_一時152円台に突入したドル円レート、日本経済への影響と円高の背景～10円の円高ドル安でGDPは▲0.16％も多くの企業・家計にはプラス：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260910",
+      "rank": 6,
+      "title": "GPIFに資産配分変更の可能性：日本経済",
+      "source_url": "https://www.ubs-sumitrust.com/wp-content/uploads/2026/09/74b741b17b990dbc6b35857864002fd5.pdf",
+      "source_file": "keizai-web/public/reports/20260910/Rank6_GPIFに資産配分変更の可能性：日本経済.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260909",
       "rank": 1,
