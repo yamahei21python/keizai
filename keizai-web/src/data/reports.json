@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260911",
     "20260910",
     "20260909",
     "20260908",
@@ -129,6 +130,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260911",
+      "rank": 1,
+      "title": "誰の賃金が伸びているのか？～伸びの分布と日本型雇用の変容...",
+      "source_url": "https://sbiferi.co.jp/assets/pdf/report/rep20260910_1.pdf",
+      "source_file": "keizai-web/public/reports/20260911/Rank1_誰の賃金が伸びているのか？～伸びの分布と日本型雇用の変容....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260911",
+      "rank": 2,
+      "title": "AIはどの作業に効くのか～産業別に見る、AIがもたらす時間創出効果：MRIエコノミックレビュー",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/20260910.html",
+      "source_file": "keizai-web/public/reports/20260911/Rank2_AIはどの作業に効くのか～産業別に見る、AIがもたらす時間創出効果：MRIエコノミックレビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260911",
+      "rank": 3,
+      "title": "キャッシュレス化で店舗のコストは減るのか？～１円硬貨の増産と決済代行業者の破綻が映す「減らないコスト」「増えるコスト」：研究員の眼",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86753_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260911/Rank3_キャッシュレス化で店舗のコストは減るのか？～１円硬貨の増産と決済代行業者の破綻が映す「減らないコスト」「増えるコスト」：研究員の眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260911",
+      "rank": 4,
+      "title": "加速する金利上昇、銀行・信金における今後の留意点：Economist Column No.2026-059",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260911/Rank4_加速する金利上昇、銀行・信金における今後の留意点：Economist Column No.2026-059.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260911",
+      "rank": 5,
+      "title": "投資信託普及の現状とその背景",
+      "source_url": "https://www.nochuri.co.jp/report/pdf/nri2609re11.pdf",
+      "source_file": "keizai-web/public/reports/20260911/Rank5_投資信託普及の現状とその背景.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260911",
+      "rank": 6,
+      "title": "話題：健康寿命を延ばすには？～適糖生活のすすめ～",
+      "source_url": "https://www.alic.go.jp/content/001291986.pdf",
+      "source_file": "keizai-web/public/reports/20260911/Rank6_話題：健康寿命を延ばすには？～適糖生活のすすめ～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260910",
       "rank": 1,
