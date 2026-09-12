@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260912",
     "20260911",
     "20260910",
     "20260909",
@@ -130,6 +131,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260912",
+      "rank": 1,
+      "title": "中国は再エネ電力国家ではなく化石燃料国家である～全方位型エネルギー政策と製造業を支える化石燃料基盤：ワーキング・ペーパー（26-023J）",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=683274&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260912/Rank1_中国は再エネ電力国家ではなく化石燃料国家である～全方位型エネルギー政策と製造業を支える化石燃料基盤：ワーキング・ペーパー（26-023J）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260912",
+      "rank": 2,
+      "title": "過剰生産能力批判に反発を強める中国政府：ビューポイント No.2026-022",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260912/Rank2_過剰生産能力批判に反発を強める中国政府：ビューポイント No.2026-022.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260912",
+      "rank": 3,
+      "title": "木内登英の経済の潮流～「協調介入を機に米国は日本の経済政策への影響力を強める」：NRI JOURNAL",
+      "source_url": "https://www.nri.com/jp/media/journal/kiuchi/20260911.html",
+      "source_file": "keizai-web/public/reports/20260912/Rank3_木内登英の経済の潮流～「協調介入を機に米国は日本の経済政策への影響力を強める」：NRI JOURNAL.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260912",
+      "rank": 4,
+      "title": "やさしいがんの知識 2026",
+      "source_url": "https://www.fpcr.or.jp/data_files/view/357/mode:inline",
+      "source_file": "keizai-web/public/reports/20260912/Rank4_やさしいがんの知識 2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260912",
+      "rank": 5,
+      "title": "再び上昇し始めたインフレ率～年度末には3％程度まで上昇の可能性：みずほ経済EXPRESS",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/report/2026-0122/index.html",
+      "source_file": "keizai-web/public/reports/20260912/Rank5_再び上昇し始めたインフレ率～年度末には3％程度まで上昇の可能性：みずほ経済EXPRESS.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260912",
+      "rank": 6,
+      "title": "原油高・金利上昇・円安を招いたトランプ発言～戦争長期化とバラマキ懸念が市場の潜在的な懸念を表面化：Investment Navigator",
+      "source_url": "https://www.dlri.co.jp/files/macro/655018.pdf",
+      "source_file": "keizai-web/public/reports/20260912/Rank6_原油高・金利上昇・円安を招いたトランプ発言～戦争長期化とバラマキ懸念が市場の潜在的な懸念を表面化：Investment Navigator.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260911",
       "rank": 1,
