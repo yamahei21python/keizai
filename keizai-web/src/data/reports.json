@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260913",
     "20260912",
     "20260911",
     "20260910",
@@ -131,6 +132,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260913",
+      "rank": 1,
+      "title": "AIによる経済安全保障分析の発展～LLMによる分析手法とその利用における考慮点：リサーチ・フォーカス No.2026-040",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260913/Rank1_AIによる経済安全保障分析の発展～LLMによる分析手法とその利用における考慮点：リサーチ・フォーカス No.2026-040.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260913",
+      "rank": 2,
+      "title": "イランとペルシア文学　ペルシア文化の神髄",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=683295&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260913/Rank2_イランとペルシア文学　ペルシア文化の神髄.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260913",
+      "rank": 3,
+      "title": "2026年産米の価格下落による物価指数への影響試算：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260911-2026-20251015.html",
+      "source_file": "keizai-web/public/reports/20260913/Rank3_2026年産米の価格下落による物価指数への影響試算：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260913",
+      "rank": 4,
+      "title": "AIはどの作業に効くのか～産業別に見る、AIがもたらす時間創出効果：MRIエコノミックレビュー",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/20260910.html",
+      "source_file": "keizai-web/public/reports/20260913/Rank4_AIはどの作業に効くのか～産業別に見る、AIがもたらす時間創出効果：MRIエコノミックレビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260913",
+      "rank": 5,
+      "title": "2026年4-6月期2次QE後「内外経済見通し」改定値～日本 実質GDP成長率は、2026年度は前年比+0.9%、2027年度は同+1.0%と予測：MRIデイリー・エコノミック・ポイント",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/ecooutlook/2026/20260908.html",
+      "source_file": "keizai-web/public/reports/20260913/Rank5_2026年4-6月期2次QE後「内外経済見通し」改定値～日本 実質GDP成長率は、2026年度は前年比+0.9%、2027年度は同+1.0%と予測：MRIデイリー・エコノミック・ポイント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260913",
+      "rank": 6,
+      "title": "加速する金利上昇、銀行・信金における今後の留意点：Economist Column No.2026-059",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=683107&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260913/Rank6_加速する金利上昇、銀行・信金における今後の留意点：Economist Column No.2026-059.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260912",
       "rank": 1,
