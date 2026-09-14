@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260914",
     "20260913",
     "20260912",
     "20260911",
@@ -132,6 +133,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260914",
+      "rank": 1,
+      "title": "やさしいがんの知識 2026",
+      "source_url": "https://www.fpcr.or.jp/data_files/view/357/mode:inline",
+      "source_file": "keizai-web/public/reports/20260914/Rank1_やさしいがんの知識 2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260914",
+      "rank": 2,
+      "title": "原油価格が再び100ドル台、10年国債利回りは３％に：後ずれする物価の安定回復：木内登英のGlobal Economy ＆ Policy Insight",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20260911_2.html",
+      "source_file": "keizai-web/public/reports/20260914/Rank2_原油価格が再び100ドル台、10年国債利回りは３％に：後ずれする物価の安定回復：木内登英のGlobal Economy ＆ Policy Insight.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260914",
+      "rank": 3,
+      "title": "なぜAIの影響を受けやすいホワイトカラーほど、生成AIを使うのか～AIによる代替から、人による「仕事の選び直し」へ 大嶋寧子：研究所員の鳥瞰虫瞰 Vol.5",
+      "source_url": "https://www.rieti.go.jp/jp/publications/dp/24j011.pdf",
+      "source_file": "keizai-web/public/reports/20260914/Rank3_なぜAIの影響を受けやすいホワイトカラーほど、生成AIを使うのか～AIによる代替から、人による「仕事の選び直し」へ 大嶋寧子：研究所員の鳥瞰虫瞰 Vol.5.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260914",
+      "rank": 4,
+      "title": "家計部門の預金残高の推計（後編）～都道府県別の預金残高と金融商品選択志向の変化：金融・証券市場・資金調達",
+      "source_url": "https://www.dir.co.jp/report/research/capital-mkt/securities/20260911_026060.pdf",
+      "source_file": "keizai-web/public/reports/20260914/Rank4_家計部門の預金残高の推計（後編）～都道府県別の預金残高と金融商品選択志向の変化：金融・証券市場・資金調達.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260914",
+      "rank": 5,
+      "title": "フィジカルAI製品のリスク構造～AIモデルの不確実性と二つのループから捉える動的リスク",
+      "source_url": "https://www.pwc.com/jp/ja/knowledge/column/awareness-cyber-security/product-trust02.html",
+      "source_file": "keizai-web/public/reports/20260914/Rank5_フィジカルAI製品のリスク構造～AIモデルの不確実性と二つのループから捉える動的リスク.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260914",
+      "rank": 6,
+      "title": "Investor Insights 2026－投資信託に関する意識調査【富裕層版】",
+      "source_url": "https://www.nomura-am.co.jp/amrc/pdf/opinion-survey/20260911_Investor-Insights_wealthy_class.pdf",
+      "source_file": "keizai-web/public/reports/20260914/Rank6_Investor Insights 2026－投資信託に関する意識調査【富裕層版】.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260913",
       "rank": 1,
