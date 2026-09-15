@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260915",
     "20260914",
     "20260913",
     "20260912",
@@ -133,6 +134,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260915",
+      "rank": 1,
+      "title": "中国のデフレ輸出は終わったのか～輸出価格上昇の陰で続く価格下落圧力～",
+      "source_url": "https://www.murc.jp/wp-content/uploads/2026/09/report_260914_01.pdf",
+      "source_file": "keizai-web/public/reports/20260915/Rank1_中国のデフレ輸出は終わったのか～輸出価格上昇の陰で続く価格下落圧力～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260915",
+      "rank": 2,
+      "title": "崩壊するリベラルな国際秩序～民主主義の後退がもたらす不安な時代：地経学研究レポートNo.8",
+      "source_url": "https://instituteofgeoeconomics.org/research/2026091401/",
+      "source_file": "keizai-web/public/reports/20260915/Rank2_崩壊するリベラルな国際秩序～民主主義の後退がもたらす不安な時代：地経学研究レポートNo.8.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260915",
+      "rank": 3,
+      "title": "上場維持の合理性が問われる時代へ",
+      "source_url": "https://www.dir.co.jp/report/column/20260914_012480.html",
+      "source_file": "keizai-web/public/reports/20260915/Rank3_上場維持の合理性が問われる時代へ.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260915",
+      "rank": 4,
+      "title": "中国で赤字企業が増える理由～選別の進展と前向きな赤字企業の存在：RIM 環太平洋ビジネス情報 Vol.26,No.100",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260915/Rank4_中国で赤字企業が増える理由～選別の進展と前向きな赤字企業の存在：RIM 環太平洋ビジネス情報 Vol.26,No.100.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260915",
+      "rank": 5,
+      "title": "楽読 Vol.2224～過去最高益の更新が続く日本企業～「稼ぐ力」向上の背景と課題",
+      "source_url": "https://www.amova-am.com/files/market/rakuyomi/pdf/rakuyomi_vol-2224.pdf",
+      "source_file": "keizai-web/public/reports/20260915/Rank5_楽読 Vol.2224～過去最高益の更新が続く日本企業～「稼ぐ力」向上の背景と課題.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260915",
+      "rank": 6,
+      "title": "トランプ政権の相互関税による米中貿易構造の変化～関税政策の焦点は“Made in China” から“Made by China”：RIM 環太平洋ビジネス情報 Vol.26,No.100",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260915/Rank6_トランプ政権の相互関税による米中貿易構造の変化～関税政策の焦点は“Made in China” から“Made by China”：RIM 環太平洋ビジネス情報 Vol.26,No.100.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260914",
       "rank": 1,
