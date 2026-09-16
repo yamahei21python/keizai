@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260916",
     "20260915",
     "20260914",
     "20260913",
@@ -134,6 +135,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260916",
+      "rank": 1,
+      "title": "重要鉱物の対日輸出をほぼ停止する中国～中国からの製品輸入に頼らざるを得なくなることは回避する必要：Global Trends",
+      "source_url": "https://www.dlri.co.jp/files/macro/660290.pdf",
+      "source_file": "keizai-web/public/reports/20260916/Rank1_重要鉱物の対日輸出をほぼ停止する中国～中国からの製品輸入に頼らざるを得なくなることは回避する必要：Global Trends.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260916",
+      "rank": 2,
+      "title": "AIブームで、なぜ今「社債」なのか？ 巨額のAI投資が変える金利環境と、個人マネーの行方：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/660230.pdf",
+      "source_file": "keizai-web/public/reports/20260916/Rank2_AIブームで、なぜ今「社債」なのか？ 巨額のAI投資が変える金利環境と、個人マネーの行方：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260916",
+      "rank": 3,
+      "title": "「電力の時代」に向けて、わが国に求められる産業・エネルギー構造改革：リサーチ・アイ No.2026-053",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260916/Rank3_「電力の時代」に向けて、わが国に求められる産業・エネルギー構造改革：リサーチ・アイ No.2026-053.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260916",
+      "rank": 4,
+      "title": "岐路に立つ中国：「チャイナショック2.0」は解決できるか",
+      "source_url": "https://www.joi.or.jp/wp-content/uploads/2026/09/Mag_202609_13_seriesChinaTSU.pdf",
+      "source_file": "keizai-web/public/reports/20260916/Rank4_岐路に立つ中国：「チャイナショック2.0」は解決できるか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260916",
+      "rank": 5,
+      "title": "在職老齢年金の見直しでシニア就労は増えたか－65～69歳男性の制度改正直後の変化：基礎研レポート",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86839_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260916/Rank5_在職老齢年金の見直しでシニア就労は増えたか－65～69歳男性の制度改正直後の変化：基礎研レポート.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260916",
+      "rank": 6,
+      "title": "グローバル経済と主要産業の動向 2026年9月～トピックス：長期化する住宅市場の低迷 / 年金資金による円相場への影響は一時的...",
+      "source_url": "https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf?version=260915",
+      "source_file": "keizai-web/public/reports/20260916/Rank6_グローバル経済と主要産業の動向 2026年9月～トピックス：長期化する住宅市場の低迷  年金資金による円相場への影響は一時的....md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260915",
       "rank": 1,
