@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260917",
     "20260916",
     "20260915",
     "20260914",
@@ -135,6 +136,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260917",
+      "rank": 1,
+      "title": "図表でみる世界の財政状況～財政状況を概観する上で重要な３つの指標：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86862_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260917/Rank1_図表でみる世界の財政状況～財政状況を概観する上で重要な３つの指標：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260917",
+      "rank": 2,
+      "title": "AI変革を成功に導く指針",
+      "source_url": "https://www.mckinsey.com/jp/our-insights/the-ai-transformation-manifesto",
+      "source_file": "keizai-web/public/reports/20260917/Rank2_AI変革を成功に導く指針.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260917",
+      "rank": 3,
+      "title": "米国AI関連投資の持続性～拡大を支える要因とリスク～",
+      "source_url": "https://www.bk.mufg.jp/report/ecoinf2026/report_us_20260916.pdf",
+      "source_file": "keizai-web/public/reports/20260917/Rank3_米国AI関連投資の持続性～拡大を支える要因とリスク～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260917",
+      "rank": 4,
+      "title": "多角化は本当に「悪い戦略」なのか",
+      "source_url": "https://www.nomuraholdings.com/jp/services/global_research/zaikai/news20260916.html",
+      "source_file": "keizai-web/public/reports/20260917/Rank4_多角化は本当に「悪い戦略」なのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260917",
+      "rank": 5,
+      "title": "岐路に立つ円相場～円安・ドル高トレンドの転換のきっかけ...",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/09/804a72a2c54b3e3c010cf095ee7238dc.pdf",
+      "source_file": "keizai-web/public/reports/20260917/Rank5_岐路に立つ円相場～円安・ドル高トレンドの転換のきっかけ....md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260917",
+      "rank": 6,
+      "title": "戦後81年の世界地図とアジア",
+      "source_url": "https://www.itochu-research.com/ja/uploads/co20260916_2026-201_202609.pdf",
+      "source_file": "keizai-web/public/reports/20260917/Rank6_戦後81年の世界地図とアジア.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260916",
       "rank": 1,
