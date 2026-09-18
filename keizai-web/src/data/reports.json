@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260918",
     "20260917",
     "20260916",
     "20260915",
@@ -136,6 +137,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260918",
+      "rank": 1,
+      "title": "急増するAIデータセンターに伴う新たなエネルギー戦略（2026/9/17）",
+      "source_url": "https://journal.jogmec.go.jp/content/300803810.pdf",
+      "source_file": "keizai-web/public/reports/20260918/Rank1_急増するAIデータセンターに伴う新たなエネルギー戦略（2026917）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260918",
+      "rank": 2,
+      "title": "ホルムズ海峡閉鎖と複合供給危機～原油・LNG・肥料・ナフサを襲う物流混乱と日本の化学産業",
+      "source_url": "https://www.tbr.co.jp/info/article.html?contentId=jfpinzcy0",
+      "source_file": "keizai-web/public/reports/20260918/Rank2_ホルムズ海峡閉鎖と複合供給危機～原油・LNG・肥料・ナフサを襲う物流混乱と日本の化学産業.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260918",
+      "rank": 3,
+      "title": "技術革新と人類社会の未来 中間報告書～価値主導型イノベーション・ガバナンスに向けて～：経済産業省若手新政策プロジェクトPIVOT報告書",
+      "source_url": "https://www.meti.go.jp/files/000004772.pdf",
+      "source_file": "keizai-web/public/reports/20260918/Rank3_技術革新と人類社会の未来 中間報告書～価値主導型イノベーション・ガバナンスに向けて～：経済産業省若手新政策プロジェクトPIVOT報告書.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260918",
+      "rank": 4,
+      "title": "ウェルビーイング～成長を測る新たなものさし～",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/09/039a2fdaca9ea1657d2cbb87d942f4ee.pdf",
+      "source_file": "keizai-web/public/reports/20260918/Rank4_ウェルビーイング～成長を測る新たなものさし～.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260918",
+      "rank": 5,
+      "title": "日本経済見通し：2026年9月 「戦後最長」見込みの令和の景気拡大、その特徴と課題：日本",
+      "source_url": "https://www.dir.co.jp/report/research/economics/outlook/20260917_026071.pdf",
+      "source_file": "keizai-web/public/reports/20260918/Rank5_日本経済見通し：2026年9月 「戦後最長」見込みの令和の景気拡大、その特徴と課題：日本.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260918",
+      "rank": 6,
+      "title": "「資本コストや株価を意識した経営」要請から3年の現在地（前編）～PBR・ROEの変化と投資家が評価した会社の特徴：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/665828.pdf",
+      "source_file": "keizai-web/public/reports/20260918/Rank6_「資本コストや株価を意識した経営」要請から3年の現在地（前編）～PBR・ROEの変化と投資家が評価した会社の特徴：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260917",
       "rank": 1,
