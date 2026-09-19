@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260919",
     "20260918",
     "20260917",
     "20260916",
@@ -137,6 +138,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260919",
+      "rank": 1,
+      "title": "日本経済は金利上昇に耐えられるのか",
+      "source_url": "https://www.itochu-research.com/ja/column/2026/3380/",
+      "source_file": "keizai-web/public/reports/20260919/Rank1_日本経済は金利上昇に耐えられるのか.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260919",
+      "rank": 2,
+      "title": "インド・中国・ロシアからみたBRICS首脳会合",
+      "source_url": "https://www.scgr.co.jp/wp-content/uploads/2026/09/5304c789ea236b4cd710e050f73d216d.pdf",
+      "source_file": "keizai-web/public/reports/20260919/Rank2_インド・中国・ロシアからみたBRICS首脳会合.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260919",
+      "rank": 3,
+      "title": "地政学リスクの展望（2026年9月）",
+      "source_url": "https://www.murc.jp/wp-content/uploads/2026/09/report_260918_01.pdf",
+      "source_file": "keizai-web/public/reports/20260919/Rank3_地政学リスクの展望（2026年9月）.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260919",
+      "rank": 4,
+      "title": "AIをめぐる米中の競争と協調～現状を理解するための五つの問い：Economist Column No.2026-062",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260919/Rank4_AIをめぐる米中の競争と協調～現状を理解するための五つの問い：Economist Column No.2026-062.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260919",
+      "rank": 5,
+      "title": "Overview：金利上昇が問う財政への信認",
+      "source_url": "https://www.dir.co.jp/report/research/economics/outlook/20260918_026076.pdf",
+      "source_file": "keizai-web/public/reports/20260919/Rank5_Overview：金利上昇が問う財政への信認.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260919",
+      "rank": 6,
+      "title": "株価：今は屈伸運動の「下」か ＰＥＲは低下しＥＰＳは伸びた：経済の舞台裏",
+      "source_url": "https://www.dlri.co.jp/files/macro/665897.pdf",
+      "source_file": "keizai-web/public/reports/20260919/Rank6_株価：今は屈伸運動の「下」か ＰＥＲは低下しＥＰＳは伸びた：経済の舞台裏.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260918",
       "rank": 1,
