@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260921",
     "20260920",
     "20260919",
     "20260918",
@@ -139,6 +140,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260921",
+      "rank": 1,
+      "title": "日本：消費者物価指数（2026年8月）～コメ価格下落等を背景に2%割れも、一部に価格転嫁進展の兆し：MRIデイリー・エコノミック・ポイント",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/dep/2026/0918.html",
+      "source_file": "keizai-web/public/reports/20260921/Rank1_日本：消費者物価指数（2026年8月）～コメ価格下落等を背景に2%割れも、一部に価格転嫁進展の兆し：MRIデイリー・エコノミック・ポイント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260921",
+      "rank": 2,
+      "title": "ＪＩＣＡＢｉｚの活用で飛躍を図る中小企業（６）～株式会社シンメイ（東京都中央区）の挑戦：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260918-jicabiz6-1.html",
+      "source_file": "keizai-web/public/reports/20260921/Rank2_ＪＩＣＡＢｉｚの活用で飛躍を図る中小企業（６）～株式会社シンメイ（東京都中央区）の挑戦：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260921",
+      "rank": 3,
+      "title": "消費者物価指数2025年基準改定の影響～CPI基準改定の影響は軽微、年後半にコアCPIは２％台後半まで高まる見込み：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260918-2025-cpicpi2.html",
+      "source_file": "keizai-web/public/reports/20260921/Rank3_消費者物価指数2025年基準改定の影響～CPI基準改定の影響は軽微、年後半にコアCPIは２％台後半まで高まる見込み：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260921",
+      "rank": 4,
+      "title": "コロンビア：概況表",
+      "source_url": "https://www.jcif.or.jp/taisyokoku_4.pdf",
+      "source_file": "keizai-web/public/reports/20260921/Rank4_コロンビア：概況表.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260921",
+      "rank": 5,
+      "title": "統計トピックスNo.149　統計からみた我が国の高齢者－「敬老の日」にちなんで－ 65歳以上人口は3624万人と前年に比べ2万人の増加。総人口に占める割合は29.6％と過去最高",
+      "source_url": "https://members.ip-api.com/",
+      "source_file": "keizai-web/public/reports/20260921/Rank5_統計トピックスNo.149　統計からみた我が国の高齢者－「敬老の日」にちなんで－ 65歳以上人口は3624万人と前年に比べ2万人の増加。総人口に占める割合は29.6％と過去最高.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260921",
+      "rank": 6,
+      "title": "金利が上がっても不動産価格は下がらないのか？～需要制約と供給制約が交錯する不動産市場：My Opinion",
+      "source_url": "https://www.dlri.co.jp/files/asset/665885.pdf",
+      "source_file": "keizai-web/public/reports/20260921/Rank6_金利が上がっても不動産価格は下がらないのか？～需要制約と供給制約が交錯する不動産市場：My Opinion.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260920",
       "rank": 1,
