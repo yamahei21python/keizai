@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260923",
     "20260922",
     "20260921",
     "20260920",
@@ -141,6 +142,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260923",
+      "rank": 1,
+      "title": "日本：消費者物価指数（2026年8月）～コメ価格下落等を背景に2%割れも、一部に価格転嫁進展の兆し：MRIデイリー・エコノミック・ポイント",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/dep/2026/0918.html",
+      "source_file": "keizai-web/public/reports/20260923/Rank1_日本：消費者物価指数（2026年8月）～コメ価格下落等を背景に2%割れも、一部に価格転嫁進展の兆し：MRIデイリー・エコノミック・ポイント.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260923",
+      "rank": 2,
+      "title": "コロンビア：概況表",
+      "source_url": "https://www.jcif.or.jp/taisyokoku_4.pdf",
+      "source_file": "keizai-web/public/reports/20260923/Rank2_コロンビア：概況表.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260923",
+      "rank": 3,
+      "title": "ＪＩＣＡＢｉｚの活用で飛躍を図る中小企業（６）～株式会社シンメイ（東京都中央区）の挑戦：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260918-jicabiz6-1.html",
+      "source_file": "keizai-web/public/reports/20260923/Rank3_ＪＩＣＡＢｉｚの活用で飛躍を図る中小企業（６）～株式会社シンメイ（東京都中央区）の挑戦：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260923",
+      "rank": 4,
+      "title": "消費者物価指数2025年基準改定の影響～CPI基準改定の影響は軽微、年後半にコアCPIは２％台後半まで高まる見込み：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260918-2025-cpicpi2.html",
+      "source_file": "keizai-web/public/reports/20260923/Rank4_消費者物価指数2025年基準改定の影響～CPI基準改定の影響は軽微、年後半にコアCPIは２％台後半まで高まる見込み：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260923",
+      "rank": 5,
+      "title": "主要国経済Outlook 2026年10月号（No.479）～経済見通し：世界、日本、米国、欧州：経済予測",
+      "source_url": "https://www.dir.co.jp/report/research/economics/outlook/20260918_026080.pdf",
+      "source_file": "keizai-web/public/reports/20260923/Rank5_主要国経済Outlook 2026年10月号（No.479）～経済見通し：世界、日本、米国、欧州：経済予測.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260923",
+      "rank": 6,
+      "title": "巻頭言：デザインは、間を繋ぐこと。 グラフィックデザイナー 佐藤卓",
+      "source_url": "https://www.mof.go.jp/public_relations/finance/202609/pdf/202609b.pdf",
+      "source_file": "keizai-web/public/reports/20260923/Rank6_巻頭言：デザインは、間を繋ぐこと。 グラフィックデザイナー 佐藤卓.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260922",
       "rank": 1,
