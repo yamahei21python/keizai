@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260925",
     "20260924",
     "20260923",
     "20260922",
@@ -143,6 +144,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260925",
+      "rank": 1,
+      "title": "なぜお店で威張ろうとする人が存在するのか～カスタマーハラスメントはなぜ生まれるのか：基礎研レター",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=684408&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260925/Rank1_なぜお店で威張ろうとする人が存在するのか～カスタマーハラスメントはなぜ生まれるのか：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260925",
+      "rank": 2,
+      "title": "米国は「世界の戦略工場」になれるか～供給網の急所に潜む事業機会",
+      "source_url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2026/09/24/2609_fujishiro.pdf",
+      "source_file": "keizai-web/public/reports/20260925/Rank2_米国は「世界の戦略工場」になれるか～供給網の急所に潜む事業機会.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260925",
+      "rank": 3,
+      "title": "【提言】人口減少時代の地域レジリエンス～政策シミュレーションから見える、小規模自治体が「賢く縮む」ための必要条件：エコノミックインサイト",
+      "source_url": "https://www.mri.co.jp/knowledge/insight/policy/20260924.html",
+      "source_file": "keizai-web/public/reports/20260925/Rank3_【提言】人口減少時代の地域レジリエンス～政策シミュレーションから見える、小規模自治体が「賢く縮む」ための必要条件：エコノミックインサイト.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260925",
+      "rank": 4,
+      "title": "「渋谷の若者離れ」は本当か？　人流データが示す「二つの渋谷」～若者は西に、大人は東に ― 再開発で出現した「オトナ渋谷」の存在感",
+      "source_url": "https://www.tdb.co.jp/report/economic/20260921-jinryusyaryu_no04/",
+      "source_file": "keizai-web/public/reports/20260925/Rank4_「渋谷の若者離れ」は本当か？　人流データが示す「二つの渋谷」～若者は西に、大人は東に ― 再開発で出現した「オトナ渋谷」の存在感.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260925",
+      "rank": 5,
+      "title": "中東情勢影響の現在地 ～供給制約と価格上昇の企業への影響：今月のトピックスNo.448",
+      "source_url": "https://www.dbj.jp/investigate/assets/2609241000.pdf",
+      "source_file": "keizai-web/public/reports/20260925/Rank5_中東情勢影響の現在地 ～供給制約と価格上昇の企業への影響：今月のトピックスNo.448.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260925",
+      "rank": 6,
+      "title": "過去最高額となった家計金融資産とその変化～株価上昇を背景に「貯蓄から投資へ」は進展、金利のある世界で定期預金・債券への資金流入も増加：リサーチ・アイ No.2026-054",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260925/Rank6_過去最高額となった家計金融資産とその変化～株価上昇を背景に「貯蓄から投資へ」は進展、金利のある世界で定期預金・債券への資金流入も増加：リサーチ・アイ No.2026-054.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260924",
       "rank": 1,
