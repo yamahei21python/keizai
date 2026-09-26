@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260926",
     "20260925",
     "20260924",
     "20260923",
@@ -144,6 +145,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260926",
+      "rank": 1,
+      "title": "本格的に到来する「金利のある世界」～わが国家計・企業・政府への影響点検：リサーチ・フォーカス No.2026-045",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260926/Rank1_本格的に到来する「金利のある世界」～わが国家計・企業・政府への影響点検：リサーチ・フォーカス No.2026-045.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260926",
+      "rank": 2,
+      "title": "なぜ米国のガソリン・ディーゼル価格が高騰しているのか～原油高だけでなく、製油業者のマージン確保や税制改正も背景：リサーチ・アイ No.2026-055",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260926/Rank2_なぜ米国のガソリン・ディーゼル価格が高騰しているのか～原油高だけでなく、製油業者のマージン確保や税制改正も背景：リサーチ・アイ No.2026-055.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260926",
+      "rank": 3,
+      "title": "〔論稿〕AIバブルは『必然』なのか：証券レビュー",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=684656&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260926/Rank3_〔論稿〕AIバブルは『必然』なのか：証券レビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260926",
+      "rank": 4,
+      "title": "米長期金利５％突破の意味と日本への波及：Special Report",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/sp_260925_01.pdf",
+      "source_file": "keizai-web/public/reports/20260926/Rank4_米長期金利５％突破の意味と日本への波及：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260926",
+      "rank": 5,
+      "title": "重要物資の供給制約と輸入調達構造の変化",
+      "source_url": "https://www.boj.or.jp/research/wps_rev/wps_2026/data/wp26j11.pdf",
+      "source_file": "keizai-web/public/reports/20260926/Rank5_重要物資の供給制約と輸入調達構造の変化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260926",
+      "rank": 6,
+      "title": "日本の長期金利3％で、AI株は下がるのか～高金利が迫る、AI株の選別：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/666028.pdf",
+      "source_file": "keizai-web/public/reports/20260926/Rank6_日本の長期金利3％で、AI株は下がるのか～高金利が迫る、AI株の選別：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260925",
       "rank": 1,
