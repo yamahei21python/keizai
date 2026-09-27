@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260927",
     "20260926",
     "20260925",
     "20260924",
@@ -145,6 +146,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260927",
+      "rank": 1,
+      "title": "米長期金利５％突破の意味と日本への波及：Special Report",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/sp_260925_01.pdf",
+      "source_file": "keizai-web/public/reports/20260927/Rank1_米長期金利５％突破の意味と日本への波及：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260927",
+      "rank": 2,
+      "title": "2026年8月度 一橋大学・大東建託CPI方式家賃指数＜全国 / 東京23区 / 都道府県別＞～全国で前年同月比+1.12pt(前月比+0.09pt)、2018年12月以降93ヶ月連続で上昇。",
+      "source_url": "https://www.kentaku.co.jp/miraiken/rentindex/indexdata/202608.pdf",
+      "source_file": "keizai-web/public/reports/20260927/Rank2_2026年8月度 一橋大学・大東建託CPI方式家賃指数＜全国  東京23区  都道府県別＞～全国で前年同月比+1.12pt(前月比+0.09pt)、2018年12月以降93ヶ月連続で上昇。.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260927",
+      "rank": 3,
+      "title": "中国経済の現状と見通し～下押し圧力が残る中、サービス消費に対する支援策の効果に注目：ニュース＆トピックス",
+      "source_url": "https://www.scbri.jp/reports/newstopics/20260925-post-685.html",
+      "source_file": "keizai-web/public/reports/20260927/Rank3_中国経済の現状と見通し～下押し圧力が残る中、サービス消費に対する支援策の効果に注目：ニュース＆トピックス.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260927",
+      "rank": 4,
+      "title": "人口減少時代におけるコンパクトシティの意義と課題：アナリストの眼",
+      "source_url": "https://www.fukoku-life.co.jp/about/ir/economy/upload/analyst_VOL399.pdf",
+      "source_file": "keizai-web/public/reports/20260927/Rank4_人口減少時代におけるコンパクトシティの意義と課題：アナリストの眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260927",
+      "rank": 5,
+      "title": "東南アジア経済の見通し～AI・半導体関連需要が成長を下支えも、物価高と高金利が重石：Weekly エコノミスト・レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86887_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260927/Rank5_東南アジア経済の見通し～AI・半導体関連需要が成長を下支えも、物価高と高金利が重石：Weekly エコノミスト・レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260927",
+      "rank": 6,
+      "title": "本格的に到来する「金利のある世界」～わが国家計・企業・政府への影響点検：リサーチ・フォーカス No.2026-045",
+      "source_url": "https://www.jri.co.jp/file/pdf/company/companyprofile/202506.pdf",
+      "source_file": "keizai-web/public/reports/20260927/Rank6_本格的に到来する「金利のある世界」～わが国家計・企業・政府への影響点検：リサーチ・フォーカス No.2026-045.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260926",
       "rank": 1,
