@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260928",
     "20260927",
     "20260926",
     "20260925",
@@ -146,6 +147,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260928",
+      "rank": 1,
+      "title": "米長期金利５％突破の意味と日本への波及：Special Report",
+      "source_url": "https://www.sonyfg.co.jp/ja/market_report/pdf/sp_260925_01.pdf",
+      "source_file": "keizai-web/public/reports/20260928/Rank1_米長期金利５％突破の意味と日本への波及：Special Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260928",
+      "rank": 2,
+      "title": "〔論稿〕AIバブルは『必然』なのか：証券レビュー",
+      "source_url": "https://www.jsri.or.jp/publication/periodical/review/6609_03/",
+      "source_file": "keizai-web/public/reports/20260928/Rank2_〔論稿〕AIバブルは『必然』なのか：証券レビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260928",
+      "rank": 3,
+      "title": "人口減少時代におけるコンパクトシティの意義と課題：アナリストの眼",
+      "source_url": "https://www.fukoku-life.co.jp/about/ir/economy/upload/analyst_VOL399.pdf",
+      "source_file": "keizai-web/public/reports/20260928/Rank3_人口減少時代におけるコンパクトシティの意義と課題：アナリストの眼.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260928",
+      "rank": 4,
+      "title": "重要物資の供給制約と輸入調達構造の変化",
+      "source_url": "http://www3.keizaireport.com/jump.php?RID=684689&key=5655555555555&dj=1",
+      "source_file": "keizai-web/public/reports/20260928/Rank4_重要物資の供給制約と輸入調達構造の変化.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260928",
+      "rank": 5,
+      "title": "プライベートクレジットファンドの拡大と多様化について：日銀レビュー",
+      "source_url": "https://www.boj.or.jp/research/wps_rev/rev_2026/data/rev26j12.pdf",
+      "source_file": "keizai-web/public/reports/20260928/Rank5_プライベートクレジットファンドの拡大と多様化について：日銀レビュー.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260928",
+      "rank": 6,
+      "title": "日本の長期金利3％で、AI株は下がるのか～高金利が迫る、AI株の選別：Research Report",
+      "source_url": "https://www.dlri.co.jp/files/asset/666028.pdf",
+      "source_file": "keizai-web/public/reports/20260928/Rank6_日本の長期金利3％で、AI株は下がるのか～高金利が迫る、AI株の選別：Research Report.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260927",
       "rank": 1,
