@@ -1,5 +1,6 @@
 {
   "dates": [
+    "20260929",
     "20260928",
     "20260927",
     "20260926",
@@ -147,6 +148,60 @@
     "20260406"
   ],
   "reports": [
+    {
+      "date": "20260929",
+      "rank": 1,
+      "title": "成長戦略の本質的な限界：門間一夫の経済深読み",
+      "source_url": "https://www.mizuhobank.co.jp/corporate/mhri/research/executive/pdf/km_c260925.pdf",
+      "source_file": "keizai-web/public/reports/20260929/Rank1_成長戦略の本質的な限界：門間一夫の経済深読み.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260929",
+      "rank": 2,
+      "title": "負ければ地獄、勝っても地獄 ～ トランプ大統領に下される審判",
+      "source_url": "https://www.dir.co.jp/report/column/20260928_012487.html",
+      "source_file": "keizai-web/public/reports/20260929/Rank2_負ければ地獄、勝っても地獄 ～ トランプ大統領に下される審判.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260929",
+      "rank": 3,
+      "title": "ワシントンでの米中首脳会談～習近平氏が得たもの",
+      "source_url": "https://www.itochu-research.com/ja/uploads/co20260928_2026-005_CHINA_202609.pdf",
+      "source_file": "keizai-web/public/reports/20260929/Rank3_ワシントンでの米中首脳会談～習近平氏が得たもの.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260929",
+      "rank": 4,
+      "title": "インフレ局面で個人消費を支えた資産効果～先行きは所得効果の発現が鍵：経済の動き",
+      "source_url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/174_1.pdf",
+      "source_file": "keizai-web/public/reports/20260929/Rank4_インフレ局面で個人消費を支えた資産効果～先行きは所得効果の発現が鍵：経済の動き.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260929",
+      "rank": 5,
+      "title": "「今日の一万人」と失われる共通言語～「みんなが知っている」が成立しない社会：基礎研レター",
+      "source_url": "https://www.nli-research.co.jp/files/topics/86906_ext_18_0.pdf?site=nli",
+      "source_file": "keizai-web/public/reports/20260929/Rank5_「今日の一万人」と失われる共通言語～「みんなが知っている」が成立しない社会：基礎研レター.md",
+      "summary_file": null,
+      "status": "processing"
+    },
+    {
+      "date": "20260929",
+      "rank": 6,
+      "title": "昇進とは誰が決めるものか～本人意思を起点とする昇進は機能するのか：Works Report 2026",
+      "source_url": "https://www.works-i.com/research/report/item/opt-in_promotion_report.pdf",
+      "source_file": "keizai-web/public/reports/20260929/Rank6_昇進とは誰が決めるものか～本人意思を起点とする昇進は機能するのか：Works Report 2026.md",
+      "summary_file": null,
+      "status": "processing"
+    },
     {
       "date": "20260928",
       "rank": 1,
